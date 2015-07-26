@@ -1,0 +1,1066 @@
+Diagnosis;E01
+Delayed Diagnosis;E01.110
+Diagnosis, Computer-Assisted;E01.158
+Image Interpretation, Computer-Assisted;E01.158.600
+Neuronavigation;E01.158.600.339
+Radiographic Image Interpretation, Computer-Assisted;E01.158.600.680
+Diagnosis, Differential;E01.171
+Diagnosis, Dual (Psychiatry);E01.190
+Diagnostic Errors;E01.354
+False Negative Reactions;E01.354.340
+False Positive Reactions;E01.354.506
+Observer Variation;E01.354.753
+Diagnostic Techniques and Procedures;E01.370
+Age Determination by Skeleton;E01.370.049
+Autopsy;E01.370.060
+Breath Tests;E01.370.100
+Clinical Laboratory Techniques;E01.370.225
+Clinical Chemistry Tests;E01.370.225.124
+Blood Chemical Analysis;E01.370.225.124.100
+Blood Gas Analysis;E01.370.225.124.100.100
+Oximetry;E01.370.225.124.100.100.600
+Blood Gas Monitoring, Transcutaneous;E01.370.225.124.100.100.600.100
+Blood Glucose Self-Monitoring;E01.370.225.124.100.105
+Blood Protein Electrophoresis;E01.370.225.124.100.110
+Blood Urea Nitrogen;E01.370.225.124.100.115
+Dried Blood Spot Testing;E01.370.225.124.100.232
+Glucose Clamp Technique;E01.370.225.124.100.350
+Glucose Tolerance Test;E01.370.225.124.100.355
+Lactose Tolerance Test;E01.370.225.124.100.450
+Petrosal Sinus Sampling;E01.370.225.124.100.600
+Clinical Enzyme Tests;E01.370.225.124.200
+Esophageal pH Monitoring;E01.370.225.124.210
+Gastric Acidity Determination;E01.370.225.124.300
+Limulus Test;E01.370.225.124.470
+Urinalysis;E01.370.225.124.810
+Cytological Techniques;E01.370.225.500
+Cell Count;E01.370.225.500.195
+Blood Cell Count;E01.370.225.500.195.107
+Erythrocyte Count;E01.370.225.500.195.107.330
+Reticulocyte Count;E01.370.225.500.195.107.330.725
+Leukocyte Count;E01.370.225.500.195.107.595
+Lymphocyte Count;E01.370.225.500.195.107.595.500
+CD4 Lymphocyte Count;E01.370.225.500.195.107.595.500.150
+CD4-CD8 Ratio;E01.370.225.500.195.107.595.500.150.160
+Platelet Count;E01.370.225.500.195.107.740
+Sperm Count;E01.370.225.500.195.870
+Cell Culture Techniques;E01.370.225.500.223
+Primary Cell Culture;E01.370.225.500.223.500
+Cell Migration Assays;E01.370.225.500.335
+Cell Migration Assays, Leukocyte;E01.370.225.500.335.500
+Cell Migration Assays, Macrophage;E01.370.225.500.335.750
+Skin Window Technique;E01.370.225.500.335.875
+Cell Separation;E01.370.225.500.363
+Flow Cytometry;E01.370.225.500.363.342
+Cell Tracking;E01.370.225.500.373
+Colony-Forming Units Assay;E01.370.225.500.383
+Tumor Stem Cell Assay;E01.370.225.500.383.910
+Cytodiagnosis;E01.370.225.500.384
+Amniocentesis;E01.370.225.500.384.050
+Biopsy;E01.370.225.500.384.100
+Biopsy, Needle;E01.370.225.500.384.100.119
+Biopsy, Fine-Needle;E01.370.225.500.384.100.119.500
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.225.500.384.100.119.500.500
+Biopsy, Large-Core Needle;E01.370.225.500.384.100.119.750
+Chorionic Villi Sampling;E01.370.225.500.384.100.149
+Conization;E01.370.225.500.384.100.160
+Image-Guided Biopsy;E01.370.225.500.384.100.370
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.225.500.384.100.370.500
+Papanicolaou Test;E01.370.225.500.384.100.422
+Sentinel Lymph Node Biopsy;E01.370.225.500.384.100.580
+Vaginal Smears;E01.370.225.500.384.100.800
+Chorionic Villi Sampling;E01.370.225.500.384.150
+Cytopathogenic Effect, Viral;E01.370.225.500.384.235
+Karyometry;E01.370.225.500.384.617
+Cytogenetic Analysis;E01.370.225.500.385
+Chromosome Banding;E01.370.225.500.385.130
+Karyotyping;E01.370.225.500.385.315
+Spectral Karyotyping;E01.370.225.500.385.315.800
+Mitotic Index;E01.370.225.500.385.500
+Cytophotometry;E01.370.225.500.386
+Flow Cytometry;E01.370.225.500.386.350
+Image Cytometry;E01.370.225.500.386.400
+Laser Scanning Cytometry;E01.370.225.500.386.400.500
+Drug Screening Assays, Antitumor;E01.370.225.500.388
+Tumor Stem Cell Assay;E01.370.225.500.388.930
+Enzyme-Linked Immunospot Assay;E01.370.225.500.508
+Histocytochemistry;E01.370.225.500.607
+Immunohistochemistry;E01.370.225.500.607.512
+Fluorescent Antibody Technique;E01.370.225.500.607.512.240
+Antibody-Coated Bacteria Test, Urinary;E01.370.225.500.607.512.240.149
+Fluorescent Antibody Technique, Direct;E01.370.225.500.607.512.240.300
+Fluorescent Antibody Technique, Indirect;E01.370.225.500.607.512.240.310
+Periodic Acid-Schiff Reaction;E01.370.225.500.607.790
+Prussian Blue Reaction;E01.370.225.500.607.810
+Histocytological Preparation Techniques;E01.370.225.500.620
+Microdissection;E01.370.225.500.620.520
+Microtomy;E01.370.225.500.620.530
+Cryoultramicrotomy;E01.370.225.500.620.530.160
+Frozen Sections;E01.370.225.500.620.530.160.260
+Replica Techniques;E01.370.225.500.620.620
+Corrosion Casting;E01.370.225.500.620.620.150
+Freeze Fracturing;E01.370.225.500.620.620.260
+Freeze Etching;E01.370.225.500.620.620.260.400
+Staining and Labeling;E01.370.225.500.620.670
+Chromosome Banding;E01.370.225.500.620.670.130
+In Situ Hybridization;E01.370.225.500.620.670.325
+In Situ Hybridization, Fluorescence;E01.370.225.500.620.670.325.350
+Chromosome Painting;E01.370.225.500.620.670.325.350.125
+Primed In Situ Labeling;E01.370.225.500.620.670.325.680
+Negative Staining;E01.370.225.500.620.670.520
+Neuroanatomical Tract-Tracing Techniques;E01.370.225.500.620.670.570
+Prussian Blue Reaction;E01.370.225.500.620.670.660
+Shadowing (Histology);E01.370.225.500.620.670.770
+Silver Staining;E01.370.225.500.620.670.780
+Tissue Embedding;E01.370.225.500.620.720
+Paraffin Embedding;E01.370.225.500.620.720.610
+Plastic Embedding;E01.370.225.500.620.720.640
+Tissue Preservation;E01.370.225.500.620.760
+Cryopreservation;E01.370.225.500.620.760.160
+Freeze Drying;E01.370.225.500.620.760.160.260
+Freeze Substitution;E01.370.225.500.620.760.160.260.270
+Tissue Fixation;E01.370.225.500.620.760.720
+Metabolic Flux Analysis;E01.370.225.500.810
+Genetic Testing;E01.370.225.562
+Hematologic Tests;E01.370.225.625
+Blood Cell Count;E01.370.225.625.107
+Erythrocyte Count;E01.370.225.625.107.330
+Reticulocyte Count;E01.370.225.625.107.330.725
+Leukocyte Count;E01.370.225.625.107.595
+Lymphocyte Count;E01.370.225.625.107.595.500
+CD4 Lymphocyte Count;E01.370.225.625.107.595.500.150
+CD4-CD8 Ratio;E01.370.225.625.107.595.500.150.160
+Platelet Count;E01.370.225.625.107.700
+Blood Coagulation Tests;E01.370.225.625.115
+International Normalized Ratio;E01.370.225.625.115.320
+Partial Thromboplastin Time;E01.370.225.625.115.600
+Prothrombin Time;E01.370.225.625.115.610
+Thrombelastography;E01.370.225.625.115.830
+Thrombin Time;E01.370.225.625.115.870
+Whole Blood Coagulation Time;E01.370.225.625.115.950
+Blood Grouping and Crossmatching;E01.370.225.625.120
+Blood Sedimentation;E01.370.225.625.125
+Bone Marrow Examination;E01.370.225.625.135
+Erythrocyte Aggregation;E01.370.225.625.225
+Erythrocyte Indices;E01.370.225.625.230
+Fibrin Clot Lysis Time;E01.370.225.625.265
+FIGLU Test;E01.370.225.625.300
+Hematocrit;E01.370.225.625.400
+Hemoglobinometry;E01.370.225.625.410
+Osmotic Fragility;E01.370.225.625.550
+Platelet Function Tests;E01.370.225.625.625
+Bleeding Time;E01.370.225.625.625.100
+Clot Retraction;E01.370.225.625.625.160
+Mean Platelet Volume;E01.370.225.625.625.392
+Platelet Count;E01.370.225.625.625.625
+Schilling Test;E01.370.225.625.750
+Histological Techniques;E01.370.225.750
+Autoradiography;E01.370.225.750.132
+Decalcification Technique;E01.370.225.750.288
+Histocytochemistry;E01.370.225.750.551
+Immunohistochemistry;E01.370.225.750.551.512
+Fluorescent Antibody Technique;E01.370.225.750.551.512.240
+Antibody-Coated Bacteria Test, Urinary;E01.370.225.750.551.512.240.149
+Fluorescent Antibody Technique, Direct;E01.370.225.750.551.512.240.300
+Fluorescent Antibody Technique, Indirect;E01.370.225.750.551.512.240.310
+Periodic Acid-Schiff Reaction;E01.370.225.750.551.790
+Prussian Blue Reaction;E01.370.225.750.551.810
+Histocytological Preparation Techniques;E01.370.225.750.600
+Microdissection;E01.370.225.750.600.520
+Microtomy;E01.370.225.750.600.530
+Cryoultramicrotomy;E01.370.225.750.600.530.160
+Frozen Sections;E01.370.225.750.600.530.160.260
+Replica Techniques;E01.370.225.750.600.620
+Corrosion Casting;E01.370.225.750.600.620.150
+Freeze Fracturing;E01.370.225.750.600.620.260
+Freeze Etching;E01.370.225.750.600.620.260.400
+Staining and Labeling;E01.370.225.750.600.670
+Chromosome Banding;E01.370.225.750.600.670.130
+In Situ Hybridization;E01.370.225.750.600.670.325
+In Situ Hybridization, Fluorescence;E01.370.225.750.600.670.325.350
+Chromosome Painting;E01.370.225.750.600.670.325.350.125
+Primed In Situ Labeling;E01.370.225.750.600.670.325.680
+Negative Staining;E01.370.225.750.600.670.520
+Neuroanatomical Tract-Tracing Techniques;E01.370.225.750.600.670.570
+Prussian Blue Reaction;E01.370.225.750.600.670.660
+Shadowing (Histology);E01.370.225.750.600.670.770
+Silver Staining;E01.370.225.750.600.670.780
+Tissue Embedding;E01.370.225.750.600.720
+Paraffin Embedding;E01.370.225.750.600.720.610
+Plastic Embedding;E01.370.225.750.600.720.640
+Tissue Preservation;E01.370.225.750.600.760
+Cryopreservation;E01.370.225.750.600.760.160
+Freeze Drying;E01.370.225.750.600.760.160.260
+Freeze Substitution;E01.370.225.750.600.760.160.260.270
+Tissue Fixation;E01.370.225.750.600.760.720
+Immunologic Tests;E01.370.225.812
+Antibody-Coated Bacteria Test, Urinary;E01.370.225.812.049
+Basophil Degranulation Test;E01.370.225.812.100
+Cell Migration Assays;E01.370.225.812.125
+Cell Migration Assays, Leukocyte;E01.370.225.812.125.500
+Cell Migration Assays, Macrophage;E01.370.225.812.125.750
+Skin Window Technique;E01.370.225.812.125.875
+Cytotoxicity Tests, Immunologic;E01.370.225.812.160
+Complement Hemolytic Activity Assay;E01.370.225.812.160.155
+Hemolytic Plaque Technique;E01.370.225.812.375
+Histocompatibility Testing;E01.370.225.812.385
+Blood Grouping and Crossmatching;E01.370.225.812.385.120
+Lymphocyte Culture Test, Mixed;E01.370.225.812.385.475
+Immune Adherence Reaction;E01.370.225.812.400
+Immunophenotyping;E01.370.225.812.447
+Interferon-gamma Release Tests;E01.370.225.812.453
+Leukocyte Adherence Inhibition Test;E01.370.225.812.460
+Lymphocyte Activation;E01.370.225.812.482
+Monitoring, Immunologic;E01.370.225.812.505
+Pregnancy Tests, Immunologic;E01.370.225.812.620
+Rosette Formation;E01.370.225.812.706
+Serologic Tests;E01.370.225.812.735
+Agglutination Tests;E01.370.225.812.735.050
+Hemagglutination Tests;E01.370.225.812.735.050.375
+Coombs Test;E01.370.225.812.735.050.375.150
+Latex Fixation Tests;E01.370.225.812.735.050.450
+AIDS Serodiagnosis;E01.370.225.812.735.060
+Complement Fixation Tests;E01.370.225.812.735.150
+Complement Hemolytic Activity Assay;E01.370.225.812.735.155
+Hemadsorption Inhibition Tests;E01.370.225.812.735.360
+Hemagglutination Inhibition Tests;E01.370.225.812.735.370
+Neutralization Tests;E01.370.225.812.735.550
+Precipitin Tests;E01.370.225.812.735.645
+Flocculation Tests;E01.370.225.812.735.645.300
+Immunodiffusion;E01.370.225.812.735.645.350
+Immunoelectrophoresis;E01.370.225.812.735.645.350.350
+Counterimmunoelectrophoresis;E01.370.225.812.735.645.350.350.150
+Immunoelectrophoresis, Two-Dimensional;E01.370.225.812.735.645.350.350.350
+Radioallergosorbent Test;E01.370.225.812.735.830
+Radioimmunoprecipitation Assay;E01.370.225.812.735.840
+Serum Bactericidal Antibody Assay;E01.370.225.812.735.845
+Syphilis Serodiagnosis;E01.370.225.812.735.850
+Fluorescent Treponemal Antibody-Absorption Test;E01.370.225.812.735.850.200
+Treponema Immobilization Test;E01.370.225.812.735.850.800
+Serotyping;E01.370.225.812.742
+Skin Tests;E01.370.225.812.871
+Intradermal Tests;E01.370.225.812.871.300
+Kveim Test;E01.370.225.812.871.300.540
+Skin Test End-Point Titration;E01.370.225.812.871.300.750
+Local Lymph Node Assay;E01.370.225.812.871.450
+Passive Cutaneous Anaphylaxis;E01.370.225.812.871.600
+Patch Tests;E01.370.225.812.871.610
+Skin Window Technique;E01.370.225.812.871.705
+Tuberculin Test;E01.370.225.812.871.800
+Metabolic Clearance Rate;E01.370.225.843
+Microbiological Techniques;E01.370.225.875
+Axenic Culture;E01.370.225.875.074
+Bacteriological Techniques;E01.370.225.875.150
+Bacterial Load;E01.370.225.875.150.115
+Bacterial Typing Techniques;E01.370.225.875.150.125
+Bacteriophage Typing;E01.370.225.875.150.125.150
+Molecular Typing;E01.370.225.875.150.125.457
+Multilocus Sequence Typing;E01.370.225.875.150.125.457.500
+Ribotyping;E01.370.225.875.150.125.765
+Serotyping;E01.370.225.875.150.125.890
+Limulus Test;E01.370.225.875.150.570
+Colony Count, Microbial;E01.370.225.875.220
+Bacterial Load;E01.370.225.875.220.115
+Microbial Sensitivity Tests;E01.370.225.875.595
+Disk Diffusion Antimicrobial Tests;E01.370.225.875.595.399
+Serum Bactericidal Test;E01.370.225.875.595.800
+Mycological Typing Techniques;E01.370.225.875.610
+Serial Passage;E01.370.225.875.837
+Viral Load;E01.370.225.875.950
+Virus Cultivation;E01.370.225.875.970
+Viral Plaque Assay;E01.370.225.875.970.790
+Virus Inactivation;E01.370.225.875.977
+Xenodiagnosis;E01.370.225.875.985
+Molecular Diagnostic Techniques;E01.370.225.880
+Human Papillomavirus DNA Tests;E01.370.225.880.500
+Neonatal Screening;E01.370.225.910
+Occult Blood;E01.370.225.925
+Parasite Load;E01.370.225.932
+Parasite Egg Count;E01.370.225.932.600
+Parasitic Sensitivity Tests;E01.370.225.940
+Pregnancy Tests;E01.370.225.970
+Pregnancy Tests, Immunologic;E01.370.225.970.620
+Radioligand Assay;E01.370.225.985
+Semen Analysis;E01.370.225.992
+Sperm Count;E01.370.225.992.624
+Sperm Motility;E01.370.225.992.812
+Sex Determination Analysis;E01.370.225.996
+Specimen Handling;E01.370.225.998
+Biopsy;E01.370.225.998.054
+Biopsy, Needle;E01.370.225.998.054.119
+Biopsy, Fine-Needle;E01.370.225.998.054.119.500
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.225.998.054.119.500.500
+Biopsy, Large-Core Needle;E01.370.225.998.054.119.750
+Chorionic Villi Sampling;E01.370.225.998.054.149
+Conization;E01.370.225.998.054.160
+Image-Guided Biopsy;E01.370.225.998.054.370
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.225.998.054.370.500
+Papanicolaou Test;E01.370.225.998.054.422
+Sentinel Lymph Node Biopsy;E01.370.225.998.054.580
+Spinal Puncture;E01.370.225.998.054.790
+Vaginal Smears;E01.370.225.998.054.800
+Blood Specimen Collection;E01.370.225.998.110
+Cordocentesis;E01.370.225.998.110.150
+Petrosal Sinus Sampling;E01.370.225.998.110.600
+Phlebotomy;E01.370.225.998.110.625
+Dissection;E01.370.225.998.221
+Microdissection;E01.370.225.998.221.580
+Laser Capture Microdissection;E01.370.225.998.221.580.500
+DNA Contamination;E01.370.225.998.293
+Paracentesis;E01.370.225.998.329
+Amniocentesis;E01.370.225.998.329.309
+Pericardiocentesis;E01.370.225.998.329.620
+Urine Specimen Collection;E01.370.225.998.762
+Diagnostic Imaging;E01.370.350
+Cardiac Imaging Techniques;E01.370.350.130
+Angiocardiography;E01.370.350.130.249
+Cardiac-Gated Imaging Techniques;E01.370.350.130.500
+Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography;E01.370.350.130.500.500
+Gated Blood-Pool Imaging;E01.370.350.130.500.750
+Coronary Angiography;E01.370.350.130.625
+Echocardiography;E01.370.350.130.750
+Echocardiography, Doppler;E01.370.350.130.750.220
+Echocardiography, Doppler, Color;E01.370.350.130.750.220.220
+Echocardiography, Doppler, Pulsed;E01.370.350.130.750.220.225
+Echocardiography, Stress;E01.370.350.130.750.228
+Echocardiography, Three-Dimensional;E01.370.350.130.750.230
+Echocardiography, Four-Dimensional;E01.370.350.130.750.230.230
+Echocardiography, Transesophageal;E01.370.350.130.750.235
+Myocardial Perfusion Imaging;E01.370.350.130.875
+Radionuclide Ventriculography;E01.370.350.130.937
+Gated Blood-Pool Imaging;E01.370.350.130.937.350
+Ventriculography, First-Pass;E01.370.350.130.937.950
+Image Interpretation, Computer-Assisted;E01.370.350.350
+Neuronavigation;E01.370.350.350.349
+Radiographic Image Interpretation, Computer-Assisted;E01.370.350.350.700
+Tomography, Emission-Computed;E01.370.350.350.800
+Positron-Emission Tomography;E01.370.350.350.800.700
+Tomography, Emission-Computed, Single-Photon;E01.370.350.350.800.800
+Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography;E01.370.350.350.800.800.500
+Tomography, X-Ray Computed;E01.370.350.350.810
+Colonography, Computed Tomographic;E01.370.350.350.810.180
+Four-Dimensional Computed Tomography;E01.370.350.350.810.490
+Tomography, Spiral Computed;E01.370.350.350.810.800
+Multidetector Computed Tomography;E01.370.350.350.810.800.500
+Imaging, Three-Dimensional;E01.370.350.400
+Echocardiography, Three-Dimensional;E01.370.350.400.200
+Echocardiography, Four-Dimensional;E01.370.350.400.200.230
+Four-Dimensional Computed Tomography;E01.370.350.400.350
+Holography;E01.370.350.400.500
+Microscopy;E01.370.350.515
+Dermoscopy;E01.370.350.515.184
+Microscopy, Acoustic;E01.370.350.515.370
+Microscopy, Confocal;E01.370.350.515.395
+Laser Scanning Cytometry;E01.370.350.515.395.500
+Microscopy, Electron;E01.370.350.515.402
+Cryoelectron Microscopy;E01.370.350.515.402.150
+Electron Probe Microanalysis;E01.370.350.515.402.250
+Microscopy, Electron, Scanning;E01.370.350.515.402.541
+Microscopy, Electron, Transmission;E01.370.350.515.402.580
+Microscopy, Electron, Scanning Transmission;E01.370.350.515.402.580.480
+Microscopy, Energy-Filtering Transmission Electron;E01.370.350.515.402.580.500
+Microscopy, Immunoelectron;E01.370.350.515.402.625
+Microscopy, Fluorescence;E01.370.350.515.458
+Microscopy, Fluorescence, Multiphoton;E01.370.350.515.458.500
+Microscopy, Interference;E01.370.350.515.513
+Microscopy, Phase-Contrast;E01.370.350.515.513.569
+Microscopy, Polarization;E01.370.350.515.624
+Microscopy, Scanning Probe;E01.370.350.515.666
+Microscopy, Atomic Force;E01.370.350.515.666.400
+Microscopy, Electrochemical, Scanning;E01.370.350.515.666.450
+Microscopy, Scanning Tunneling;E01.370.350.515.666.500
+Microscopy, Ultraviolet;E01.370.350.515.680
+Microscopy, Video;E01.370.350.515.690
+Nuclear Microscopy;E01.370.350.515.744
+Photomicrography;E01.370.350.515.799
+Molecular Imaging;E01.370.350.557
+Cell Tracking;E01.370.350.557.500
+Multimodal Imaging;E01.370.350.567
+Neuroimaging;E01.370.350.578
+Diffusion Tensor Imaging;E01.370.350.578.750
+Functional Neuroimaging;E01.370.350.578.875
+Brain Mapping;E01.370.350.578.875.500
+Connectome;E01.370.350.578.875.500.249
+Neuroradiography;E01.370.350.578.937
+Cerebral Angiography;E01.370.350.578.937.180
+Cerebral Ventriculography;E01.370.350.578.937.190
+Echoencephalography;E01.370.350.578.937.260
+Ultrasonography, Doppler, Transcranial;E01.370.350.578.937.260.850
+Myelography;E01.370.350.578.937.505
+Pneumoencephalography;E01.370.350.578.937.620
+Optical Imaging;E01.370.350.589
+Narrow Band Imaging;E01.370.350.589.124
+Tomography, Optical;E01.370.350.589.249
+Tomography, Optical Coherence;E01.370.350.589.249.500
+Transillumination;E01.370.350.589.500
+Photography;E01.370.350.600
+Holography;E01.370.350.600.300
+Image Enhancement;E01.370.350.600.350
+Radiographic Image Enhancement;E01.370.350.600.350.700
+Angiography, Digital Subtraction;E01.370.350.600.350.700.060
+Radiography, Dental, Digital;E01.370.350.600.350.700.690
+Radiography, Dual-Energy Scanned Projection;E01.370.350.600.350.700.700
+Tomography, X-Ray Computed;E01.370.350.600.350.700.810
+Colonography, Computed Tomographic;E01.370.350.600.350.700.810.180
+Tomography, Spiral Computed;E01.370.350.600.350.700.810.800
+Multidetector Computed Tomography;E01.370.350.600.350.700.810.800.500
+Tomography, Emission-Computed;E01.370.350.600.350.800
+Positron-Emission Tomography;E01.370.350.600.350.800.399
+Tomography, Emission-Computed, Single-Photon;E01.370.350.600.350.800.800
+Photofluorography;E01.370.350.600.625
+Photogrammetry;E01.370.350.600.630
+Moire Topography;E01.370.350.600.630.500
+Radiostereometric Analysis;E01.370.350.600.630.750
+Photography, Dental;E01.370.350.600.631
+Photomicrography;E01.370.350.600.635
+Time-Lapse Imaging;E01.370.350.600.817
+Radiography;E01.370.350.700
+Absorptiometry, Photon;E01.370.350.700.024
+Age Determination by Skeleton;E01.370.350.700.050
+Angiography;E01.370.350.700.060
+Angiocardiography;E01.370.350.700.060.050
+Angiography, Digital Subtraction;E01.370.350.700.060.060
+Aortography;E01.370.350.700.060.070
+Cerebral Angiography;E01.370.350.700.060.180
+Cineangiography;E01.370.350.700.060.190
+Coronary Angiography;E01.370.350.700.060.200
+Phlebography;E01.370.350.700.060.600
+Portography;E01.370.350.700.060.610
+Arthrography;E01.370.350.700.070
+Cineradiography;E01.370.350.700.150
+Cineangiography;E01.370.350.700.150.190
+Electrokymography;E01.370.350.700.200
+Fluoroscopy;E01.370.350.700.225
+Photofluorography;E01.370.350.700.225.625
+Hysterosalpingography;E01.370.350.700.325
+Lymphography;E01.370.350.700.475
+Mammography;E01.370.350.700.500
+Xeromammography;E01.370.350.700.500.975
+Microradiography;E01.370.350.700.510
+Neuroradiography;E01.370.350.700.560
+Cerebral Angiography;E01.370.350.700.560.180
+Cerebral Ventriculography;E01.370.350.700.560.190
+Echoencephalography;E01.370.350.700.560.260
+Ultrasonography, Doppler, Transcranial;E01.370.350.700.560.260.850
+Myelography;E01.370.350.700.560.505
+Pneumoencephalography;E01.370.350.700.560.620
+Pneumoradiography;E01.370.350.700.625
+Pneumoencephalography;E01.370.350.700.625.620
+Radiographic Image Enhancement;E01.370.350.700.700
+Angiography, Digital Subtraction;E01.370.350.700.700.060
+Radiography, Dental, Digital;E01.370.350.700.700.690
+Radiography, Dual-Energy Scanned Projection;E01.370.350.700.700.700
+Tomography, X-Ray Computed;E01.370.350.700.700.810
+Colonography, Computed Tomographic;E01.370.350.700.700.810.180
+Four-Dimensional Computed Tomography;E01.370.350.700.700.810.490
+Tomography, Spiral Computed;E01.370.350.700.700.810.800
+Multidetector Computed Tomography;E01.370.350.700.700.810.800.500
+Radiographic Image Interpretation, Computer-Assisted;E01.370.350.700.705
+Radiographic Magnification;E01.370.350.700.710
+Radiography, Abdominal;E01.370.350.700.715
+Cholangiography;E01.370.350.700.715.200
+Cholangiopancreatography, Endoscopic Retrograde;E01.370.350.700.715.200.200
+Cholecystography;E01.370.350.700.715.210
+Defecography;E01.370.350.700.715.250
+Portography;E01.370.350.700.715.610
+Radiography, Dental;E01.370.350.700.720
+Age Determination by Teeth;E01.370.350.700.720.050
+Radiography, Bitewing;E01.370.350.700.720.700
+Radiography, Dental, Digital;E01.370.350.700.720.720
+Radiography, Panoramic;E01.370.350.700.720.750
+Sialography;E01.370.350.700.720.793
+Radiography, Interventional;E01.370.350.700.725
+Radiography, Thoracic;E01.370.350.700.730
+Bronchography;E01.370.350.700.730.100
+Mass Chest X-Ray;E01.370.350.700.730.500
+Radiostereometric Analysis;E01.370.350.700.750
+Sex Determination by Skeleton;E01.370.350.700.770
+Tomography, X-Ray;E01.370.350.700.810
+Tomography, X-Ray Computed;E01.370.350.700.810.810
+Colonography, Computed Tomographic;E01.370.350.700.810.810.180
+Cone-Beam Computed Tomography;E01.370.350.700.810.810.490
+Spiral Cone-Beam Computed Tomography;E01.370.350.700.810.810.490.500
+Four-Dimensional Computed Tomography;E01.370.350.700.810.810.645
+Tomography, Spiral Computed;E01.370.350.700.810.810.800
+Multidetector Computed Tomography;E01.370.350.700.810.810.800.249
+Spiral Cone-Beam Computed Tomography;E01.370.350.700.810.810.800.500
+X-Ray Microtomography;E01.370.350.700.810.810.900
+Urography;E01.370.350.700.830
+Xeroradiography;E01.370.350.700.975
+Xeromammography;E01.370.350.700.975.975
+Radionuclide Imaging;E01.370.350.710
+Lymphoscintigraphy;E01.370.350.710.299
+Perfusion Imaging;E01.370.350.710.600
+Myocardial Perfusion Imaging;E01.370.350.710.600.500
+Radioimmunodetection;E01.370.350.710.710
+Radionuclide Angiography;E01.370.350.710.715
+Radioisotope Renography;E01.370.350.710.715.700
+Radionuclide Ventriculography;E01.370.350.710.715.710
+Gated Blood-Pool Imaging;E01.370.350.710.715.710.350
+Ventriculography, First-Pass;E01.370.350.710.715.710.950
+Tomography, Emission-Computed;E01.370.350.710.800
+Positron-Emission Tomography;E01.370.350.710.800.399
+Tomography, Emission-Computed, Single-Photon;E01.370.350.710.800.800
+Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography;E01.370.350.710.800.800.500
+Respiratory-Gated Imaging Techniques;E01.370.350.730
+Spectroscopy, Near-Infrared;E01.370.350.750
+Stroboscopy;E01.370.350.755
+Subtraction Technique;E01.370.350.760
+Angiography, Digital Subtraction;E01.370.350.760.060
+Radiography, Dual-Energy Scanned Projection;E01.370.350.760.700
+Terahertz Imaging;E01.370.350.780
+Thermography;E01.370.350.800
+Tomography;E01.370.350.825
+Electron Microscope Tomography;E01.370.350.825.249
+Magnetic Resonance Imaging;E01.370.350.825.500
+Cholangiopancreatography, Magnetic Resonance;E01.370.350.825.500.100
+Diffusion Magnetic Resonance Imaging;E01.370.350.825.500.150
+Echo-Planar Imaging;E01.370.350.825.500.200
+Fluorine-19 Magnetic Resonance Imaging;E01.370.350.825.500.350
+Magnetic Resonance Angiography;E01.370.350.825.500.500
+Magnetic Resonance Imaging, Cine;E01.370.350.825.500.510
+Tomography, Emission-Computed;E01.370.350.825.800
+Positron-Emission Tomography;E01.370.350.825.800.399
+Tomography, Emission-Computed, Single-Photon;E01.370.350.825.800.800
+Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography;E01.370.350.825.800.800.500
+Tomography, Optical;E01.370.350.825.805
+Tomography, Optical Coherence;E01.370.350.825.805.500
+Tomography, X-Ray;E01.370.350.825.810
+Tomography, X-Ray Computed;E01.370.350.825.810.810
+Cone-Beam Computed Tomography;E01.370.350.825.810.810.399
+Spiral Cone-Beam Computed Tomography;E01.370.350.825.810.810.399.500
+Four-Dimensional Computed Tomography;E01.370.350.825.810.810.599
+Tomography, Spiral Computed;E01.370.350.825.810.810.800
+Multidetector Computed Tomography;E01.370.350.825.810.810.800.249
+Spiral Cone-Beam Computed Tomography;E01.370.350.825.810.810.800.500
+X-Ray Microtomography;E01.370.350.825.810.810.900
+Ultrasonography;E01.370.350.850
+Carotid Intima-Media Thickness;E01.370.350.850.150
+Echocardiography;E01.370.350.850.220
+Echocardiography, Doppler;E01.370.350.850.220.220
+Echocardiography, Doppler, Color;E01.370.350.850.220.220.220
+Echocardiography, Doppler, Pulsed;E01.370.350.850.220.220.225
+Echocardiography, Stress;E01.370.350.850.220.228
+Echocardiography, Three-Dimensional;E01.370.350.850.220.230
+Echocardiography, Four-Dimensional;E01.370.350.850.220.230.230
+Echocardiography, Transesophageal;E01.370.350.850.220.235
+Echoencephalography;E01.370.350.850.260
+Ultrasonography, Doppler, Transcranial;E01.370.350.850.260.850
+Elasticity Imaging Techniques;E01.370.350.850.270
+Endosonography;E01.370.350.850.280
+Microscopy, Acoustic;E01.370.350.850.565
+Ultrasonography, Doppler;E01.370.350.850.850
+Echocardiography, Doppler;E01.370.350.850.850.220
+Echocardiography, Doppler, Color;E01.370.350.850.850.220.220
+Echocardiography, Doppler, Pulsed;E01.370.350.850.850.220.225
+Ultrasonography, Doppler, Duplex;E01.370.350.850.850.850
+Ultrasonography, Doppler, Color;E01.370.350.850.850.850.850
+Echocardiography, Doppler, Color;E01.370.350.850.850.850.850.220
+Ultrasonography, Doppler, Pulsed;E01.370.350.850.850.860
+Echocardiography, Doppler, Pulsed;E01.370.350.850.850.860.225
+Ultrasonography, Doppler, Transcranial;E01.370.350.850.850.870
+Ultrasonography, Interventional;E01.370.350.850.855
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.350.850.855.500
+Ultrasonography, Mammary;E01.370.350.850.860
+Ultrasonography, Prenatal;E01.370.350.850.865
+Cervical Length Measurement;E01.370.350.850.865.249
+Nuchal Translucency Measurement;E01.370.350.850.865.500
+Voltage-Sensitive Dye Imaging;E01.370.350.887
+Whole Body Imaging;E01.370.350.925
+Diagnostic Self Evaluation;E01.370.360
+Diagnostic Techniques, Cardiovascular;E01.370.370
+Angiography;E01.370.370.050
+Angiocardiography;E01.370.370.050.050
+Angiography, Digital Subtraction;E01.370.370.050.060
+Aortography;E01.370.370.050.070
+Cerebral Angiography;E01.370.370.050.180
+Cineangiography;E01.370.370.050.190
+Coronary Angiography;E01.370.370.050.200
+Fluorescein Angiography;E01.370.370.050.350
+Magnetic Resonance Angiography;E01.370.370.050.500
+Phlebography;E01.370.370.050.600
+Portography;E01.370.370.050.610
+Radionuclide Angiography;E01.370.370.050.650
+Radionuclide Ventriculography;E01.370.370.050.650.650
+Gated Blood-Pool Imaging;E01.370.370.050.650.650.350
+Ventriculography, First-Pass;E01.370.370.050.650.650.950
+Angioscopy;E01.370.370.065
+Blood Circulation Time;E01.370.370.120
+Blood Flow Velocity;E01.370.370.130
+Blood Pressure Determination;E01.370.370.140
+Ankle Brachial Index;E01.370.370.140.049
+Blood Pressure Monitoring, Ambulatory;E01.370.370.140.100
+Blood Volume Determination;E01.370.370.150
+Capillary Fragility;E01.370.370.170
+Carotid Intima-Media Thickness;E01.370.370.180
+Heart Function Tests;E01.370.370.380
+Angiocardiography;E01.370.370.380.050
+Ballistocardiography;E01.370.370.380.100
+Cardiac Catheterization;E01.370.370.380.140
+Catheterization, Swan-Ganz;E01.370.370.380.140.210
+Cardiac Output;E01.370.370.380.150
+Stroke Volume;E01.370.370.380.150.700
+Cardiography, Impedance;E01.370.370.380.160
+Cardiotocography;E01.370.370.380.170
+Coronary Angiography;E01.370.370.380.200
+Echocardiography;E01.370.370.380.220
+Echocardiography, Doppler;E01.370.370.380.220.220
+Echocardiography, Doppler, Color;E01.370.370.380.220.220.220
+Echocardiography, Doppler, Pulsed;E01.370.370.380.220.220.225
+Echocardiography, Stress;E01.370.370.380.220.228
+Echocardiography, Three-Dimensional;E01.370.370.380.220.230
+Echocardiography, Four-Dimensional;E01.370.370.380.220.230.230
+Echocardiography, Transesophageal;E01.370.370.380.220.235
+Electrocardiography;E01.370.370.380.240
+Body Surface Potential Mapping;E01.370.370.380.240.100
+Electrocardiography, Ambulatory;E01.370.370.380.240.230
+Vectorcardiography;E01.370.370.380.240.850
+Body Surface Potential Mapping;E01.370.370.380.240.850.100
+Electrophysiologic Techniques, Cardiac;E01.370.370.380.245
+Epicardial Mapping;E01.370.370.380.245.500
+Exercise Test;E01.370.370.380.250
+Heart Auscultation;E01.370.370.380.400
+Phonocardiography;E01.370.370.380.400.500
+Kinetocardiography;E01.370.370.380.450
+Magnetocardiography;E01.370.370.380.487
+Myocardial Perfusion Imaging;E01.370.370.380.500
+Oximetry;E01.370.370.380.600
+Blood Gas Monitoring, Transcutaneous;E01.370.370.380.600.100
+Pulse;E01.370.370.380.650
+Radionuclide Ventriculography;E01.370.370.380.710
+Gated Blood-Pool Imaging;E01.370.370.380.710.350
+Ventriculography, First-Pass;E01.370.370.380.710.950
+Valsalva Maneuver;E01.370.370.380.950
+Laser-Doppler Flowmetry;E01.370.370.475
+Microscopic Angioscopy;E01.370.370.560
+Plethysmography;E01.370.370.610
+Photoplethysmography;E01.370.370.610.600
+Plethysmography, Impedance;E01.370.370.610.610
+Cardiography, Impedance;E01.370.370.610.610.200
+Pulse Wave Analysis;E01.370.370.680
+Tilt-Table Test;E01.370.370.750
+Diagnostic Techniques, Digestive System;E01.370.372
+Cholangiography;E01.370.372.200
+Cholangiopancreatography, Endoscopic Retrograde;E01.370.372.200.200
+Cholangiopancreatography, Magnetic Resonance;E01.370.372.207
+Cholecystography;E01.370.372.210
+Colonography, Computed Tomographic;E01.370.372.230
+Endoscopy, Digestive System;E01.370.372.250
+Cholangiopancreatography, Endoscopic Retrograde;E01.370.372.250.200
+Endoscopy, Gastrointestinal;E01.370.372.250.250
+Colonoscopy;E01.370.372.250.250.200
+Sigmoidoscopy;E01.370.372.250.250.200.700
+Duodenoscopy;E01.370.372.250.250.225
+Esophagoscopy;E01.370.372.250.250.275
+Gastroscopy;E01.370.372.250.250.325
+Proctoscopy;E01.370.372.250.250.600
+Esophageal pH Monitoring;E01.370.372.255
+Gastric Acidity Determination;E01.370.372.300
+Gastrointestinal Transit;E01.370.372.310
+Lactose Tolerance Test;E01.370.372.450
+Liver Function Tests;E01.370.372.460
+Pancreatic Function Tests;E01.370.372.600
+Portography;E01.370.372.610
+Sialography;E01.370.372.700
+Diagnostic Techniques, Endocrine;E01.370.374
+Adrenal Cortex Function Tests;E01.370.374.050
+Blood Glucose Self-Monitoring;E01.370.374.100
+Glucose Tolerance Test;E01.370.374.355
+Ovarian Function Tests;E01.370.374.530
+Pituitary-Adrenal Function Tests;E01.370.374.600
+Pituitary Function Tests;E01.370.374.605
+Radioligand Assay;E01.370.374.650
+Thyroid Function Tests;E01.370.374.750
+Basal Metabolism;E01.370.374.750.100
+Diagnostic Techniques, Neurological;E01.370.376
+Electroencephalography;E01.370.376.300
+Brain Waves;E01.370.376.300.150
+Alpha Rhythm;E01.370.376.300.150.374
+Beta Rhythm;E01.370.376.300.150.750
+Delta Rhythm;E01.370.376.300.150.875
+Gamma Rhythm;E01.370.376.300.150.906
+Theta Rhythm;E01.370.376.300.150.937
+Electroencephalography Phase Synchronization;E01.370.376.300.437
+Cortical Synchronization;E01.370.376.300.437.500
+Magnetoencephalography;E01.370.376.500
+Neuroendoscopy;E01.370.376.525
+Neuroimaging;E01.370.376.537
+Diffusion Tensor Imaging;E01.370.376.537.500
+Functional Neuroimaging;E01.370.376.537.625
+Brain Mapping;E01.370.376.537.625.500
+Connectome;E01.370.376.537.625.500.249
+Neuroradiography;E01.370.376.537.750
+Cerebral Angiography;E01.370.376.537.750.180
+Cerebral Ventriculography;E01.370.376.537.750.190
+Echoencephalography;E01.370.376.537.750.260
+Ultrasonography, Doppler, Transcranial;E01.370.376.537.750.260.850
+Myelography;E01.370.376.537.750.505
+Pneumoencephalography;E01.370.376.537.750.620
+Neurologic Examination;E01.370.376.550
+Reflex;E01.370.376.550.650
+Diving Reflex;E01.370.376.550.650.324
+Reflex, Abdominal;E01.370.376.550.650.650
+Reflex, Abnormal;E01.370.376.550.650.655
+Reflex, Acoustic;E01.370.376.550.650.670
+Reflex, Babinski;E01.370.376.550.650.680
+Reflex, Pupillary;E01.370.376.550.650.690
+Reflex, Righting;E01.370.376.550.650.695
+Reflex, Stretch;E01.370.376.550.650.700
+Reflex, Startle;E01.370.376.550.650.800
+Olfactometry;E01.370.376.625
+Spinal Puncture;E01.370.376.700
+Diagnostic Techniques, Obstetrical and Gynecological;E01.370.378
+Colposcopy;E01.370.378.150
+Culdoscopy;E01.370.378.155
+Fallopian Tube Patency Tests;E01.370.378.225
+Fetal Monitoring;E01.370.378.230
+Cardiotocography;E01.370.378.230.150
+Hysterosalpingography;E01.370.378.325
+Hysteroscopy;E01.370.378.330
+Ovarian Function Tests;E01.370.378.530
+Ovulation Detection;E01.370.378.530.550
+Ovulation Prediction;E01.370.378.530.775
+Pelvimetry;E01.370.378.605
+Placental Function Tests;E01.370.378.610
+Pregnancy Tests;E01.370.378.620
+Pregnancy Tests, Immunologic;E01.370.378.620.620
+Preimplantation Diagnosis;E01.370.378.625
+Prenatal Diagnosis;E01.370.378.630
+Amniocentesis;E01.370.378.630.050
+Chorionic Villi Sampling;E01.370.378.630.150
+Fetoscopy;E01.370.378.630.300
+Maternal Serum Screening Tests;E01.370.378.630.582
+Ultrasonography, Prenatal;E01.370.378.630.865
+Cervical Length Measurement;E01.370.378.630.865.249
+Nuchal Translucency Measurement;E01.370.378.630.865.500
+Ultrasonography, Mammary;E01.370.378.850
+Uterine Monitoring;E01.370.378.860
+Vaginal Smears;E01.370.378.900
+Diagnostic Techniques, Ophthalmological;E01.370.380
+Aberrometry;E01.370.380.074
+Corneal Pachymetry;E01.370.380.112
+Corneal Topography;E01.370.380.150
+Electroretinography;E01.370.380.225
+Eye Movement Measurements;E01.370.380.230
+Electronystagmography;E01.370.380.230.280
+Electrooculography;E01.370.380.230.285
+Flicker Fusion;E01.370.380.245
+Fluorescein Angiography;E01.370.380.250
+Fluorophotometry;E01.370.380.255
+Gonioscopy;E01.370.380.300
+Ophthalmodynamometry;E01.370.380.550
+Ophthalmoscopy;E01.370.380.560
+Retinoscopy;E01.370.380.560.500
+Scanning Laser Polarimetry;E01.370.380.655
+Slit Lamp;E01.370.380.703
+Tonometry, Ocular;E01.370.380.750
+Vision Tests;E01.370.380.850
+Color Perception Tests;E01.370.380.850.150
+Refraction, Ocular;E01.370.380.850.700
+Vision Screening;E01.370.380.850.900
+Visual Acuity;E01.370.380.850.950
+Contrast Sensitivity;E01.370.380.850.950.500
+Emmetropia;E01.370.380.850.950.750
+Visual Field Tests;E01.370.380.850.962
+Diagnostic Techniques, Otological;E01.370.382
+Hearing Tests;E01.370.382.375
+Acoustic Impedance Tests;E01.370.382.375.050
+Audiometry;E01.370.382.375.060
+Audiometry, Evoked Response;E01.370.382.375.060.050
+Audiometry, Pure-Tone;E01.370.382.375.060.055
+Audiometry, Speech;E01.370.382.375.060.060
+Speech Discrimination Tests;E01.370.382.375.060.060.750
+Speech Reception Threshold Test;E01.370.382.375.060.060.760
+Psychoacoustics;E01.370.382.375.060.530
+Dichotic Listening Tests;E01.370.382.375.200
+Recruitment Detection, Audiologic;E01.370.382.375.650
+Otoscopy;E01.370.382.637
+Vestibular Function Tests;E01.370.382.900
+Caloric Tests;E01.370.382.900.150
+Electronystagmography;E01.370.382.900.280
+Head Impulse Test;E01.370.382.900.640
+Diagnostic Techniques, Radioisotope;E01.370.384
+Radioimmunoassay;E01.370.384.700
+Radioisotope Dilution Technique;E01.370.384.710
+Radioligand Assay;E01.370.384.720
+Radionuclide Imaging;E01.370.384.730
+Lymphoscintigraphy;E01.370.384.730.176
+Perfusion Imaging;E01.370.384.730.354
+Myocardial Perfusion Imaging;E01.370.384.730.354.500
+Radioimmunodetection;E01.370.384.730.710
+Radionuclide Angiography;E01.370.384.730.715
+Radioisotope Renography;E01.370.384.730.715.700
+Radionuclide Ventriculography;E01.370.384.730.715.710
+Gated Blood-Pool Imaging;E01.370.384.730.715.710.350
+Ventriculography, First-Pass;E01.370.384.730.715.710.950
+Tomography, Emission-Computed;E01.370.384.730.800
+Positron-Emission Tomography;E01.370.384.730.800.399
+Tomography, Emission-Computed, Single-Photon;E01.370.384.730.800.800
+Cardiac-Gated Single-Photon Emission Computer-Assisted Tomography;E01.370.384.730.800.800.500
+Schilling Test;E01.370.384.750
+Diagnostic Techniques, Respiratory System;E01.370.386
+Bronchography;E01.370.386.100
+Bronchoscopy;E01.370.386.105
+Laryngoscopy;E01.370.386.460
+Mass Chest X-Ray;E01.370.386.500
+Mucociliary Clearance;E01.370.386.520
+Nasal Provocation Tests;E01.370.386.550
+Respiratory Function Tests;E01.370.386.700
+Airway Resistance;E01.370.386.700.050
+Blood Gas Analysis;E01.370.386.700.100
+Oximetry;E01.370.386.700.100.600
+Blood Gas Monitoring, Transcutaneous;E01.370.386.700.100.600.100
+Bronchial Provocation Tests;E01.370.386.700.125
+Capnography;E01.370.386.700.150
+Exercise Test;E01.370.386.700.250
+Lung Compliance;E01.370.386.700.475
+Lung Volume Measurements;E01.370.386.700.485
+Total Lung Capacity;E01.370.386.700.485.750
+Closing Volume;E01.370.386.700.485.750.150
+Functional Residual Capacity;E01.370.386.700.485.750.275
+Expiratory Reserve Volume;E01.370.386.700.485.750.275.260
+Residual Volume;E01.370.386.700.485.750.275.650
+Vital Capacity;E01.370.386.700.485.750.900
+Expiratory Reserve Volume;E01.370.386.700.485.750.900.260
+Inspiratory Capacity;E01.370.386.700.485.750.900.350
+Inspiratory Reserve Volume;E01.370.386.700.485.750.900.350.350
+Tidal Volume;E01.370.386.700.485.750.900.350.750
+Plethysmography, Whole Body;E01.370.386.700.615
+Pulmonary Gas Exchange;E01.370.386.700.650
+Pulmonary Diffusing Capacity;E01.370.386.700.650.650
+Ventilation-Perfusion Ratio;E01.370.386.700.650.900
+Pulmonary Ventilation;E01.370.386.700.660
+Forced Expiratory Flow Rates;E01.370.386.700.660.225
+Maximal Expiratory Flow Rate;E01.370.386.700.660.225.500
+Maximal Expiratory Flow-Volume Curves;E01.370.386.700.660.225.505
+Maximal Midexpiratory Flow Rate;E01.370.386.700.660.225.510
+Peak Expiratory Flow Rate;E01.370.386.700.660.225.600
+Forced Expiratory Volume;E01.370.386.700.660.230
+Maximal Voluntary Ventilation;E01.370.386.700.660.500
+Spirometry;E01.370.386.700.750
+Bronchospirometry;E01.370.386.700.750.100
+Valsalva Maneuver;E01.370.386.700.950
+Work of Breathing;E01.370.386.700.975
+Respiratory Sounds;E01.370.386.720
+Respiratory-Gated Imaging Techniques;E01.370.386.730
+Rhinomanometry;E01.370.386.740
+Rhinometry, Acoustic;E01.370.386.870
+Diagnostic Techniques, Surgical;E01.370.388
+Biopsy;E01.370.388.100
+Biopsy, Needle;E01.370.388.100.100
+Biopsy, Fine-Needle;E01.370.388.100.100.500
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.388.100.100.500.500
+Biopsy, Large-Core Needle;E01.370.388.100.100.750
+Chorionic Villi Sampling;E01.370.388.100.150
+Conization;E01.370.388.100.160
+Image-Guided Biopsy;E01.370.388.100.370
+Endoscopic Ultrasound-Guided Fine Needle Aspiration;E01.370.388.100.370.500
+Sentinel Lymph Node Biopsy;E01.370.388.100.580
+Endoscopy;E01.370.388.250
+Angioscopy;E01.370.388.250.035
+Arthroscopy;E01.370.388.250.070
+Bronchoscopy;E01.370.388.250.100
+Colposcopy;E01.370.388.250.150
+Culdoscopy;E01.370.388.250.160
+Cystoscopy;E01.370.388.250.180
+Endoscopy, Digestive System;E01.370.388.250.250
+Cholangiopancreatography, Endoscopic Retrograde;E01.370.388.250.250.160
+Endoscopy, Gastrointestinal;E01.370.388.250.250.250
+Capsule Endoscopy;E01.370.388.250.250.250.140
+Colonoscopy;E01.370.388.250.250.250.160
+Sigmoidoscopy;E01.370.388.250.250.250.160.800
+Double-Balloon Enteroscopy;E01.370.388.250.250.250.180
+Duodenoscopy;E01.370.388.250.250.250.200
+Esophagoscopy;E01.370.388.250.250.250.260
+Gastroscopy;E01.370.388.250.250.250.320
+Proctoscopy;E01.370.388.250.250.250.680
+Fetoscopy;E01.370.388.250.280
+Hysteroscopy;E01.370.388.250.360
+Laparoscopy;E01.370.388.250.520
+Hand-Assisted Laparoscopy;E01.370.388.250.520.500
+Laryngoscopy;E01.370.388.250.525
+Mediastinoscopy;E01.370.388.250.560
+Natural Orifice Endoscopic Surgery;E01.370.388.250.630
+Neuroendoscopy;E01.370.388.250.700
+Thoracoscopy;E01.370.388.250.840
+Thoracic Surgery, Video-Assisted;E01.370.388.250.840.830
+Ureteroscopy;E01.370.388.250.920
+Video-Assisted Surgery;E01.370.388.250.950
+Thoracic Surgery, Video-Assisted;E01.370.388.250.950.830
+Pneumomediastinum, Diagnostic;E01.370.388.600
+Pneumoperitoneum, Artificial;E01.370.388.605
+Diagnostic Techniques, Urological;E01.370.390
+Antibody-Coated Bacteria Test, Urinary;E01.370.390.050
+Cystoscopy;E01.370.390.175
+Kidney Function Tests;E01.370.390.400
+Blood Urea Nitrogen;E01.370.390.400.100
+Glomerular Filtration Rate;E01.370.390.400.300
+Radioisotope Renography;E01.370.390.400.700
+Nephrostomy, Percutaneous;E01.370.390.550
+Ureteroscopy;E01.370.390.800
+Urinalysis;E01.370.390.810
+Urinary Catheterization;E01.370.390.820
+Urography;E01.370.390.830
+Diagnostic Tests, Routine;E01.370.395
+Disability Evaluation;E01.370.400
+Work Capacity Evaluation;E01.370.400.925
+Electrodiagnosis;E01.370.405
+Electrocardiography;E01.370.405.240
+Body Surface Potential Mapping;E01.370.405.240.100
+Electrocardiography, Ambulatory;E01.370.405.240.230
+Vectorcardiography;E01.370.405.240.850
+Body Surface Potential Mapping;E01.370.405.240.850.100
+Electroencephalography;E01.370.405.245
+Brain Waves;E01.370.405.245.287
+Alpha Rhythm;E01.370.405.245.287.374
+Beta Rhythm;E01.370.405.245.287.750
+Delta Rhythm;E01.370.405.245.287.875
+Gamma Rhythm;E01.370.405.245.287.906
+Theta Rhythm;E01.370.405.245.287.937
+Electroencephalography Phase Synchronization;E01.370.405.245.575
+Cortical Synchronization;E01.370.405.245.575.500
+Electrokymography;E01.370.405.250
+Electromyography;E01.370.405.255
+Electronystagmography;E01.370.405.260
+Electrooculography;E01.370.405.265
+Electrophysiologic Techniques, Cardiac;E01.370.405.267
+Electroretinography;E01.370.405.270
+Magnetocardiography;E01.370.405.435
+Magnetoencephalography;E01.370.405.440
+Plethysmography, Impedance;E01.370.405.610
+Insufflation;E01.370.450
+Kymography;E01.370.475
+Electrokymography;E01.370.475.200
+Mass Screening;E01.370.500
+Anonymous Testing;E01.370.500.174
+Mass Chest X-Ray;E01.370.500.500
+Multiphasic Screening;E01.370.500.540
+Neonatal Screening;E01.370.500.580
+Medical History Taking;E01.370.510
+Cornell Medical Index;E01.370.510.150
+Reproductive History;E01.370.510.700
+Monitoring, Physiologic;E01.370.520
+Actigraphy;E01.370.520.049
+Blood Glucose Self-Monitoring;E01.370.520.100
+Drug Monitoring;E01.370.520.200
+Esophageal pH Monitoring;E01.370.520.215
+Fetal Monitoring;E01.370.520.230
+Cardiotocography;E01.370.520.230.150
+Monitoring, Ambulatory;E01.370.520.500
+Blood Pressure Monitoring, Ambulatory;E01.370.520.500.100
+Electrocardiography, Ambulatory;E01.370.520.500.230
+Esophageal pH Monitoring;E01.370.520.500.240
+Monitoring, Immunologic;E01.370.520.505
+Monitoring, Intraoperative;E01.370.520.510
+Intraoperative Neurophysiological Monitoring;E01.370.520.510.500
+Neuromuscular Monitoring;E01.370.520.567
+Neurophysiological Monitoring;E01.370.520.596
+Intraoperative Neurophysiological Monitoring;E01.370.520.596.500
+Polysomnography;E01.370.520.625
+Telemetry;E01.370.520.750
+Remote Sensing Technology;E01.370.520.750.500
+Uterine Monitoring;E01.370.520.860
+Myography;E01.370.530
+Electromyography;E01.370.530.255
+Photoacoustic Techniques;E01.370.565
+Physical Examination;E01.370.600
+Anthropometry;E01.370.600.024
+Cephalometry;E01.370.600.024.250
+Odontometry;E01.370.600.024.650
+Pelvimetry;E01.370.600.024.690
+Apgar Score;E01.370.600.050
+Auscultation;E01.370.600.060
+Heart Auscultation;E01.370.600.060.400
+Blood Pressure Determination;E01.370.600.100
+Body Constitution;E01.370.600.115
+Body Weights and Measures;E01.370.600.115.100
+Body Fat Distribution;E01.370.600.115.100.062
+Adiposity;E01.370.600.115.100.062.500
+Body Mass Index;E01.370.600.115.100.125
+Body Size;E01.370.600.115.100.160
+Body Height;E01.370.600.115.100.160.100
+Crown-Rump Length;E01.370.600.115.100.160.100.500
+Body Weight;E01.370.600.115.100.160.120
+Birth Weight;E01.370.600.115.100.160.120.186
+Fetal Weight;E01.370.600.115.100.160.120.300
+Ideal Body Weight;E01.370.600.115.100.160.120.499
+Overweight;E01.370.600.115.100.160.120.699
+Obesity;E01.370.600.115.100.160.120.699.500
+Obesity, Abdominal;E01.370.600.115.100.160.120.699.500.249
+Obesity, Morbid;E01.370.600.115.100.160.120.699.500.500
+Thinness;E01.370.600.115.100.160.120.828
+Sagittal Abdominal Diameter;E01.370.600.115.100.160.340
+Waist Circumference;E01.370.600.115.100.160.560
+Lipid Accumulation Product;E01.370.600.115.100.160.560.500
+Waist-Height Ratio;E01.370.600.115.100.160.780
+Body Surface Area;E01.370.600.115.100.231
+Organ Size;E01.370.600.115.100.660
+Axial Length, Eye;E01.370.600.115.100.660.500
+Skinfold Thickness;E01.370.600.115.100.803
+Waist-Hip Ratio;E01.370.600.115.100.960
+Somatotypes;E01.370.600.115.800
+Facial Expression;E01.370.600.225
+Facies;E01.370.600.230
+Gait;E01.370.600.250
+Gynecological Examination;E01.370.600.293
+Metabolic Equivalent;E01.370.600.337
+Muscle Strength;E01.370.600.425
+Hand Strength;E01.370.600.425.500
+Pinch Strength;E01.370.600.425.500.500
+Neurologic Examination;E01.370.600.550
+Pain Measurement;E01.370.600.550.324
+Reflex;E01.370.600.550.650
+Diving Reflex;E01.370.600.550.650.324
+Reflex, Abdominal;E01.370.600.550.650.650
+Reflex, Abnormal;E01.370.600.550.650.655
+Reflex, Acoustic;E01.370.600.550.650.670
+Reflex, Babinski;E01.370.600.550.650.680
+Reflex, Pupillary;E01.370.600.550.650.690
+Reflex, Righting;E01.370.600.550.650.695
+Reflex, Stretch;E01.370.600.550.650.700
+Reflex, Startle;E01.370.600.550.650.800
+Palpation;E01.370.600.600
+Digital Rectal Examination;E01.370.600.600.500
+Percussion;E01.370.600.610
+Pigmentation;E01.370.600.620
+Skin Pigmentation;E01.370.600.620.750
+Pulse;E01.370.600.650
+Range of Motion, Articular;E01.370.600.700
+Arthrometry, Articular;E01.370.600.700.500
+Self-Examination;E01.370.600.750
+Breast Self-Examination;E01.370.600.750.100
+Vital Signs;E01.370.600.875
+Blood Pressure;E01.370.600.875.249
+Body Temperature;E01.370.600.875.374
+Heart Rate;E01.370.600.875.500
+Respiratory Rate;E01.370.600.875.875
+Plethysmography;E01.370.610
+Photoplethysmography;E01.370.610.600
+Plethysmography, Impedance;E01.370.610.610
+Cardiography, Impedance;E01.370.610.610.200
+Plethysmography, Whole Body;E01.370.610.615
+Premarital Examinations;E01.370.620
+Psychophysics;E01.370.685
+Psychoacoustics;E01.370.685.628
+Signal Detection, Psychological;E01.370.685.814
+Sex Determination Analysis;E01.370.701
+Sex Determination by Skeleton;E01.370.701.500
+Speech Production Measurement;E01.370.760
+Speech Articulation Tests;E01.370.760.760
+Symptom Assessment;E01.370.872
+Visual Analog Scale;E01.370.928
+Xenodiagnosis;E01.370.985
+Early Diagnosis;E01.390
+Early Detection of Cancer;E01.390.500
+Incidental Findings;E01.410
+Prodromal Symptoms;E01.599
+Prognosis;E01.789
+Disease-Free Survival;E01.789.200
+Medical Futility;E01.789.600
+Neoplasm Grading;E01.789.612
+Neoplasm Staging;E01.789.625
+Nomograms;E01.789.650
+Pregnancy Outcome;E01.789.700
+Treatment Outcome;E01.789.800
+Response Evaluation Criteria in Solid Tumors;E01.789.800.379
+Treatment Failure;E01.789.800.760

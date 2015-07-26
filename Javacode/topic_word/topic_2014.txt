@@ -1,0 +1,20 @@
+1:episodic;chest pain;diaphoresis;dyspnea;hypertension;obesity;smoking;diabetes;hypercholesterolemia;heart disease;EKG;hypertension;obesity;chest pain
+2:fever;dyspnea;cough;respiratory;bronchial;lung infiltrates;fever;cough;lung infiltrates
+3:nonsmoker;exertional dyspnea;cough;lung mass;nonsmoker;lung mass;lobe mass
+4:high fever;irritability;conjunctivitis;strawberry tongue;inflammation;desquamation;lymphadenopathy;enlarged liver;coronary artery aneurysm;fever;irritability;conjunctivitis;strawberry tongue;desquamation;coronary arteries
+5:mastectomy;shortness breath;malaise;calf;thoracic wall;D dimer;shortness breath;mastectomy;calf;breath sounds;D dimer
+6:diabetes;mellitus;HbA1c;skin lesion;diabetes;skin lesion
+7:bipolar disorder;difficulty sleeping;anxious;agitated;suicide;fidgety;irritable;lithium;zolpidem;bipolar disorder;zolpidem;lithium;difficulty sleeping;agitation;suicidal;irritability
+8:progressive memory loss;memory dysfunction;cognitive deficits;cerebral atrophy;reactive astrocytosis;progressive memory loss;involuntary leg movements;cortical atrophy;reactive astrocytosis
+9:lesions neck;pedunculated;hyperpigmented;flesh colored;pedunculated;lesions
+10:cardiac catheterization;pulsatile mass;cardiac catheterization;femoral artery;cool foot;pulseless foot;femoral bruit
+11:pain;right arm;no trauma;tachypneic;tachycardic;;arm pain;hypotension;no trauma
+12:fatigue;sleep well;hair loss;voice change;weight gain;intolerance cold;cervical mass;fatigue;hair loss;weight gain;cold intolerance
+13:shortness breath;abortions;birth;apprehensive;tachypneic;tachycardic;post partum;shortness breath;tachypnea;hypoxia
+14:decrease consciousness;stop walking;stop eating;car accident;car accident;decreasing consciousness;impaired ability
+15:amenorrhea;vaginal spotting;lower abdominal tenderness;nausea;vomiting;tender abdomen;uterus;cervical dilation;enlarged uterus;multiple cystic areas;vesicular mole;fibroid degeneration;amenorrhea;abdominal tenderness;enlarged uterus;cervical dilation;no urine pregnancy;multiple cystic areas;vesicular mole;fibroid degeneration
+16:neck pain;shoulder pain;hand arm paresthesias;animal recovery;tremors;NSAIDS;muscle relaxant;spastic arm movements;sweating;increasing agitation;anxiety;malaise;difficultly swallowing;hydrophobia;neck pain;arm numbness;stray animals;arm tremor;spasticity;arm spasticity;diaphoresis;agitation;difficulty swallowing;hydrophobia
+17:common variable immunodeficiency;CVID;abdominal pain;fever;dehydration;Murphy sign;hepatomegaly;intraperitoneal fluid;ruptured liver abscess;common variable immunodeficiency;abdominal pain;fever;hepatomegaly;intraperitoneal fluid;ruptured liver abscess
+18:infant;urine output;surgery;edema;urea nitrogen;serum creatinine;excretion sodium;decreased urine output;edema;hypertensive;tachycardic;BUN;creatinine;red blood cells;granular casts
+19:smoking;drinking;dysphagia;solid foods;soft foods;liquids;lost pounds;smoking;drinking;dysphagia;weight loss
+20:car accident;fractures;awake;alert;tender abdomen;no bowel sounds;unbelted driver;car accident;fractures;abdominal pain

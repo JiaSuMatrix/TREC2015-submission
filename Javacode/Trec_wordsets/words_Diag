@@ -1,0 +1,2680 @@
+Bacteria;B03
+Acidobacteria;B03.026
+Agricultural Inoculants;B03.054
+Atypical Bacterial Forms;B03.110
+L Forms;B03.110.422
+Spheroplasts;B03.110.761
+Bacteria, Aerobic;B03.120
+Bacteria, Anaerobic;B03.130
+Bacteroidetes;B03.140
+Bacteroidaceae;B03.140.094
+Bacteroides;B03.140.094.152
+Bacteroides fragilis;B03.140.094.152.400
+Porphyromonas;B03.140.094.625
+Porphyromonas endodontalis;B03.140.094.625.350
+Porphyromonas gingivalis;B03.140.094.625.515
+Prevotella;B03.140.094.640
+Prevotella intermedia;B03.140.094.640.375
+Prevotella melaninogenica;B03.140.094.640.500
+Prevotella nigrescens;B03.140.094.640.550
+Prevotella ruminicola;B03.140.094.640.700
+Cytophagaceae;B03.140.130
+Cytophaga;B03.140.130.150
+Flexibacter;B03.140.130.200
+Flavobacteriaceae;B03.140.190
+Capnocytophaga;B03.140.190.100
+Chryseobacterium;B03.140.190.120
+Flavobacterium;B03.140.190.250
+Ornithobacterium;B03.140.190.600
+Riemerella;B03.140.190.700
+Tenacibaculum;B03.140.190.800
+Pedobacter;B03.140.600
+Rhodothermus;B03.140.750
+Sphingobacterium;B03.140.800
+Blood-Borne Pathogens;B03.165
+Chlorobi;B03.250
+Chlorobium;B03.250.140
+Chloroflexi;B03.275
+Chloroflexus;B03.275.150
+Cyanobacteria;B03.280
+Anabaena;B03.280.100
+Anabaena cylindrica;B03.280.100.150
+Anabaena flos-aquae;B03.280.100.300
+Anabaena variabilis;B03.280.100.900
+Aphanizomenon;B03.280.110
+Cyanothece;B03.280.200
+Cylindrospermopsis;B03.280.210
+Microcystis;B03.280.500
+Nodularia;B03.280.550
+Nostoc;B03.280.575
+Nostoc commune;B03.280.575.150
+Nostoc muscorum;B03.280.575.500
+Oscillatoria;B03.280.612
+Plectonema;B03.280.650
+Spirulina;B03.280.697
+Synechococcus;B03.280.745
+Synechocystis;B03.280.750
+Endospore-Forming Bacteria;B03.300
+Gram-Positive Endospore-Forming Bacteria;B03.300.390
+Gram-Positive Endospore-Forming Rods;B03.300.390.400
+Bacillaceae;B03.300.390.400.158
+Anoxybacillus;B03.300.390.400.158.108
+Bacillus;B03.300.390.400.158.218
+Bacillus anthracis;B03.300.390.400.158.218.151
+Bacillus cereus;B03.300.390.400.158.218.252
+Bacillus megaterium;B03.300.390.400.158.218.500
+Bacillus subtilis;B03.300.390.400.158.218.725
+Bacillus thuringiensis;B03.300.390.400.158.218.800
+Geobacillus;B03.300.390.400.158.400
+Geobacillus stearothermophilus;B03.300.390.400.158.400.400
+Halobacillus;B03.300.390.400.158.600
+Thermoactinomyces;B03.300.390.400.158.800
+Virgibacillus;B03.300.390.400.158.900
+Brevibacillus;B03.300.390.400.160
+Clostridium;B03.300.390.400.200
+Clostridium acetobutylicum;B03.300.390.400.200.025
+Clostridium beijerinckii;B03.300.390.400.200.100
+Clostridium bifermentans;B03.300.390.400.200.130
+Clostridium botulinum;B03.300.390.400.200.160
+Clostridium botulinum type A;B03.300.390.400.200.160.050
+Clostridium botulinum type B;B03.300.390.400.200.160.100
+Clostridium botulinum type C;B03.300.390.400.200.160.150
+Clostridium botulinum type D;B03.300.390.400.200.160.200
+Clostridium botulinum type E;B03.300.390.400.200.160.250
+Clostridium botulinum type F;B03.300.390.400.200.160.300
+Clostridium botulinum type G;B03.300.390.400.200.160.350
+Clostridium butyricum;B03.300.390.400.200.180
+Clostridium cellulolyticum;B03.300.390.400.200.200
+Clostridium cellulovorans;B03.300.390.400.200.205
+Clostridium chauvoei;B03.300.390.400.200.215
+Clostridium difficile;B03.300.390.400.200.250
+Clostridium histolyticum;B03.300.390.400.200.412
+Clostridium kluyveri;B03.300.390.400.200.493
+Clostridium perfringens;B03.300.390.400.200.575
+Clostridium septicum;B03.300.390.400.200.690
+Clostridium sordellii;B03.300.390.400.200.700
+Clostridium sticklandii;B03.300.390.400.200.710
+Clostridium symbiosum;B03.300.390.400.200.713
+Clostridium tertium;B03.300.390.400.200.722
+Clostridium tetani;B03.300.390.400.200.725
+Clostridium tetanomorphum;B03.300.390.400.200.740
+Clostridium thermocellum;B03.300.390.400.200.770
+Clostridium tyrobutyricum;B03.300.390.400.200.800
+Micromonosporaceae;B03.300.390.400.500
+Micromonospora;B03.300.390.400.500.500
+Moorella;B03.300.390.400.525
+Paenibacillus;B03.300.390.400.645
+Saccharopolyspora;B03.300.390.400.790
+Staphylococcaceae;B03.300.390.400.800
+Staphylococcus;B03.300.390.400.800.750
+Staphylococcus aureus;B03.300.390.400.800.750.100
+Methicillin-Resistant Staphylococcus aureus;B03.300.390.400.800.750.100.500
+Staphylococcus epidermidis;B03.300.390.400.800.750.343
+Staphylococcus haemolyticus;B03.300.390.400.800.750.400
+Staphylococcus hominis;B03.300.390.400.800.750.425
+Staphylococcus hyicus;B03.300.390.400.800.750.435
+Staphylococcus intermedius;B03.300.390.400.800.750.445
+Staphylococcus lugdunensis;B03.300.390.400.800.750.500
+Staphylococcus saprophyticus;B03.300.390.400.800.750.750
+Streptomycetaceae;B03.300.390.400.810
+Streptomyces;B03.300.390.400.810.768
+Streptomyces antibioticus;B03.300.390.400.810.768.100
+Streptomyces aureofaciens;B03.300.390.400.810.768.125
+Streptomyces coelicolor;B03.300.390.400.810.768.200
+Streptomyces griseus;B03.300.390.400.810.768.375
+Streptomyces lividans;B03.300.390.400.810.768.500
+Streptomyces rimosus;B03.300.390.400.810.768.750
+Thermoactinomyces;B03.300.390.400.850
+Pasteuria;B03.300.390.650
+Sporosarcina;B03.300.390.825
+Fibrobacteres;B03.335
+Fibrobacter;B03.335.300
+Fusobacteria;B03.370
+Fusobacterium;B03.370.250
+Fusobacterium necrophorum;B03.370.250.400
+Fusobacterium nucleatum;B03.370.250.500
+Leptotrichia;B03.370.437
+Propionigenium;B03.370.600
+Streptobacillus;B03.370.700
+Gram-Negative Bacteria;B03.440
+Anaplasmataceae;B03.440.040
+Anaplasma;B03.440.040.050
+Anaplasma centrale;B03.440.040.050.100
+Anaplasma marginale;B03.440.040.050.500
+Anaplasma ovis;B03.440.040.050.575
+Anaplasma phagocytophilum;B03.440.040.050.600
+Ehrlichia;B03.440.040.287
+Ehrlichia canis;B03.440.040.287.090
+Ehrlichia chaffeensis;B03.440.040.287.150
+Ehrlichia ruminantium;B03.440.040.287.700
+Neorickettsia;B03.440.040.525
+Neorickettsia risticii;B03.440.040.525.700
+Neorickettsia sennetsu;B03.440.040.525.720
+Arcobacter;B03.440.050
+Bartonellaceae;B03.440.090
+Bartonella;B03.440.090.100
+Bartonella bacilliformis;B03.440.090.100.080
+Bartonella henselae;B03.440.090.100.350
+Bartonella quintana;B03.440.090.100.650
+Brachyspira;B03.440.097
+Brachyspira hyodysenteriae;B03.440.097.100
+Buchnera;B03.440.100
+Campylobacter;B03.440.180
+Campylobacter coli;B03.440.180.200
+Campylobacter fetus;B03.440.180.325
+Campylobacter hyointestinalis;B03.440.180.375
+Campylobacter jejuni;B03.440.180.425
+Campylobacter lari;B03.440.180.500
+Campylobacter rectus;B03.440.180.650
+Campylobacter sputorum;B03.440.180.700
+Campylobacter upsaliensis;B03.440.180.800
+Chlamydiales;B03.440.190
+Chlamydiaceae;B03.440.190.190
+Chlamydia;B03.440.190.190.190
+Chlamydia muridarum;B03.440.190.190.190.500
+Chlamydia trachomatis;B03.440.190.190.190.750
+Chlamydophila;B03.440.190.190.230
+Chlamydophila pneumoniae;B03.440.190.190.230.249
+Chlamydophila psittaci;B03.440.190.190.230.500
+Chloroflexus;B03.440.210
+Gram-Negative Aerobic Bacteria;B03.440.400
+Acidobacteria;B03.440.400.050
+Caulobacter;B03.440.400.280
+Caulobacter crescentus;B03.440.400.280.280
+Gallionellaceae;B03.440.400.400
+Gram-Negative Aerobic Rods and Cocci;B03.440.400.425
+Acetobacteraceae;B03.440.400.425.100
+Acetobacter;B03.440.400.425.100.100
+Acidiphilium;B03.440.400.425.100.110
+Gluconobacter;B03.440.400.425.100.550
+Gluconobacter oxydans;B03.440.400.425.100.550.550
+Acidithiobacillus;B03.440.400.425.103
+Acidithiobacillus thiooxidans;B03.440.400.425.103.800
+Afipia;B03.440.400.425.110
+Alcaligenaceae;B03.440.400.425.117
+Achromobacter;B03.440.400.425.117.024
+Achromobacter cycloclastes;B03.440.400.425.117.024.100
+Achromobacter denitrificans;B03.440.400.425.117.024.120
+Alcaligenes;B03.440.400.425.117.050
+Alcaligenes faecalis;B03.440.400.425.117.050.200
+Bordetella;B03.440.400.425.117.075
+Bordetella avium;B03.440.400.425.117.075.099
+Bordetella bronchiseptica;B03.440.400.425.117.075.200
+Bordetella parapertussis;B03.440.400.425.117.075.540
+Bordetella pertussis;B03.440.400.425.117.075.550
+Taylorella;B03.440.400.425.117.800
+Taylorella equigenitalis;B03.440.400.425.117.800.200
+Alteromonas;B03.440.400.425.126
+Azorhizobium;B03.440.400.425.127
+Azorhizobium caulinodans;B03.440.400.425.127.100
+Bdellovibrio;B03.440.400.425.180
+Bradyrhizobiaceae;B03.440.400.425.200
+Afipia;B03.440.400.425.200.040
+Bradyrhizobium;B03.440.400.425.200.090
+Nitrobacter;B03.440.400.425.200.520
+Rhodopseudomonas;B03.440.400.425.200.700
+Bradyrhizobium;B03.440.400.425.205
+Brucellaceae;B03.440.400.425.215
+Brucella;B03.440.400.425.215.500
+Brucella abortus;B03.440.400.425.215.500.100
+Brucella canis;B03.440.400.425.215.500.150
+Brucella melitensis;B03.440.400.425.215.500.500
+Brucella ovis;B03.440.400.425.215.500.625
+Brucella suis;B03.440.400.425.215.500.750
+Burkholderiaceae;B03.440.400.425.251
+Burkholderia;B03.440.400.425.251.100
+Burkholderia cepacia complex;B03.440.400.425.251.100.110
+Burkholderia cenocepacia;B03.440.400.425.251.100.110.490
+Burkholderia cepacia;B03.440.400.425.251.100.110.500
+Burkholderia gladioli;B03.440.400.425.251.100.355
+Burkholderia mallei;B03.440.400.425.251.100.477
+Burkholderia pseudomallei;B03.440.400.425.251.100.600
+Cupriavidus;B03.440.400.425.251.200
+Cupriavidus necator;B03.440.400.425.251.200.200
+Ralstonia;B03.440.400.425.251.650
+Ralstonia pickettii;B03.440.400.425.251.650.600
+Ralstonia solanacearum;B03.440.400.425.251.650.750
+Caulobacteraceae;B03.440.400.425.288
+Caulobacter;B03.440.400.425.288.100
+Caulobacter crescentus;B03.440.400.425.288.100.100
+Comamonadaceae;B03.440.400.425.292
+Comamonas;B03.440.400.425.292.150
+Comamonas testosteroni;B03.440.400.425.292.150.750
+Delftia;B03.440.400.425.292.170
+Delftia acidovorans;B03.440.400.425.292.170.030
+Leptothrix;B03.440.400.425.292.500
+Sphaerotilus;B03.440.400.425.292.750
+Coxiellaceae;B03.440.400.425.297
+Coxiella;B03.440.400.425.297.150
+Coxiella burnetii;B03.440.400.425.297.150.100
+Cytophagaceae;B03.440.400.425.300
+Cytophaga;B03.440.400.425.300.150
+Flexibacter;B03.440.400.425.300.200
+Flavobacteriaceae;B03.440.400.425.310
+Chryseobacterium;B03.440.400.425.310.120
+Flavobacterium;B03.440.400.425.310.250
+Ornithobacterium;B03.440.400.425.310.600
+Riemerella;B03.440.400.425.310.700
+Tenacibaculum;B03.440.400.425.310.800
+Francisella;B03.440.400.425.340
+Francisella tularensis;B03.440.400.425.340.590
+Gluconacetobacter;B03.440.400.425.365
+Gluconacetobacter xylinus;B03.440.400.425.365.500
+Halomonadaceae;B03.440.400.425.377
+Chromohalobacter;B03.440.400.425.377.249
+Halomonas;B03.440.400.425.377.500
+Halothiobacillus;B03.440.400.425.395
+Legionellaceae;B03.440.400.425.450
+Legionella;B03.440.400.425.450.450
+Legionella longbeachae;B03.440.400.425.450.450.400
+Legionella pneumophila;B03.440.400.425.450.450.500
+Leptospiraceae;B03.440.400.425.475
+Leptospira;B03.440.400.425.475.475
+Leptospira interrogans;B03.440.400.425.475.475.400
+Leptospira interrogans serovar australis;B03.440.400.425.475.475.400.050
+Leptospira interrogans serovar autumnalis;B03.440.400.425.475.475.400.055
+Leptospira interrogans serovar canicola;B03.440.400.425.475.475.400.150
+Leptospira interrogans serovar hebdomadis;B03.440.400.425.475.475.400.400
+Leptospira interrogans serovar icterohaemorrhagiae;B03.440.400.425.475.475.400.420
+Leptospira interrogans serovar pomona;B03.440.400.425.475.475.400.650
+Methylobacteriaceae;B03.440.400.425.487
+Methylobacterium;B03.440.400.425.487.500
+Methylobacterium extorquens;B03.440.400.425.487.500.150
+Methylococcaceae;B03.440.400.425.500
+Methylococcus;B03.440.400.425.500.500
+Methylococcus capsulatus;B03.440.400.425.500.500.100
+Methylomonas;B03.440.400.425.500.505
+Methylophilaceae;B03.440.400.425.525
+Methylobacillus;B03.440.400.425.525.500
+Methylophilus;B03.440.400.425.525.520
+Methylophilus methylotrophus;B03.440.400.425.525.520.500
+Moraxellaceae;B03.440.400.425.537
+Acinetobacter;B03.440.400.425.537.050
+Acinetobacter baumannii;B03.440.400.425.537.050.099
+Acinetobacter calcoaceticus;B03.440.400.425.537.050.200
+Moraxella;B03.440.400.425.537.525
+Moraxella (Branhamella) catarrhalis;B03.440.400.425.537.525.200
+Moraxella (Moraxella) bovis;B03.440.400.425.537.525.500
+Psychrobacter;B03.440.400.425.537.650
+Neisseriaceae;B03.440.400.425.550
+Kingella;B03.440.400.425.550.400
+Kingella kingae;B03.440.400.425.550.400.375
+Neisseria;B03.440.400.425.550.550
+Neisseria cinerea;B03.440.400.425.550.550.125
+Neisseria elongata;B03.440.400.425.550.550.299
+Neisseria gonorrhoeae;B03.440.400.425.550.550.474
+Neisseria lactamica;B03.440.400.425.550.550.600
+Neisseria meningitidis;B03.440.400.425.550.550.641
+Neisseria meningitidis, Serogroup A;B03.440.400.425.550.550.641.700
+Neisseria meningitidis, Serogroup B;B03.440.400.425.550.550.641.710
+Neisseria meningitidis, Serogroup C;B03.440.400.425.550.550.641.720
+Neisseria meningitidis, Serogroup W-135;B03.440.400.425.550.550.641.800
+Neisseria meningitidis, Serogroup Y;B03.440.400.425.550.550.641.820
+Neisseria mucosa;B03.440.400.425.550.550.660
+Neisseria sicca;B03.440.400.425.550.550.800
+Nitrosomonadaceae;B03.440.400.425.562
+Nitrosomonas;B03.440.400.425.562.500
+Nitrosomonas europaea;B03.440.400.425.562.500.200
+Ochrobactrum;B03.440.400.425.575
+Ochrobactrum anthropi;B03.440.400.425.575.650
+Oxalobacteraceae;B03.440.400.425.587
+Herbaspirillum;B03.440.400.425.587.400
+Paracoccus;B03.440.400.425.600
+Paracoccus denitrificans;B03.440.400.425.600.380
+Paracoccus pantotrophus;B03.440.400.425.600.690
+Pedobacter;B03.440.400.425.611
+Pseudoalteromonas;B03.440.400.425.622
+Pseudomonadaceae;B03.440.400.425.625
+Azotobacter;B03.440.400.425.625.050
+Azotobacter vinelandii;B03.440.400.425.625.050.850
+Cellvibrio;B03.440.400.425.625.150
+Pseudomonas;B03.440.400.425.625.625
+Pseudomonas aeruginosa;B03.440.400.425.625.625.100
+Pseudomonas alcaligenes;B03.440.400.425.625.625.120
+Pseudomonas fluorescens;B03.440.400.425.625.625.325
+Pseudomonas fragi;B03.440.400.425.625.625.350
+Pseudomonas mendocina;B03.440.400.425.625.625.500
+Pseudomonas oleovorans;B03.440.400.425.625.625.650
+Pseudomonas pseudoalcaligenes;B03.440.400.425.625.625.662
+Pseudomonas putida;B03.440.400.425.625.625.675
+Pseudomonas stutzeri;B03.440.400.425.625.625.750
+Pseudomonas syringae;B03.440.400.425.625.625.770
+Rhizobiaceae;B03.440.400.425.700
+Agrobacterium;B03.440.400.425.700.024
+Agrobacterium tumefaciens;B03.440.400.425.700.024.050
+Rhizobium;B03.440.400.425.700.800
+Rhizobium etli;B03.440.400.425.700.800.337
+Rhizobium leguminosarum;B03.440.400.425.700.800.450
+Rhizobium phaseoli;B03.440.400.425.700.800.600
+Rhizobium tropici;B03.440.400.425.700.800.800
+Sinorhizobium;B03.440.400.425.700.887
+Sinorhizobium fredii;B03.440.400.425.700.887.249
+Sinorhizobium meliloti;B03.440.400.425.700.887.500
+Rhodospirillaceae;B03.440.400.425.708
+Azospirillum;B03.440.400.425.708.100
+Azospirillum brasilense;B03.440.400.425.708.100.020
+Azospirillum lipoferum;B03.440.400.425.708.100.510
+Magnetospirillum;B03.440.400.425.708.500
+Rhodospirillum;B03.440.400.425.708.733
+Rhodospirillum centenum;B03.440.400.425.708.733.150
+Rhodospirillum rubrum;B03.440.400.425.708.733.650
+Rhodothermus;B03.440.400.425.710
+Sphingobacterium;B03.440.400.425.745
+Sphingomonas;B03.440.400.425.750
+Thermus;B03.440.400.425.875
+Thermus thermophilus;B03.440.400.425.875.875
+Xanthobacter;B03.440.400.425.935
+Xanthomonadaceae;B03.440.400.425.967
+Lysobacter;B03.440.400.425.967.500
+Stenotrophomonas;B03.440.400.425.967.750
+Stenotrophomonas maltophilia;B03.440.400.425.967.750.500
+Xanthomonas;B03.440.400.425.967.930
+Xanthomonas campestris;B03.440.400.425.967.930.100
+Xanthomonas vesicatoria;B03.440.400.425.967.930.850
+Xylella;B03.440.400.425.967.950
+Zoogloea;B03.440.400.425.983
+Gram-Negative Chemolithotrophic Bacteria;B03.440.400.450
+Thiobacillus;B03.440.400.450.800
+Thiotrichaceae;B03.440.400.645
+Beggiatoa;B03.440.400.645.100
+Thiothrix;B03.440.400.645.800
+Vitreoscilla;B03.440.400.840
+Gram-Negative Anaerobic Bacteria;B03.440.425
+Gram-Negative Anaerobic Cocci;B03.440.425.400
+Megasphaera;B03.440.425.400.500
+Thiocapsa;B03.440.425.400.750
+Thiocapsa roseopersicina;B03.440.425.400.750.660
+Gram-Negative Anaerobic Straight, Curved, and Helical Rods;B03.440.425.410
+Fibrobacteres;B03.440.425.410.047
+Fibrobacter;B03.440.425.410.047.300
+Veillonellaceae;B03.440.425.410.096
+Acidaminococcus;B03.440.425.410.096.020
+Pectinatus;B03.440.425.410.096.755
+Selenomonas;B03.440.425.410.096.877
+Veillonella;B03.440.425.410.096.938
+Anaerobiospirillum;B03.440.425.410.145
+Bacteroidaceae;B03.440.425.410.194
+Bacteroides;B03.440.425.410.194.152
+Bacteroides fragilis;B03.440.425.410.194.152.400
+Porphyromonas;B03.440.425.410.194.625
+Porphyromonas endodontalis;B03.440.425.410.194.625.350
+Porphyromonas gingivalis;B03.440.425.410.194.625.515
+Prevotella;B03.440.425.410.194.640
+Prevotella intermedia;B03.440.425.410.194.640.375
+Prevotella melaninogenica;B03.440.425.410.194.640.500
+Prevotella nigrescens;B03.440.425.410.194.640.550
+Prevotella ruminicola;B03.440.425.410.194.640.700
+Bilophila;B03.440.425.410.200
+Brachyspira;B03.440.425.410.220
+Brachyspira hyodysenteriae;B03.440.425.410.220.100
+Butyrivibrio;B03.440.425.410.237
+Chlorobium;B03.440.425.410.275
+Chromatium;B03.440.425.410.290
+Desulfovibrio;B03.440.425.410.350
+Desulfovibrio africanus;B03.440.425.410.350.040
+Desulfovibrio desulfuricans;B03.440.425.410.350.150
+Desulfovibrio gigas;B03.440.425.410.350.350
+Desulfovibrio vulgaris;B03.440.425.410.350.875
+Desulfuromonas;B03.440.425.410.360
+Dichelobacter nodosus;B03.440.425.410.400
+Ectothiorhodospiraceae;B03.440.425.410.405
+Ectothiorhodospira;B03.440.425.410.405.500
+Ectothiorhodospira shaposhnikovii;B03.440.425.410.405.500.720
+Halorhodospira halophila;B03.440.425.410.405.750
+Fusobacterium;B03.440.425.410.420
+Fusobacterium necrophorum;B03.440.425.410.420.400
+Fusobacterium nucleatum;B03.440.425.410.420.500
+Geobacter;B03.440.425.410.430
+Leptotrichia;B03.440.425.410.535
+Oxalobacter formigenes;B03.440.425.410.580
+Propionigenium;B03.440.425.410.600
+Selenomonas;B03.440.425.410.700
+Spirochaetaceae;B03.440.425.410.711
+Borrelia;B03.440.425.410.711.193
+Borrelia burgdorferi Group;B03.440.425.410.711.193.150
+Borrelia burgdorferi;B03.440.425.410.711.193.150.125
+Spirochaeta;B03.440.425.410.711.679
+Treponema;B03.440.425.410.711.795
+Treponema denticola;B03.440.425.410.711.795.700
+Treponema pallidum;B03.440.425.410.711.795.840
+Succinivibrionaceae;B03.440.425.410.722
+Thauera;B03.440.425.410.745
+Thermotoga maritima;B03.440.425.410.750
+Thermotoga neapolitana;B03.440.425.410.760
+Wolinella;B03.440.425.410.875
+Gram-Negative Facultatively Anaerobic Rods;B03.440.450
+Actinobacillus;B03.440.450.009
+Actinobacillus equuli;B03.440.450.009.200
+Actinobacillus pleuropneumoniae;B03.440.450.009.580
+Actinobacillus seminis;B03.440.450.009.675
+Actinobacillus suis;B03.440.450.009.700
+Aeromonadaceae;B03.440.450.019
+Aeromonas;B03.440.450.019.025
+Aeromonas caviae;B03.440.450.019.025.150
+Aeromonas hydrophila;B03.440.450.019.025.380
+Aeromonas salmonicida;B03.440.450.019.025.690
+Azoarcus;B03.440.450.040
+Capnocytophaga;B03.440.450.340
+Cardiobacteriaceae;B03.440.450.342
+Cardiobacterium;B03.440.450.342.100
+Dichelobacter nodosus;B03.440.450.342.550
+Chromobacterium;B03.440.450.360
+Eikenella;B03.440.450.400
+Eikenella corrodens;B03.440.450.400.275
+Enterobacteriaceae;B03.440.450.425
+Calymmatobacterium;B03.440.450.425.180
+Cronobacter;B03.440.450.425.198
+Cronobacter sakazakii;B03.440.450.425.198.150
+Citrobacter;B03.440.450.425.200
+Citrobacter freundii;B03.440.450.425.200.275
+Citrobacter koseri;B03.440.450.425.200.475
+Citrobacter rodentium;B03.440.450.425.200.737
+Edwardsiella;B03.440.450.425.260
+Edwardsiella ictaluri;B03.440.450.425.260.340
+Edwardsiella tarda;B03.440.450.425.260.750
+Enterobacter;B03.440.450.425.275
+Enterobacter aerogenes;B03.440.450.425.275.099
+Enterobacter cloacae;B03.440.450.425.275.200
+Erwinia;B03.440.450.425.300
+Erwinia amylovora;B03.440.450.425.300.050
+Escherichia;B03.440.450.425.325
+Escherichia coli;B03.440.450.425.325.300
+Enteropathogenic Escherichia coli;B03.440.450.425.325.300.330
+Enterotoxigenic Escherichia coli;B03.440.450.425.325.300.340
+Escherichia coli K12;B03.440.450.425.325.300.360
+Shiga-Toxigenic Escherichia coli;B03.440.450.425.325.300.800
+Enterohemorrhagic Escherichia coli;B03.440.450.425.325.300.800.250
+Escherichia coli O157;B03.440.450.425.325.300.800.250.500
+Uropathogenic Escherichia coli;B03.440.450.425.325.300.900
+Hafnia;B03.440.450.425.375
+Hafnia alvei;B03.440.450.425.375.050
+Klebsiella;B03.440.450.425.425
+Klebsiella oxytoca;B03.440.450.425.425.580
+Klebsiella pneumoniae;B03.440.450.425.425.600
+Kluyvera;B03.440.450.425.435
+Morganella;B03.440.450.425.500
+Morganella morganii;B03.440.450.425.500.500
+Pantoea;B03.440.450.425.580
+Pectobacterium;B03.440.450.425.585
+Pectobacterium carotovorum;B03.440.450.425.585.120
+Pectobacterium chrysanthemi;B03.440.450.425.585.150
+Photorhabdus;B03.440.450.425.590
+Plesiomonas;B03.440.450.425.595
+Proteus;B03.440.450.425.600
+Proteus mirabilis;B03.440.450.425.600.501
+Proteus penneri;B03.440.450.425.600.650
+Proteus vulgaris;B03.440.450.425.600.800
+Providencia;B03.440.450.425.670
+Salmonella;B03.440.450.425.800
+Salmonella arizonae;B03.440.450.425.800.100
+Salmonella enterica;B03.440.450.425.800.200
+Salmonella enteritidis;B03.440.450.425.800.200.300
+Salmonella paratyphi A;B03.440.450.425.800.200.600
+Salmonella paratyphi B;B03.440.450.425.800.200.700
+Salmonella paratyphi C;B03.440.450.425.800.200.750
+Salmonella typhi;B03.440.450.425.800.200.800
+Salmonella typhimurium;B03.440.450.425.800.200.825
+Serratia;B03.440.450.425.814
+Serratia liquefaciens;B03.440.450.425.814.620
+Serratia marcescens;B03.440.450.425.814.664
+Shigella;B03.440.450.425.850
+Shigella boydii;B03.440.450.425.850.175
+Shigella dysenteriae;B03.440.450.425.850.350
+Shigella flexneri;B03.440.450.425.850.450
+Shigella sonnei;B03.440.450.425.850.800
+Wigglesworthia;B03.440.450.425.887
+Xenorhabdus;B03.440.450.425.890
+Yersinia;B03.440.450.425.900
+Yersinia enterocolitica;B03.440.450.425.900.300
+Yersinia pestis;B03.440.450.425.900.600
+Yersinia pseudotuberculosis;B03.440.450.425.900.615
+Yersinia ruckeri;B03.440.450.425.900.650
+Moritella;B03.440.450.510
+Pasteurellaceae;B03.440.450.600
+Aggregatibacter;B03.440.450.600.224
+Aggregatibacter actinomycetemcomitans;B03.440.450.600.224.500
+Aggregatibacter aphrophilus;B03.440.450.600.224.750
+Aggregatibacter segnis;B03.440.450.600.224.875
+Haemophilus;B03.440.450.600.450
+Haemophilus ducreyi;B03.440.450.600.450.125
+Haemophilus influenzae;B03.440.450.600.450.330
+Haemophilus influenzae type b;B03.440.450.600.450.330.150
+Haemophilus paragallinarum;B03.440.450.600.450.665
+Haemophilus parainfluenzae;B03.440.450.600.450.675
+Haemophilus paraphrophilus;B03.440.450.600.450.690
+Haemophilus parasuis;B03.440.450.600.450.700
+Haemophilus somnus;B03.440.450.600.450.750
+Mannheimia;B03.440.450.600.500
+Mannheimia haemolytica;B03.440.450.600.500.500
+Pasteurella;B03.440.450.600.600
+Pasteurella multocida;B03.440.450.600.600.500
+Pasteurella pneumotropica;B03.440.450.600.600.650
+Rahnella;B03.440.450.650
+Shewanella;B03.440.450.690
+Shewanella putrefaciens;B03.440.450.690.590
+Streptobacillus;B03.440.450.700
+Vibrionaceae;B03.440.450.900
+Aliivibrio;B03.440.450.900.050
+Aliivibrio fischeri;B03.440.450.900.050.860
+Aliivibrio salmonicida;B03.440.450.900.050.930
+Listonella;B03.440.450.900.500
+Photobacterium;B03.440.450.900.604
+Vibrio;B03.440.450.900.859
+Vibrio alginolyticus;B03.440.450.900.859.030
+Vibrio cholerae;B03.440.450.900.859.225
+Vibrio cholerae non-O1;B03.440.450.900.859.225.075
+Vibrio cholerae O1;B03.440.450.900.859.225.151
+Vibrio cholerae O139;B03.440.450.900.859.225.200
+Vibrio mimicus;B03.440.450.900.859.500
+Vibrio parahaemolyticus;B03.440.450.900.859.550
+Vibrio vulnificus;B03.440.450.900.859.900
+Zymomonas;B03.440.450.980
+Gram-Negative Oxygenic Photosynthetic Bacteria;B03.440.475
+Cyanobacteria;B03.440.475.100
+Anabaena;B03.440.475.100.100
+Anabaena cylindrica;B03.440.475.100.100.150
+Anabaena flos-aquae;B03.440.475.100.100.300
+Anabaena variabilis;B03.440.475.100.100.900
+Aphanizomenon;B03.440.475.100.110
+Cyanothece;B03.440.475.100.200
+Cylindrospermopsis;B03.440.475.100.210
+Microcystis;B03.440.475.100.500
+Nodularia;B03.440.475.100.550
+Nostoc;B03.440.475.100.575
+Nostoc commune;B03.440.475.100.575.150
+Nostoc muscorum;B03.440.475.100.575.500
+Oscillatoria;B03.440.475.100.612
+Plectonema;B03.440.475.100.650
+Prochlorophytes;B03.440.475.100.655
+Prochlorococcus;B03.440.475.100.655.600
+Prochloron;B03.440.475.100.655.620
+Prochlorothrix;B03.440.475.100.655.640
+Synechococcus;B03.440.475.100.745
+Synechocystis;B03.440.475.100.750
+Helicobacter;B03.440.500
+Helicobacter felis;B03.440.500.250
+Helicobacter heilmannii;B03.440.500.350
+Helicobacter hepaticus;B03.440.500.362
+Helicobacter mustelae;B03.440.500.450
+Helicobacter pylori;B03.440.500.550
+Lawsonia Bacteria;B03.440.520
+Methylosinus;B03.440.540
+Methylosinus trichosporium;B03.440.540.500
+Oceanospirillaceae;B03.440.595
+Ornithobacterium;B03.440.602
+Piscirickettsiaceae;B03.440.612
+Planctomycetales;B03.440.614
+Rhodobacter;B03.440.623
+Rhodobacter capsulatus;B03.440.623.225
+Rhodobacter sphaeroides;B03.440.623.700
+Rhodomicrobium;B03.440.645
+Rhodovulum;B03.440.646
+Rickettsiaceae;B03.440.647
+Rickettsieae;B03.440.647.650
+Orientia tsutsugamushi;B03.440.647.650.550
+Rickettsia;B03.440.647.650.650
+Rickettsia akari;B03.440.647.650.650.040
+Rickettsia conorii;B03.440.647.650.650.125
+Rickettsia felis;B03.440.647.650.650.362
+Rickettsia prowazekii;B03.440.647.650.650.600
+Rickettsia rickettsii;B03.440.647.650.650.650
+Rickettsia typhi;B03.440.647.650.650.810
+Wolbachia;B03.440.647.825
+Roseobacter;B03.440.680
+Spirillaceae;B03.440.840
+Spirillum;B03.440.840.750
+Tenericutes;B03.440.860
+Acholeplasmataceae;B03.440.860.074
+Acholeplasma;B03.440.860.074.150
+Acholeplasma laidlawii;B03.440.860.074.150.500
+Phytoplasma;B03.440.860.074.575
+Entomoplasmatales;B03.440.860.300
+Entomoplasmataceae;B03.440.860.300.250
+Spiroplasmataceae;B03.440.860.300.750
+Spiroplasma;B03.440.860.300.750.625
+Spiroplasma citri;B03.440.860.300.750.625.500
+Mycoplasmatales;B03.440.860.580
+Mycoplasmataceae;B03.440.860.580.553
+Mycoplasma;B03.440.860.580.553.553
+Mycoplasma agalactiae;B03.440.860.580.553.553.050
+Mycoplasma arthritidis;B03.440.860.580.553.553.075
+Mycoplasma bovigenitalium;B03.440.860.580.553.553.195
+Mycoplasma bovis;B03.440.860.580.553.553.200
+Mycoplasma capricolum;B03.440.860.580.553.553.210
+Mycoplasma conjunctivae;B03.440.860.580.553.553.220
+Mycoplasma dispar;B03.440.860.580.553.553.267
+Mycoplasma fermentans;B03.440.860.580.553.553.315
+Mycoplasma gallisepticum;B03.440.860.580.553.553.345
+Mycoplasma genitalium;B03.440.860.580.553.553.355
+Mycoplasma hominis;B03.440.860.580.553.553.400
+Mycoplasma hyopneumoniae;B03.440.860.580.553.553.420
+Mycoplasma hyorhinis;B03.440.860.580.553.553.425
+Mycoplasma hyosynoviae;B03.440.860.580.553.553.430
+Mycoplasma iowae;B03.440.860.580.553.553.450
+Mycoplasma meleagridis;B03.440.860.580.553.553.570
+Mycoplasma mycoides;B03.440.860.580.553.553.585
+Mycoplasma orale;B03.440.860.580.553.553.630
+Mycoplasma ovipneumoniae;B03.440.860.580.553.553.635
+Mycoplasma penetrans;B03.440.860.580.553.553.645
+Mycoplasma pneumoniae;B03.440.860.580.553.553.650
+Mycoplasma pulmonis;B03.440.860.580.553.553.670
+Mycoplasma salivarium;B03.440.860.580.553.553.720
+Mycoplasma synoviae;B03.440.860.580.553.553.770
+Ureaplasma;B03.440.860.580.553.900
+Ureaplasma urealyticum;B03.440.860.580.553.900.800
+Verrucomicrobia;B03.440.930
+Gram-Positive Bacteria;B03.510
+Actinobacteria;B03.510.024
+Actinomycetales;B03.510.024.049
+Actinomycetaceae;B03.510.024.049.050
+Actinomyces;B03.510.024.049.050.050
+Actinomyces viscosus;B03.510.024.049.050.050.050
+Arcanobacterium;B03.510.024.049.050.287
+Mobiluncus;B03.510.024.049.050.525
+Brevibacterium;B03.510.024.049.100
+Cellulomonas;B03.510.024.049.150
+Corynebacterium;B03.510.024.049.180
+Brevibacterium flavum;B03.510.024.049.180.100
+Corynebacterium diphtheriae;B03.510.024.049.180.150
+Corynebacterium glutamicum;B03.510.024.049.180.300
+Corynebacterium pseudotuberculosis;B03.510.024.049.180.600
+Corynebacterium pyogenes;B03.510.024.049.180.625
+Frankia;B03.510.024.049.250
+Gordonia Bacterium;B03.510.024.049.300
+Micrococcaceae;B03.510.024.049.475
+Arthrobacter;B03.510.024.049.475.050
+Micrococcus;B03.510.024.049.475.500
+Micrococcus luteus;B03.510.024.049.475.500.500
+Micromonosporaceae;B03.510.024.049.500
+Micromonospora;B03.510.024.049.500.500
+Mycobacteriaceae;B03.510.024.049.525
+Mycobacterium;B03.510.024.049.525.500
+Mycobacterium avium;B03.510.024.049.525.500.300
+Mycobacterium avium subsp. paratuberculosis;B03.510.024.049.525.500.300.600
+Mycobacterium bovis;B03.510.024.049.525.500.402
+Mycobacterium haemophilum;B03.510.024.049.525.500.480
+Mycobacterium leprae;B03.510.024.049.525.500.502
+Mycobacterium lepraemurium;B03.510.024.049.525.500.602
+Mycobacterium phlei;B03.510.024.049.525.500.640
+Mycobacterium tuberculosis;B03.510.024.049.525.500.702
+Nontuberculous Mycobacteria;B03.510.024.049.525.500.720
+Mycobacterium avium Complex;B03.510.024.049.525.500.720.100
+Mycobacterium chelonae;B03.510.024.049.525.500.720.225
+Mycobacterium fortuitum;B03.510.024.049.525.500.720.325
+Mycobacterium kansasii;B03.510.024.049.525.500.720.400
+Mycobacterium marinum;B03.510.024.049.525.500.720.500
+Mycobacterium scrofulaceum;B03.510.024.049.525.500.720.625
+Mycobacterium smegmatis;B03.510.024.049.525.500.720.662
+Mycobacterium ulcerans;B03.510.024.049.525.500.720.700
+Mycobacterium xenopi;B03.510.024.049.525.500.720.950
+Nocardiaceae;B03.510.024.049.537
+Nocardia;B03.510.024.049.537.550
+Nocardia asteroides;B03.510.024.049.537.550.550
+Rhodococcus;B03.510.024.049.537.775
+Rhodococcus equi;B03.510.024.049.537.775.700
+Propionibacteriaceae;B03.510.024.049.600
+Propionibacterium;B03.510.024.049.600.600
+Propionibacterium acnes;B03.510.024.049.600.600.600
+Saccharopolyspora;B03.510.024.049.750
+Streptomycetaceae;B03.510.024.049.775
+Streptomyces;B03.510.024.049.775.775
+Streptomyces antibioticus;B03.510.024.049.775.775.100
+Streptomyces aureofaciens;B03.510.024.049.775.775.125
+Streptomyces coelicolor;B03.510.024.049.775.775.200
+Streptomyces griseus;B03.510.024.049.775.775.375
+Streptomyces lividans;B03.510.024.049.775.775.500
+Streptomyces rimosus;B03.510.024.049.775.775.750
+Tropheryma;B03.510.024.049.887
+Bifidobacterium;B03.510.024.100
+Gardnerella;B03.510.024.400
+Gardnerella vaginalis;B03.510.024.400.800
+Bacillales;B03.510.100
+Alicyclobacillus;B03.510.100.050
+Bacillaceae;B03.510.100.100
+Anoxybacillus;B03.510.100.100.108
+Bacillus;B03.510.100.100.218
+Bacillus anthracis;B03.510.100.100.218.151
+Bacillus cereus;B03.510.100.100.218.252
+Bacillus megaterium;B03.510.100.100.218.500
+Bacillus subtilis;B03.510.100.100.218.725
+Bacillus thuringiensis;B03.510.100.100.218.800
+Geobacillus;B03.510.100.100.400
+Geobacillus stearothermophilus;B03.510.100.100.400.400
+Halobacillus;B03.510.100.100.425
+Planococcaceae;B03.510.100.100.600
+Sporosarcina;B03.510.100.100.600.700
+Brevibacillus;B03.510.100.117
+Brochothrix;B03.510.100.120
+Gemella;B03.510.100.310
+Listeria;B03.510.100.500
+Listeria monocytogenes;B03.510.100.500.500
+Paenibacillus;B03.510.100.645
+Pasteuria;B03.510.100.650
+Staphylococcaceae;B03.510.100.750
+Staphylococcus;B03.510.100.750.750
+Staphylococcus aureus;B03.510.100.750.750.100
+Methicillin-Resistant Staphylococcus aureus;B03.510.100.750.750.100.500
+Staphylococcus epidermidis;B03.510.100.750.750.343
+Staphylococcus haemolyticus;B03.510.100.750.750.400
+Staphylococcus hominis;B03.510.100.750.750.425
+Staphylococcus hyicus;B03.510.100.750.750.435
+Staphylococcus intermedius;B03.510.100.750.750.445
+Staphylococcus lugdunensis;B03.510.100.750.750.500
+Staphylococcus saprophyticus;B03.510.100.750.750.750
+Thermoactinomyces;B03.510.100.800
+Gram-Positive Cocci;B03.510.400
+Aerococcus;B03.510.400.030
+Deinococcus;B03.510.400.200
+Micrococcaceae;B03.510.400.500
+Micrococcus;B03.510.400.500.500
+Micrococcus luteus;B03.510.400.500.500.400
+Oenococcus;B03.510.400.531
+Peptococcaceae;B03.510.400.562
+Peptococcus;B03.510.400.562.593
+Peptostreptococcus;B03.510.400.625
+Planococcaceae;B03.510.400.630
+Planococcus Bacteria;B03.510.400.630.600
+Sporosarcina;B03.510.400.630.700
+Ruminococcus;B03.510.400.687
+Sarcina;B03.510.400.750
+Staphylococcaceae;B03.510.400.790
+Staphylococcus;B03.510.400.790.750
+Staphylococcus aureus;B03.510.400.790.750.100
+Methicillin-Resistant Staphylococcus aureus;B03.510.400.790.750.100.500
+Staphylococcus epidermidis;B03.510.400.790.750.343
+Staphylococcus haemolyticus;B03.510.400.790.750.400
+Staphylococcus hominis;B03.510.400.790.750.425
+Staphylococcus hyicus;B03.510.400.790.750.435
+Staphylococcus intermedius;B03.510.400.790.750.445
+Staphylococcus lugdunensis;B03.510.400.790.750.500
+Staphylococcus saprophyticus;B03.510.400.790.750.750
+Streptococcaceae;B03.510.400.800
+Lactococcus;B03.510.400.800.500
+Lactococcus lactis;B03.510.400.800.500.400
+Streptococcus;B03.510.400.800.872
+Streptococcus agalactiae;B03.510.400.800.872.100
+Streptococcus bovis;B03.510.400.800.872.150
+Streptococcus equi;B03.510.400.800.872.225
+Streptococcus gordonii;B03.510.400.800.872.260
+Streptococcus pneumoniae;B03.510.400.800.872.550
+Streptococcus pyogenes;B03.510.400.800.872.575
+Streptococcus suis;B03.510.400.800.872.750
+Streptococcus thermophilus;B03.510.400.800.872.800
+Viridans Streptococci;B03.510.400.800.872.875
+Streptococcus milleri Group;B03.510.400.800.872.875.475
+Streptococcus anginosus;B03.510.400.800.872.875.475.080
+Streptococcus constellatus;B03.510.400.800.872.875.475.150
+Streptococcus intermedius;B03.510.400.800.872.875.475.400
+Streptococcus mitis;B03.510.400.800.872.875.500
+Streptococcus mutans;B03.510.400.800.872.875.520
+Streptococcus oralis;B03.510.400.800.872.875.600
+Streptococcus sanguis;B03.510.400.800.872.875.700
+Streptococcus sobrinus;B03.510.400.800.872.875.750
+Gram-Positive Endospore-Forming Bacteria;B03.510.415
+Gram-Positive Endospore-Forming Rods;B03.510.415.400
+Alicyclobacillus;B03.510.415.400.078
+Bacillaceae;B03.510.415.400.158
+Anoxybacillus;B03.510.415.400.158.108
+Bacillus;B03.510.415.400.158.218
+Bacillus anthracis;B03.510.415.400.158.218.151
+Bacillus cereus;B03.510.415.400.158.218.252
+Bacillus megaterium;B03.510.415.400.158.218.500
+Bacillus subtilis;B03.510.415.400.158.218.725
+Bacillus thuringiensis;B03.510.415.400.158.218.800
+Geobacillus;B03.510.415.400.158.400
+Geobacillus stearothermophilus;B03.510.415.400.158.400.400
+Halobacillus;B03.510.415.400.158.425
+Virgibacillus;B03.510.415.400.158.900
+Brevibacillus;B03.510.415.400.179
+Clostridium;B03.510.415.400.200
+Clostridium acetobutylicum;B03.510.415.400.200.025
+Clostridium beijerinckii;B03.510.415.400.200.100
+Clostridium bifermentans;B03.510.415.400.200.130
+Clostridium botulinum;B03.510.415.400.200.160
+Clostridium botulinum type A;B03.510.415.400.200.160.050
+Clostridium botulinum type B;B03.510.415.400.200.160.100
+Clostridium botulinum type C;B03.510.415.400.200.160.150
+Clostridium botulinum type D;B03.510.415.400.200.160.200
+Clostridium botulinum type E;B03.510.415.400.200.160.250
+Clostridium botulinum type F;B03.510.415.400.200.160.300
+Clostridium botulinum type G;B03.510.415.400.200.160.350
+Clostridium butyricum;B03.510.415.400.200.180
+Clostridium cellulolyticum;B03.510.415.400.200.200
+Clostridium cellulovorans;B03.510.415.400.200.205
+Clostridium chauvoei;B03.510.415.400.200.215
+Clostridium difficile;B03.510.415.400.200.250
+Clostridium histolyticum;B03.510.415.400.200.412
+Clostridium kluyveri;B03.510.415.400.200.493
+Clostridium perfringens;B03.510.415.400.200.575
+Clostridium septicum;B03.510.415.400.200.690
+Clostridium sordellii;B03.510.415.400.200.700
+Clostridium sticklandii;B03.510.415.400.200.710
+Clostridium symbiosum;B03.510.415.400.200.713
+Clostridium tertium;B03.510.415.400.200.722
+Clostridium tetani;B03.510.415.400.200.725
+Clostridium tetanomorphum;B03.510.415.400.200.740
+Clostridium thermocellum;B03.510.415.400.200.770
+Clostridium tyrobutyricum;B03.510.415.400.200.800
+Desulfotomaculum;B03.510.415.400.230
+Micromonosporaceae;B03.510.415.400.500
+Micromonospora;B03.510.415.400.500.500
+Moorella;B03.510.415.400.525
+Paenibacillus;B03.510.415.400.645
+Saccharopolyspora;B03.510.415.400.790
+Streptomycetaceae;B03.510.415.400.810
+Streptomyces;B03.510.415.400.810.768
+Streptomyces antibioticus;B03.510.415.400.810.768.100
+Streptomyces aureofaciens;B03.510.415.400.810.768.125
+Streptomyces coelicolor;B03.510.415.400.810.768.200
+Streptomyces griseus;B03.510.415.400.810.768.375
+Streptomyces lividans;B03.510.415.400.810.768.500
+Streptomyces rimosus;B03.510.415.400.810.768.750
+Thermoactinomyces;B03.510.415.400.850
+Pasteuria;B03.510.415.650
+Sporosarcina;B03.510.415.700
+Gram-Positive Rods;B03.510.460
+Gram-Positive Asporogenous Rods;B03.510.460.400
+Gram-Positive Asporogenous Rods, Irregular;B03.510.460.400.400
+Acetobacterium;B03.510.460.400.400.024
+Actinobacteria;B03.510.460.400.400.049
+Actinomycetaceae;B03.510.460.400.400.049.049
+Actinomyces;B03.510.460.400.400.049.049.178
+Actinomyces viscosus;B03.510.460.400.400.049.049.178.800
+Arcanobacterium;B03.510.460.400.400.049.049.200
+Mobiluncus;B03.510.460.400.400.049.049.589
+Arthrobacter;B03.510.460.400.400.049.074
+Bifidobacterium;B03.510.460.400.400.049.100
+Brevibacterium;B03.510.460.400.400.049.550
+Butyrivibrio;B03.510.460.400.400.124
+Corynebacterium;B03.510.460.400.400.200
+Corynebacterium diphtheriae;B03.510.460.400.400.200.150
+Corynebacterium glutamicum;B03.510.460.400.400.200.300
+Corynebacterium pseudotuberculosis;B03.510.460.400.400.200.600
+Corynebacterium pyogenes;B03.510.460.400.400.200.625
+Eubacterium;B03.510.460.400.400.250
+Propionibacteriaceae;B03.510.460.400.400.600
+Propionibacterium;B03.510.460.400.400.600.600
+Propionibacterium acnes;B03.510.460.400.400.600.600.600
+Thermoanaerobacter;B03.510.460.400.400.790
+Thermoanaerobacterium;B03.510.460.400.400.800
+Gram-Positive Asporogenous Rods, Regular;B03.510.460.400.410
+Brochothrix;B03.510.460.400.410.120
+Erysipelothrix;B03.510.460.400.410.350
+Lactobacillaceae;B03.510.460.400.410.475
+Lactobacillus;B03.510.460.400.410.475.475
+Lactobacillus acidophilus;B03.510.460.400.410.475.475.100
+Lactobacillus brevis;B03.510.460.400.410.475.475.180
+Lactobacillus casei;B03.510.460.400.410.475.475.225
+Lactobacillus delbrueckii;B03.510.460.400.410.475.475.250
+Lactobacillus fermentum;B03.510.460.400.410.475.475.325
+Lactobacillus helveticus;B03.510.460.400.410.475.475.400
+Lactobacillus leichmannii;B03.510.460.400.410.475.475.506
+Lactobacillus plantarum;B03.510.460.400.410.475.475.612
+Lactobacillus reuteri;B03.510.460.400.410.475.475.680
+Lactobacillus rhamnosus;B03.510.460.400.410.475.475.700
+Listeria;B03.510.460.400.410.485
+Listeria monocytogenes;B03.510.460.400.410.485.500
+Mycobacteriaceae;B03.510.460.400.410.552
+Mycobacterium;B03.510.460.400.410.552.552
+Mycobacterium avium;B03.510.460.400.410.552.552.300
+Mycobacterium avium subsp. paratuberculosis;B03.510.460.400.410.552.552.300.600
+Mycobacterium bovis;B03.510.460.400.410.552.552.402
+Mycobacterium haemophilum;B03.510.460.400.410.552.552.480
+Mycobacterium leprae;B03.510.460.400.410.552.552.502
+Mycobacterium lepraemurium;B03.510.460.400.410.552.552.602
+Mycobacterium phlei;B03.510.460.400.410.552.552.640
+Mycobacterium tuberculosis;B03.510.460.400.410.552.552.702
+Nontuberculous Mycobacteria;B03.510.460.400.410.552.552.720
+Mycobacterium avium Complex;B03.510.460.400.410.552.552.720.100
+Mycobacterium chelonae;B03.510.460.400.410.552.552.720.225
+Mycobacterium fortuitum;B03.510.460.400.410.552.552.720.325
+Mycobacterium kansasii;B03.510.460.400.410.552.552.720.400
+Mycobacterium marinum;B03.510.460.400.410.552.552.720.500
+Mycobacterium scrofulaceum;B03.510.460.400.410.552.552.720.625
+Mycobacterium smegmatis;B03.510.460.400.410.552.552.720.662
+Mycobacterium ulcerans;B03.510.460.400.410.552.552.720.700
+Mycobacterium xenopi;B03.510.460.400.410.552.552.720.950
+Gram-Positive Endospore-Forming Rods;B03.510.460.410
+Bacillaceae;B03.510.460.410.158
+Anoxybacillus;B03.510.460.410.158.108
+Bacillus;B03.510.460.410.158.218
+Bacillus anthracis;B03.510.460.410.158.218.151
+Bacillus cereus;B03.510.460.410.158.218.252
+Bacillus megaterium;B03.510.460.410.158.218.500
+Bacillus subtilis;B03.510.460.410.158.218.725
+Bacillus thuringiensis;B03.510.460.410.158.218.800
+Geobacillus;B03.510.460.410.158.400
+Geobacillus stearothermophilus;B03.510.460.410.158.400.400
+Halobacillus;B03.510.460.410.158.425
+Virgibacillus;B03.510.460.410.158.900
+Brevibacillus;B03.510.460.410.165
+Micromonosporaceae;B03.510.460.410.500
+Micromonospora;B03.510.460.410.500.500
+Moorella;B03.510.460.410.525
+Paenibacillus;B03.510.460.410.645
+Saccharopolyspora;B03.510.460.410.790
+Streptomycetaceae;B03.510.460.410.810
+Streptomyces;B03.510.460.410.810.768
+Streptomyces antibioticus;B03.510.460.410.810.768.100
+Streptomyces aureofaciens;B03.510.460.410.810.768.125
+Streptomyces coelicolor;B03.510.460.410.810.768.200
+Streptomyces griseus;B03.510.460.410.810.768.375
+Streptomyces lividans;B03.510.460.410.810.768.500
+Streptomyces rimosus;B03.510.460.410.810.768.750
+Thermoactinomyces;B03.510.460.410.850
+Lactobacillales;B03.510.550
+Aerococcaceae;B03.510.550.030
+Abiotrophia;B03.510.550.030.014
+Aerococcus;B03.510.550.030.030
+Carnobacteriaceae;B03.510.550.130
+Carnobacterium;B03.510.550.130.150
+Enterococcaceae;B03.510.550.250
+Enterococcus;B03.510.550.250.250
+Enterococcus faecalis;B03.510.550.250.250.280
+Enterococcus faecium;B03.510.550.250.250.300
+Vancomycin-Resistant Enterococci;B03.510.550.250.250.650
+Lactobacillaceae;B03.510.550.450
+Lactobacillus;B03.510.550.450.475
+Lactobacillus acidophilus;B03.510.550.450.475.100
+Lactobacillus brevis;B03.510.550.450.475.180
+Lactobacillus casei;B03.510.550.450.475.225
+Lactobacillus delbrueckii;B03.510.550.450.475.250
+Lactobacillus fermentum;B03.510.550.450.475.325
+Lactobacillus helveticus;B03.510.550.450.475.400
+Lactobacillus leichmannii;B03.510.550.450.475.506
+Lactobacillus plantarum;B03.510.550.450.475.612
+Lactobacillus reuteri;B03.510.550.450.475.680
+Lactobacillus rhamnosus;B03.510.550.450.475.700
+Pediococcus;B03.510.550.450.737
+Leuconostocaceae;B03.510.550.475
+Leuconostoc;B03.510.550.475.450
+Oenococcus;B03.510.550.475.600
+Weissella;B03.510.550.475.900
+Streptococcaceae;B03.510.550.737
+Lactococcus;B03.510.550.737.500
+Lactococcus lactis;B03.510.550.737.500.400
+Streptococcus;B03.510.550.737.872
+Streptococcus agalactiae;B03.510.550.737.872.100
+Streptococcus bovis;B03.510.550.737.872.150
+Streptococcus equi;B03.510.550.737.872.225
+Streptococcus gordonii;B03.510.550.737.872.260
+Streptococcus pneumoniae;B03.510.550.737.872.550
+Streptococcus pyogenes;B03.510.550.737.872.575
+Streptococcus suis;B03.510.550.737.872.750
+Streptococcus thermophilus;B03.510.550.737.872.800
+Viridans Streptococci;B03.510.550.737.872.875
+Streptococcus milleri Group;B03.510.550.737.872.875.475
+Streptococcus anginosus;B03.510.550.737.872.875.475.080
+Streptococcus constellatus;B03.510.550.737.872.875.475.150
+Streptococcus intermedius;B03.510.550.737.872.875.475.400
+Streptococcus mitis;B03.510.550.737.872.875.500
+Streptococcus mutans;B03.510.550.737.872.875.520
+Streptococcus oralis;B03.510.550.737.872.875.600
+Streptococcus sanguis;B03.510.550.737.872.875.700
+Streptococcus sobrinus;B03.510.550.737.872.875.750
+Planctomycetales;B03.650
+Proteobacteria;B03.660
+Alphaproteobacteria;B03.660.050
+Anaplasmataceae;B03.660.050.020
+Anaplasma;B03.660.050.020.050
+Anaplasma centrale;B03.660.050.020.050.100
+Anaplasma marginale;B03.660.050.020.050.500
+Anaplasma ovis;B03.660.050.020.050.575
+Anaplasma phagocytophilum;B03.660.050.020.050.600
+Ehrlichia;B03.660.050.020.287
+Ehrlichia canis;B03.660.050.020.287.090
+Ehrlichia chaffeensis;B03.660.050.020.287.100
+Ehrlichia ruminantium;B03.660.050.020.287.700
+Neorickettsia;B03.660.050.020.525
+Neorickettsia risticii;B03.660.050.020.525.700
+Neorickettsia sennetsu;B03.660.050.020.525.720
+Bartonellaceae;B03.660.050.030
+Bartonella;B03.660.050.030.040
+Bartonella bacilliformis;B03.660.050.030.040.080
+Bartonella henselae;B03.660.050.030.040.350
+Bartonella quintana;B03.660.050.030.040.650
+Beijerinckiaceae;B03.660.050.032
+Bradyrhizobiaceae;B03.660.050.035
+Afipia;B03.660.050.035.040
+Bradyrhizobium;B03.660.050.035.090
+Nitrobacter;B03.660.050.035.520
+Rhodopseudomonas;B03.660.050.035.700
+Brucellaceae;B03.660.050.070
+Brucella;B03.660.050.070.100
+Brucella abortus;B03.660.050.070.100.100
+Brucella canis;B03.660.050.070.100.150
+Brucella melitensis;B03.660.050.070.100.500
+Brucella ovis;B03.660.050.070.100.625
+Brucella suis;B03.660.050.070.100.750
+Ochrobactrum;B03.660.050.070.700
+Ochrobactrum anthropi;B03.660.050.070.700.650
+Caulobacteraceae;B03.660.050.090
+Caulobacter;B03.660.050.090.100
+Caulobacter crescentus;B03.660.050.090.100.100
+Holosporaceae;B03.660.050.340
+Hyphomicrobiaceae;B03.660.050.350
+Azorhizobium;B03.660.050.350.080
+Azorhizobium caulinodans;B03.660.050.350.080.100
+Hyphomicrobium;B03.660.050.350.400
+Rhodomicrobium;B03.660.050.350.675
+Xanthobacter;B03.660.050.350.950
+Methylobacteriaceae;B03.660.050.500
+Methylobacterium;B03.660.050.500.500
+Methylobacterium extorquens;B03.660.050.500.500.150
+Methylocystaceae;B03.660.050.512
+Methylosinus;B03.660.050.512.500
+Methylosinus trichosporium;B03.660.050.512.500.750
+Phyllobacteriaceae;B03.660.050.600
+Mesorhizobium;B03.660.050.600.500
+Rhodospirillales;B03.660.050.663
+Acetobacteraceae;B03.660.050.663.050
+Acetobacter;B03.660.050.663.050.010
+Acidiphilium;B03.660.050.663.050.020
+Gluconacetobacter;B03.660.050.663.050.400
+Gluconacetobacter xylinus;B03.660.050.663.050.400.500
+Gluconobacter;B03.660.050.663.050.415
+Gluconobacter oxydans;B03.660.050.663.050.415.550
+Rhodospirillaceae;B03.660.050.663.750
+Azospirillum;B03.660.050.663.750.100
+Azospirillum brasilense;B03.660.050.663.750.100.020
+Azospirillum lipoferum;B03.660.050.663.750.100.510
+Magnetospirillum;B03.660.050.663.750.500
+Rhodospirillum;B03.660.050.663.750.733
+Rhodospirillum centenum;B03.660.050.663.750.733.150
+Rhodospirillum rubrum;B03.660.050.663.750.733.650
+Rhizobiaceae;B03.660.050.730
+Agrobacterium;B03.660.050.730.024
+Agrobacterium tumefaciens;B03.660.050.730.024.500
+Rhizobium;B03.660.050.730.670
+Rhizobium etli;B03.660.050.730.670.337
+Rhizobium leguminosarum;B03.660.050.730.670.450
+Rhizobium phaseoli;B03.660.050.730.670.600
+Rhizobium tropici;B03.660.050.730.670.800
+Sinorhizobium;B03.660.050.730.835
+Sinorhizobium fredii;B03.660.050.730.835.399
+Sinorhizobium meliloti;B03.660.050.730.835.800
+Rhodobacteraceae;B03.660.050.750
+Paracoccus;B03.660.050.750.600
+Paracoccus denitrificans;B03.660.050.750.600.125
+Paracoccus pantotrophus;B03.660.050.750.600.600
+Rhodobacter;B03.660.050.750.700
+Rhodobacter capsulatus;B03.660.050.750.700.225
+Rhodobacter sphaeroides;B03.660.050.750.700.700
+Rhodovulum;B03.660.050.750.725
+Roseobacter;B03.660.050.750.750
+Rickettsiaceae;B03.660.050.765
+Rickettsieae;B03.660.050.765.650
+Orientia tsutsugamushi;B03.660.050.765.650.600
+Rickettsia;B03.660.050.765.650.650
+Rickettsia akari;B03.660.050.765.650.650.040
+Rickettsia conorii;B03.660.050.765.650.650.180
+Rickettsia felis;B03.660.050.765.650.650.320
+Rickettsia prowazekii;B03.660.050.765.650.650.600
+Rickettsia rickettsii;B03.660.050.765.650.650.650
+Rickettsia typhi;B03.660.050.765.650.650.810
+Wolbachia;B03.660.050.765.825
+Sphingomonadaceae;B03.660.050.800
+Sphingomonas;B03.660.050.800.750
+Zymomonas;B03.660.050.800.990
+Betaproteobacteria;B03.660.075
+Alcaligenaceae;B03.660.075.027
+Achromobacter;B03.660.075.027.030
+Achromobacter cycloclastes;B03.660.075.027.030.100
+Achromobacter denitrificans;B03.660.075.027.030.120
+Alcaligenes;B03.660.075.027.050
+Alcaligenes faecalis;B03.660.075.027.050.200
+Bordetella;B03.660.075.027.075
+Bordetella avium;B03.660.075.027.075.024
+Bordetella bronchiseptica;B03.660.075.027.075.050
+Bordetella parapertussis;B03.660.075.027.075.590
+Bordetella pertussis;B03.660.075.027.075.600
+Taylorella;B03.660.075.027.800
+Taylorella equigenitalis;B03.660.075.027.800.200
+Burkholderiaceae;B03.660.075.077
+Burkholderia;B03.660.075.077.100
+Burkholderia cepacia complex;B03.660.075.077.100.110
+Burkholderia cenocepacia;B03.660.075.077.100.110.490
+Burkholderia cepacia;B03.660.075.077.100.110.500
+Burkholderia gladioli;B03.660.075.077.100.355
+Burkholderia mallei;B03.660.075.077.100.477
+Burkholderia pseudomallei;B03.660.075.077.100.600
+Cupriavidus;B03.660.075.077.200
+Cupriavidus necator;B03.660.075.077.200.200
+Ralstonia;B03.660.075.077.650
+Ralstonia pickettii;B03.660.075.077.650.600
+Ralstonia solanacearum;B03.660.075.077.650.750
+Comamonadaceae;B03.660.075.102
+Comamonas;B03.660.075.102.150
+Comamonas testosteroni;B03.660.075.102.150.750
+Delftia;B03.660.075.102.170
+Delftia acidovorans;B03.660.075.102.170.030
+Leptothrix;B03.660.075.102.500
+Sphaerotilus;B03.660.075.102.750
+Gallionellaceae;B03.660.075.375
+Hydrogenophilaceae;B03.660.075.400
+Thiobacillus;B03.660.075.400.800
+Methylophilaceae;B03.660.075.495
+Methylobacillus;B03.660.075.495.500
+Methylophilus;B03.660.075.495.520
+Methylophilus methylotrophus;B03.660.075.495.520.500
+Neisseriaceae;B03.660.075.525
+Chromobacterium;B03.660.075.525.100
+Eikenella;B03.660.075.525.170
+Eikenella corrodens;B03.660.075.525.170.100
+Kingella;B03.660.075.525.410
+Kingella kingae;B03.660.075.525.410.410
+Neisseria;B03.660.075.525.520
+Neisseria cinerea;B03.660.075.525.520.124
+Neisseria elongata;B03.660.075.525.520.262
+Neisseria gonorrhoeae;B03.660.075.525.520.400
+Neisseria lactamica;B03.660.075.525.520.475
+Neisseria meningitidis;B03.660.075.525.520.500
+Neisseria meningitidis, Serogroup A;B03.660.075.525.520.500.700
+Neisseria meningitidis, Serogroup B;B03.660.075.525.520.500.710
+Neisseria meningitidis, Serogroup C;B03.660.075.525.520.500.720
+Neisseria meningitidis, Serogroup W-135;B03.660.075.525.520.500.800
+Neisseria meningitidis, Serogroup Y;B03.660.075.525.520.500.820
+Neisseria mucosa;B03.660.075.525.520.520
+Neisseria sicca;B03.660.075.525.520.760
+Vitreoscilla;B03.660.075.525.900
+Nitrosomonadaceae;B03.660.075.550
+Nitrosomonas;B03.660.075.550.500
+Nitrosomonas europaea;B03.660.075.550.500.200
+Oxalobacteraceae;B03.660.075.600
+Herbaspirillum;B03.660.075.600.400
+Oxalobacter formigenes;B03.660.075.600.600
+Rhodocyclaceae;B03.660.075.655
+Azoarcus;B03.660.075.655.070
+Thauera;B03.660.075.655.800
+Zoogloea;B03.660.075.655.975
+Spirillaceae;B03.660.075.710
+Spirillum;B03.660.075.710.750
+Deltaproteobacteria;B03.660.125
+Bdellovibrio;B03.660.125.050
+Bilophila;B03.660.125.087
+Desulfovibrio;B03.660.125.125
+Desulfovibrio africanus;B03.660.125.125.040
+Desulfovibrio desulfuricans;B03.660.125.125.150
+Desulfovibrio gigas;B03.660.125.125.350
+Desulfovibrio vulgaris;B03.660.125.125.875
+Desulfuromonas;B03.660.125.150
+Geobacter;B03.660.125.305
+Lawsonia Bacteria;B03.660.125.460
+Myxococcales;B03.660.125.500
+Myxococcus;B03.660.125.500.605
+Myxococcus xanthus;B03.660.125.500.605.900
+Stigmatella;B03.660.125.500.710
+Stigmatella aurantiaca;B03.660.125.500.710.050
+Epsilonproteobacteria;B03.660.150
+Arcobacter;B03.660.150.050
+Campylobacter;B03.660.150.100
+Campylobacter coli;B03.660.150.100.100
+Campylobacter fetus;B03.660.150.100.220
+Campylobacter hyointestinalis;B03.660.150.100.297
+Campylobacter jejuni;B03.660.150.100.375
+Campylobacter lari;B03.660.150.100.450
+Campylobacter rectus;B03.660.150.100.700
+Campylobacter sputorum;B03.660.150.100.740
+Campylobacter upsaliensis;B03.660.150.100.850
+Helicobacter;B03.660.150.280
+Helicobacter felis;B03.660.150.280.350
+Helicobacter heilmannii;B03.660.150.280.400
+Helicobacter hepaticus;B03.660.150.280.410
+Helicobacter mustelae;B03.660.150.280.480
+Helicobacter pylori;B03.660.150.280.550
+Wolinella;B03.660.150.920
+Gammaproteobacteria;B03.660.250
+Acidithiobacillus;B03.660.250.015
+Acidithiobacillus thiooxidans;B03.660.250.015.800
+Aeromonadaceae;B03.660.250.017
+Aeromonas;B03.660.250.017.025
+Aeromonas caviae;B03.660.250.017.025.150
+Aeromonas hydrophila;B03.660.250.017.025.380
+Aeromonas salmonicida;B03.660.250.017.025.690
+Alcanivoraceae;B03.660.250.019
+Alteromonadaceae;B03.660.250.021
+Alteromonas;B03.660.250.021.020
+Marinobacter;B03.660.250.021.480
+Moritella;B03.660.250.021.500
+Pseudoalteromonas;B03.660.250.021.600
+Shewanella;B03.660.250.021.755
+Shewanella putrefaciens;B03.660.250.021.755.750
+Cardiobacteriaceae;B03.660.250.080
+Cardiobacterium;B03.660.250.080.100
+Dichelobacter nodosus;B03.660.250.080.550
+Chromatiaceae;B03.660.250.110
+Chromatium;B03.660.250.110.150
+Halothiobacillus;B03.660.250.110.400
+Thiocapsa;B03.660.250.110.750
+Thiocapsa roseopersicina;B03.660.250.110.750.660
+Coxiellaceae;B03.660.250.132
+Coxiella;B03.660.250.132.150
+Coxiella burnetii;B03.660.250.132.150.100
+Ectothiorhodospiraceae;B03.660.250.145
+Ectothiorhodospira;B03.660.250.145.500
+Ectothiorhodospira shaposhnikovii;B03.660.250.145.500.720
+Halorhodospira halophila;B03.660.250.145.750
+Enterobacteriaceae;B03.660.250.150
+Buchnera;B03.660.250.150.047
+Calymmatobacterium;B03.660.250.150.095
+Cronobacter;B03.660.250.150.098
+Cronobacter sakazakii;B03.660.250.150.098.150
+Citrobacter;B03.660.250.150.100
+Citrobacter freundii;B03.660.250.150.100.210
+Citrobacter koseri;B03.660.250.150.100.475
+Citrobacter rodentium;B03.660.250.150.100.737
+Edwardsiella;B03.660.250.150.160
+Edwardsiella ictaluri;B03.660.250.150.160.340
+Edwardsiella tarda;B03.660.250.150.160.750
+Enterobacter;B03.660.250.150.170
+Enterobacter aerogenes;B03.660.250.150.170.049
+Enterobacter cloacae;B03.660.250.150.170.100
+Erwinia;B03.660.250.150.175
+Erwinia amylovora;B03.660.250.150.175.050
+Escherichia;B03.660.250.150.180
+Escherichia coli;B03.660.250.150.180.100
+Enteropathogenic Escherichia coli;B03.660.250.150.180.100.330
+Enterotoxigenic Escherichia coli;B03.660.250.150.180.100.340
+Escherichia coli K12;B03.660.250.150.180.100.360
+Shiga-Toxigenic Escherichia coli;B03.660.250.150.180.100.800
+Enterohemorrhagic Escherichia coli;B03.660.250.150.180.100.800.250
+Escherichia coli O157;B03.660.250.150.180.100.800.250.500
+Uropathogenic Escherichia coli;B03.660.250.150.180.100.900
+Hafnia;B03.660.250.150.280
+Hafnia alvei;B03.660.250.150.280.050
+Klebsiella;B03.660.250.150.400
+Klebsiella oxytoca;B03.660.250.150.400.580
+Klebsiella pneumoniae;B03.660.250.150.400.590
+Kluyvera;B03.660.250.150.410
+Morganella;B03.660.250.150.500
+Morganella morganii;B03.660.250.150.500.500
+Pantoea;B03.660.250.150.540
+Pectobacterium;B03.660.250.150.542
+Pectobacterium carotovorum;B03.660.250.150.542.120
+Pectobacterium chrysanthemi;B03.660.250.150.542.150
+Photorhabdus;B03.660.250.150.545
+Plesiomonas;B03.660.250.150.550
+Proteus;B03.660.250.150.590
+Proteus mirabilis;B03.660.250.150.590.500
+Proteus penneri;B03.660.250.150.590.670
+Proteus vulgaris;B03.660.250.150.590.840
+Providencia;B03.660.250.150.600
+Rahnella;B03.660.250.150.655
+Salmonella;B03.660.250.150.710
+Salmonella arizonae;B03.660.250.150.710.050
+Salmonella enterica;B03.660.250.150.710.160
+Salmonella enteritidis;B03.660.250.150.710.160.160
+Salmonella paratyphi A;B03.660.250.150.710.160.580
+Salmonella paratyphi B;B03.660.250.150.710.160.710
+Salmonella paratyphi C;B03.660.250.150.710.160.711
+Salmonella typhi;B03.660.250.150.710.160.750
+Salmonella typhimurium;B03.660.250.150.710.160.760
+Serratia;B03.660.250.150.720
+Serratia liquefaciens;B03.660.250.150.720.480
+Serratia marcescens;B03.660.250.150.720.500
+Shigella;B03.660.250.150.730
+Shigella boydii;B03.660.250.150.730.050
+Shigella dysenteriae;B03.660.250.150.730.125
+Shigella flexneri;B03.660.250.150.730.210
+Shigella sonnei;B03.660.250.150.730.710
+Wigglesworthia;B03.660.250.150.880
+Xenorhabdus;B03.660.250.150.910
+Yersinia;B03.660.250.150.950
+Yersinia enterocolitica;B03.660.250.150.950.160
+Yersinia pestis;B03.660.250.150.950.580
+Yersinia pseudotuberculosis;B03.660.250.150.950.590
+Yersinia ruckeri;B03.660.250.150.950.650
+Francisella;B03.660.250.200
+Francisella tularensis;B03.660.250.200.750
+Halomonadaceae;B03.660.250.350
+Chromohalobacter;B03.660.250.350.249
+Halomonas;B03.660.250.350.500
+Legionellaceae;B03.660.250.460
+Legionella;B03.660.250.460.460
+Legionella longbeachae;B03.660.250.460.460.480
+Legionella pneumophila;B03.660.250.460.460.580
+Methylococcaceae;B03.660.250.500
+Methylococcus;B03.660.250.500.500
+Methylococcus capsulatus;B03.660.250.500.500.100
+Methylomonas;B03.660.250.500.505
+Moraxellaceae;B03.660.250.530
+Acinetobacter;B03.660.250.530.050
+Acinetobacter baumannii;B03.660.250.530.050.099
+Acinetobacter calcoaceticus;B03.660.250.530.050.200
+Moraxella;B03.660.250.530.525
+Moraxella (Branhamella) catarrhalis;B03.660.250.530.525.200
+Moraxella (Moraxella) bovis;B03.660.250.530.525.500
+Psychrobacter;B03.660.250.530.650
+Oceanospirillaceae;B03.660.250.540
+Marinomonas;B03.660.250.540.500
+Pasteurellaceae;B03.660.250.550
+Actinobacillus;B03.660.250.550.050
+Actinobacillus equuli;B03.660.250.550.050.200
+Actinobacillus pleuropneumoniae;B03.660.250.550.050.580
+Actinobacillus seminis;B03.660.250.550.050.675
+Actinobacillus suis;B03.660.250.550.050.700
+Aggregatibacter;B03.660.250.550.170
+Aggregatibacter actinomycetemcomitans;B03.660.250.550.170.500
+Aggregatibacter aphrophilus;B03.660.250.550.170.750
+Aggregatibacter segnis;B03.660.250.550.170.875
+Haemophilus;B03.660.250.550.290
+Haemophilus ducreyi;B03.660.250.550.290.125
+Haemophilus influenzae;B03.660.250.550.290.330
+Haemophilus influenzae type b;B03.660.250.550.290.330.150
+Haemophilus paragallinarum;B03.660.250.550.290.665
+Haemophilus parainfluenzae;B03.660.250.550.290.675
+Haemophilus paraphrophilus;B03.660.250.550.290.690
+Haemophilus parasuis;B03.660.250.550.290.700
+Haemophilus somnus;B03.660.250.550.290.750
+Mannheimia;B03.660.250.550.500
+Mannheimia haemolytica;B03.660.250.550.500.500
+Pasteurella;B03.660.250.550.590
+Pasteurella multocida;B03.660.250.550.590.500
+Pasteurella pneumotropica;B03.660.250.550.590.650
+Piscirickettsiaceae;B03.660.250.565
+Piscirickettsia;B03.660.250.565.600
+Pseudomonadaceae;B03.660.250.580
+Azotobacter;B03.660.250.580.022
+Azotobacter vinelandii;B03.660.250.580.022.820
+Cellvibrio;B03.660.250.580.100
+Pseudomonas;B03.660.250.580.590
+Pseudomonas aeruginosa;B03.660.250.580.590.050
+Pseudomonas alcaligenes;B03.660.250.580.590.070
+Pseudomonas fluorescens;B03.660.250.580.590.210
+Pseudomonas fragi;B03.660.250.580.590.230
+Pseudomonas mendocina;B03.660.250.580.590.500
+Pseudomonas oleovorans;B03.660.250.580.590.570
+Pseudomonas pseudoalcaligenes;B03.660.250.580.590.575
+Pseudomonas putida;B03.660.250.580.590.580
+Pseudomonas stutzeri;B03.660.250.580.590.750
+Pseudomonas syringae;B03.660.250.580.590.770
+Succinivibrionaceae;B03.660.250.740
+Anaerobiospirillum;B03.660.250.740.050
+Thiotrichaceae;B03.660.250.770
+Beggiatoa;B03.660.250.770.100
+Thiothrix;B03.660.250.770.800
+Vibrionaceae;B03.660.250.830
+Aliivibrio;B03.660.250.830.050
+Aliivibrio fischeri;B03.660.250.830.050.860
+Aliivibrio salmonicida;B03.660.250.830.050.930
+Listonella;B03.660.250.830.500
+Photobacterium;B03.660.250.830.590
+Vibrio;B03.660.250.830.830
+Vibrio alginolyticus;B03.660.250.830.830.030
+Vibrio cholerae;B03.660.250.830.830.100
+Vibrio cholerae non-O1;B03.660.250.830.830.100.075
+Vibrio cholerae O1;B03.660.250.830.830.100.151
+Vibrio cholerae O139;B03.660.250.830.830.100.200
+Vibrio mimicus;B03.660.250.830.830.500
+Vibrio parahaemolyticus;B03.660.250.830.830.590
+Vibrio vulnificus;B03.660.250.830.830.900
+Xanthomonadaceae;B03.660.250.915
+Lysobacter;B03.660.250.915.500
+Stenotrophomonas;B03.660.250.915.750
+Stenotrophomonas maltophilia;B03.660.250.915.750.500
+Xanthomonas;B03.660.250.915.930
+Xanthomonas axonopodis;B03.660.250.915.930.049
+Xanthomonas campestris;B03.660.250.915.930.100
+Xanthomonas vesicatoria;B03.660.250.915.930.850
+Xylella;B03.660.250.915.950
+Spirochaetales;B03.851
+Leptospiraceae;B03.851.475
+Leptospira;B03.851.475.475
+Leptospira interrogans;B03.851.475.475.400
+Leptospira interrogans serovar australis;B03.851.475.475.400.050
+Leptospira interrogans serovar autumnalis;B03.851.475.475.400.055
+Leptospira interrogans serovar canicola;B03.851.475.475.400.150
+Leptospira interrogans serovar hebdomadis;B03.851.475.475.400.400
+Leptospira interrogans serovar icterohaemorrhagiae;B03.851.475.475.400.420
+Leptospira interrogans serovar pomona;B03.851.475.475.400.650
+Spirochaetaceae;B03.851.595
+Borrelia;B03.851.595.193
+Borrelia burgdorferi Group;B03.851.595.193.150
+Borrelia burgdorferi;B03.851.595.193.150.125
+Spirochaeta;B03.851.595.679
+Treponema;B03.851.595.795
+Treponema denticola;B03.851.595.795.200
+Treponema pallidum;B03.851.595.795.840
+Sulfur-Reducing Bacteria;B03.900
+Desulfitobacterium;B03.900.174
+Desulfotomaculum;B03.900.300
+Desulfovibrio;B03.900.350
+Desulfovibrio africanus;B03.900.350.040
+Desulfovibrio desulfuricans;B03.900.350.150
+Desulfovibrio gigas;B03.900.350.350
+Desulfovibrio vulgaris;B03.900.350.875
+Desulfuromonas;B03.900.370
+Verrucomicrobia;B03.950
+Viruses;B04
+Arboviruses;B04.080
+Archaeal Viruses;B04.100
+Fuselloviridae;B04.100.224
+Guttaviridae;B04.100.250
+Lipothrixviridae;B04.100.450
+Myoviridae;B04.100.500
+Rudiviridae;B04.100.700
+Siphoviridae;B04.100.750
+Bacteriophages;B04.123
+Bacillus Phages;B04.123.100
+Caudovirales;B04.123.150
+Myoviridae;B04.123.150.500
+Bacteriophage mu;B04.123.150.500.260
+Bacteriophage P1;B04.123.150.500.300
+Bacteriophage P2;B04.123.150.500.305
+Bacteriophage T4;B04.123.150.500.350
+Podoviridae;B04.123.150.700
+Bacteriophage N4;B04.123.150.700.065
+Bacteriophage P22;B04.123.150.700.070
+Bacteriophage T3;B04.123.150.700.100
+Bacteriophage T7;B04.123.150.700.230
+Siphoviridae;B04.123.150.800
+Bacteriophage HK022;B04.123.150.800.200
+Bacteriophage lambda;B04.123.150.800.230
+Coliphages;B04.123.205
+Bacteriophage HK022;B04.123.205.200
+Bacteriophage lambda;B04.123.205.230
+Bacteriophage M13;B04.123.205.250
+Bacteriophage mu;B04.123.205.260
+Bacteriophage N4;B04.123.205.280
+Bacteriophage P1;B04.123.205.300
+Bacteriophage P2;B04.123.205.305
+Bacteriophage phi X 174;B04.123.205.320
+Bacteriophage PRD1;B04.123.205.350
+Leviviridae;B04.123.205.600
+Allolevivirus;B04.123.205.600.050
+Levivirus;B04.123.205.600.500
+T-Phages;B04.123.205.891
+Bacteriophage T3;B04.123.205.891.100
+Bacteriophage T4;B04.123.205.891.200
+Bacteriophage T7;B04.123.205.891.230
+Corticoviridae;B04.123.210
+Cystoviridae;B04.123.230
+Bacteriophage phi 6;B04.123.230.070
+Inoviridae;B04.123.370
+Inovirus;B04.123.370.400
+Bacteriophage IKe;B04.123.370.400.240
+Bacteriophage M13;B04.123.370.400.250
+Bacteriophage Pf1;B04.123.370.400.300
+Plectrovirus;B04.123.370.600
+Leviviridae;B04.123.450
+Allolevivirus;B04.123.450.050
+Levivirus;B04.123.450.500
+Microviridae;B04.123.470
+Microvirus;B04.123.470.500
+Bacteriophage phi X 174;B04.123.470.500.320
+Mycobacteriophages;B04.123.502
+Prophages;B04.123.655
+Pseudomonas Phages;B04.123.660
+Bacteriophage Pf1;B04.123.660.535
+Bacteriophage phi 6;B04.123.660.550
+RNA Phages;B04.123.691
+Cystoviridae;B04.123.691.230
+Bacteriophage phi 6;B04.123.691.230.070
+Leviviridae;B04.123.691.600
+Allolevivirus;B04.123.691.600.050
+Levivirus;B04.123.691.600.500
+Salmonella Phages;B04.123.706
+Bacteriophage P22;B04.123.706.070
+Staphylococcus Phages;B04.123.831
+Streptococcus Phages;B04.123.850
+Tectiviridae;B04.123.900
+Bacteriophage PRD1;B04.123.900.150
+Defective Viruses;B04.265
+Hepatitis Delta Virus;B04.265.270
+Sarcoma Viruses, Feline;B04.265.590
+Sarcoma Viruses, Murine;B04.265.600
+Harvey murine sarcoma virus;B04.265.600.400
+Kirsten murine sarcoma virus;B04.265.600.500
+Moloney murine sarcoma virus;B04.265.600.600
+Satellite Viruses;B04.265.658
+Tobacco mosaic satellite virus;B04.265.658.850
+Tobacco necrosis satellite virus;B04.265.658.860
+SSPE Virus;B04.265.700
+DNA Viruses;B04.280
+Adenoviridae;B04.280.030
+Atadenovirus;B04.280.030.080
+Aviadenovirus;B04.280.030.100
+Fowl adenovirus A;B04.280.030.100.250
+Mastadenovirus;B04.280.030.500
+Adenoviruses, Canine;B04.280.030.500.200
+Adenoviruses, Human;B04.280.030.500.350
+Adenoviruses, Porcine;B04.280.030.500.675
+Adenoviruses, Simian;B04.280.030.500.700
+Siadenovirus;B04.280.030.750
+Anellovirus;B04.280.037
+Torque teno virus;B04.280.037.800
+Ascoviridae;B04.280.045
+Asfarviridae;B04.280.049
+African Swine Fever Virus;B04.280.049.035
+Baculoviridae;B04.280.065
+Granulovirus;B04.280.065.249
+Nucleopolyhedrovirus;B04.280.065.500
+Caudovirales;B04.280.090
+Myoviridae;B04.280.090.500
+Bacteriophage mu;B04.280.090.500.260
+Bacteriophage P1;B04.280.090.500.300
+Bacteriophage P2;B04.280.090.500.305
+Bacteriophage T4;B04.280.090.500.350
+Podoviridae;B04.280.090.700
+Bacteriophage N4;B04.280.090.700.065
+Bacteriophage P22;B04.280.090.700.070
+Bacteriophage T3;B04.280.090.700.100
+Bacteriophage T7;B04.280.090.700.230
+Siphoviridae;B04.280.090.800
+Bacteriophage HK022;B04.280.090.800.200
+Bacteriophage lambda;B04.280.090.800.230
+Caulimoviridae;B04.280.092
+Badnavirus;B04.280.092.074
+Caulimovirus;B04.280.092.150
+Tungrovirus;B04.280.092.850
+Circoviridae;B04.280.120
+Circovirus;B04.280.120.150
+Gyrovirus;B04.280.120.400
+Chicken anemia virus;B04.280.120.400.150
+Fuselloviridae;B04.280.224
+Geminiviridae;B04.280.350
+Begomovirus;B04.280.350.100
+Maize streak virus;B04.280.350.500
+Guttaviridae;B04.280.362
+Hepadnaviridae;B04.280.375
+Avihepadnavirus;B04.280.375.100
+Hepatitis B Virus, Duck;B04.280.375.100.450
+Orthohepadnavirus;B04.280.375.650
+Hepatitis B virus;B04.280.375.650.425
+Hepatitis B Virus, Woodchuck;B04.280.375.650.460
+Herpesviridae;B04.280.382
+Alphaherpesvirinae;B04.280.382.100
+Iltovirus;B04.280.382.100.374
+Herpesvirus 1, Gallid;B04.280.382.100.374.450
+Mardivirus;B04.280.382.100.562
+Herpesvirus 2, Gallid;B04.280.382.100.562.400
+Herpesvirus 3, Gallid;B04.280.382.100.562.405
+Herpesvirus 1, Meleagrid;B04.280.382.100.562.550
+Simplexvirus;B04.280.382.100.750
+Herpesvirus 2, Bovine;B04.280.382.100.750.200
+Herpesvirus 1, Cercopithecine;B04.280.382.100.750.350
+Herpesvirus 1, Human;B04.280.382.100.750.390
+Herpesvirus 2, Human;B04.280.382.100.750.440
+Varicellovirus;B04.280.382.100.900
+Herpesvirus 1, Bovine;B04.280.382.100.900.400
+Herpesvirus 5, Bovine;B04.280.382.100.900.410
+Herpesvirus 1, Canid;B04.280.382.100.900.420
+Herpesvirus 1, Equid;B04.280.382.100.900.430
+Herpesvirus 3, Equid;B04.280.382.100.900.435
+Herpesvirus 4, Equid;B04.280.382.100.900.440
+Herpesvirus 3, Human;B04.280.382.100.900.460
+Herpesvirus 1, Suid;B04.280.382.100.900.510
+Betaherpesvirinae;B04.280.382.150
+Cytomegalovirus;B04.280.382.150.150
+Muromegalovirus;B04.280.382.150.500
+Roseolovirus;B04.280.382.150.750
+Herpesvirus 6, Human;B04.280.382.150.750.400
+Herpesvirus 7, Human;B04.280.382.150.750.420
+Gammaherpesvirinae;B04.280.382.400
+Lymphocryptovirus;B04.280.382.400.500
+Herpesvirus 4, Human;B04.280.382.400.500.450
+Rhadinovirus;B04.280.382.400.700
+Herpesvirus 4, Bovine;B04.280.382.400.700.300
+Herpesvirus 8, Human;B04.280.382.400.700.330
+Herpesvirus 2, Saimiriine;B04.280.382.400.700.400
+Herpesvirus 1, Ranid;B04.280.382.500
+Ictalurivirus;B04.280.382.530
+Inoviridae;B04.280.400
+Inovirus;B04.280.400.400
+Bacteriophage IKe;B04.280.400.400.240
+Bacteriophage M13;B04.280.400.400.250
+Bacteriophage Pf1;B04.280.400.400.300
+Plectrovirus;B04.280.400.600
+Iridoviridae;B04.280.410
+Iridovirus;B04.280.410.400
+Ranavirus;B04.280.410.700
+Lipothrixviridae;B04.280.450
+Microviridae;B04.280.470
+Microvirus;B04.280.470.500
+Bacteriophage phi X 174;B04.280.470.500.320
+Mimiviridae;B04.280.475
+Nanoviridae;B04.280.498
+Nanovirus;B04.280.498.500
+Nimaviridae;B04.280.505
+White spot syndrome virus 1;B04.280.505.900
+Papillomaviridae;B04.280.535
+Alphapapillomavirus;B04.280.535.050
+Human papillomavirus 6;B04.280.535.050.606
+Human papillomavirus 11;B04.280.535.050.606.611
+Human papillomavirus 16;B04.280.535.050.616
+Human papillomavirus 18;B04.280.535.050.618
+Human papillomavirus 31;B04.280.535.050.631
+Betapapillomavirus;B04.280.535.100
+Deltapapillomavirus;B04.280.535.200
+Bovine papillomavirus 1;B04.280.535.200.100
+Gammapapillomavirus;B04.280.535.400
+Kappapapillomavirus;B04.280.535.500
+Cottontail rabbit papillomavirus;B04.280.535.500.150
+Lambdapapillomavirus;B04.280.535.520
+Mupapillomavirus;B04.280.535.540
+Xipapillomavirus;B04.280.535.950
+Bovine papillomavirus 4;B04.280.535.950.150
+Parvoviridae;B04.280.580
+Densovirinae;B04.280.580.150
+Densovirus;B04.280.580.150.200
+Parvovirinae;B04.280.580.650
+Amdovirus;B04.280.580.650.040
+Aleutian Mink Disease Virus;B04.280.580.650.040.050
+Bocavirus;B04.280.580.650.085
+Human bocavirus;B04.280.580.650.085.400
+Dependovirus;B04.280.580.650.170
+Erythrovirus;B04.280.580.650.200
+Parvovirus B19, Human;B04.280.580.650.200.650
+Parvovirus;B04.280.580.650.600
+Feline panleukopenia virus;B04.280.580.650.600.325
+Mink enteritis virus;B04.280.580.650.600.325.500
+Parvovirus, Canine;B04.280.580.650.600.325.660
+H-1 parvovirus;B04.280.580.650.600.437
+Minute virus of mice;B04.280.580.650.600.550
+Parvovirus, Porcine;B04.280.580.650.600.690
+Phycodnaviridae;B04.280.600
+Polydnaviridae;B04.280.630
+Polyomaviridae;B04.280.640
+Polyomavirus;B04.280.640.615
+BK Virus;B04.280.640.615.100
+JC Virus;B04.280.640.615.400
+Merkel cell polyomavirus;B04.280.640.615.550
+Simian virus 40;B04.280.640.615.700
+Poxviridae;B04.280.650
+Chordopoxvirinae;B04.280.650.160
+Avipoxvirus;B04.280.650.160.100
+Canarypox virus;B04.280.650.160.100.149
+Fowlpox virus;B04.280.650.160.100.300
+Capripoxvirus;B04.280.650.160.150
+Lumpy skin disease virus;B04.280.650.160.150.500
+Leporipoxvirus;B04.280.650.160.500
+Fibroma Virus, Rabbit;B04.280.650.160.500.250
+Myxoma virus;B04.280.650.160.500.550
+Molluscipoxvirus;B04.280.650.160.550
+Molluscum contagiosum virus;B04.280.650.160.550.500
+Orthopoxvirus;B04.280.650.160.650
+Cowpox virus;B04.280.650.160.650.150
+Ectromelia virus;B04.280.650.160.650.200
+Monkeypox virus;B04.280.650.160.650.500
+Vaccinia virus;B04.280.650.160.650.900
+Variola virus;B04.280.650.160.650.930
+Parapoxvirus;B04.280.650.160.670
+Orf virus;B04.280.650.160.670.600
+Pseudocowpox virus;B04.280.650.160.670.650
+Suipoxvirus;B04.280.650.160.800
+Yatapoxvirus;B04.280.650.160.980
+Yaba monkey tumor virus;B04.280.650.160.980.950
+Entomopoxvirinae;B04.280.650.250
+Rudiviridae;B04.280.775
+Tectiviridae;B04.280.900
+Helper Viruses;B04.423
+Hepatitis Viruses;B04.450
+Adenoviruses, Canine;B04.450.100
+GB virus B;B04.450.355
+GB virus C;B04.450.360
+Hepadnaviridae;B04.450.390
+Avihepadnavirus;B04.450.390.100
+Hepatitis B Virus, Duck;B04.450.390.100.450
+Orthohepadnavirus;B04.450.390.650
+Hepatitis B virus;B04.450.390.650.425
+Hepatitis B Virus, Woodchuck;B04.450.390.650.460
+Hepacivirus;B04.450.410
+Hepatitis Delta Virus;B04.450.411
+Hepatitis E virus;B04.450.412
+Hepatitis Virus, Duck;B04.450.416
+Hepatovirus;B04.450.420
+Hepatitis A virus;B04.450.420.410
+Hepatitis A Virus, Human;B04.450.420.410.500
+Murine hepatitis virus;B04.450.580
+Insect Viruses;B04.525
+Ascoviridae;B04.525.045
+Baculoviridae;B04.525.100
+Granulovirus;B04.525.100.249
+Nucleopolyhedrovirus;B04.525.100.500
+Densovirinae;B04.525.150
+Densovirus;B04.525.150.150
+Dicistroviridae;B04.525.165
+Entomopoxvirinae;B04.525.250
+Iridovirus;B04.525.400
+Nodaviridae;B04.525.515
+Polydnaviridae;B04.525.630
+Oncolytic Viruses;B04.700
+Plant Viruses;B04.715
+Badnavirus;B04.715.068
+Bromoviridae;B04.715.081
+Alfamovirus;B04.715.081.050
+Alfalfa mosaic virus;B04.715.081.050.050
+Bromovirus;B04.715.081.080
+Cucumovirus;B04.715.081.180
+Ilarvirus;B04.715.081.400
+Oleavirus;B04.715.081.700
+Caulimoviridae;B04.715.102
+Badnavirus;B04.715.102.074
+Caulimovirus;B04.715.102.150
+Tungrovirus;B04.715.102.850
+Closteroviridae;B04.715.110
+Closterovirus;B04.715.110.150
+Crinivirus;B04.715.110.175
+Comoviridae;B04.715.150
+Comovirus;B04.715.150.150
+Fabavirus;B04.715.150.250
+Nepovirus;B04.715.150.500
+Flexiviridae;B04.715.260
+Carlavirus;B04.715.260.150
+Potexvirus;B04.715.260.575
+Geminiviridae;B04.715.270
+Begomovirus;B04.715.270.100
+Maize streak virus;B04.715.270.500
+Luteoviridae;B04.715.435
+Luteovirus;B04.715.435.500
+Mosaic Viruses;B04.715.464
+Alfamovirus;B04.715.464.040
+Alfalfa mosaic virus;B04.715.464.040.050
+Bromovirus;B04.715.464.080
+Caulimovirus;B04.715.464.100
+Comovirus;B04.715.464.150
+Cucumovirus;B04.715.464.180
+Potyvirus;B04.715.464.600
+Plum Pox Virus;B04.715.464.600.600
+Tobamovirus;B04.715.464.725
+Tobacco Mosaic Virus;B04.715.464.725.800
+Tymovirus;B04.715.464.750
+Nanoviridae;B04.715.499
+Babuvirus;B04.715.499.100
+Nanovirus;B04.715.499.500
+Phycodnaviridae;B04.715.600
+Potyviridae;B04.715.635
+Potyvirus;B04.715.635.600
+Plum Pox Virus;B04.715.635.600.600
+Sequiviridae;B04.715.750
+Sequivirus;B04.715.750.750
+Waikavirus;B04.715.750.900
+Tenuivirus;B04.715.780
+Tombusviridae;B04.715.810
+Carmovirus;B04.715.810.150
+Tombusvirus;B04.715.810.870
+Tospovirus;B04.715.820
+Tungrovirus;B04.715.835
+Tymoviridae;B04.715.850
+Tymovirus;B04.715.850.860
+Proviruses;B04.725
+Reassortant Viruses;B04.800
+RNA Viruses;B04.820
+Arenaviridae;B04.820.057
+Arenavirus;B04.820.057.070
+Arenaviruses, Old World;B04.820.057.070.100
+Lassa virus;B04.820.057.070.100.500
+Lujo virus;B04.820.057.070.100.525
+Lymphocytic choriomeningitis virus;B04.820.057.070.100.550
+Arenaviruses, New World;B04.820.057.070.800
+Junin virus;B04.820.057.070.800.450
+Pichinde virus;B04.820.057.070.800.650
+Astroviridae;B04.820.069
+Avastrovirus;B04.820.069.080
+Mamastrovirus;B04.820.069.500
+Birnaviridae;B04.820.075
+Aquabirnavirus;B04.820.075.050
+Infectious pancreatic necrosis virus;B04.820.075.050.430
+Avibirnavirus;B04.820.075.060
+Infectious bursal disease virus;B04.820.075.060.400
+Entomobirnavirus;B04.820.075.200
+Bromoviridae;B04.820.081
+Alfamovirus;B04.820.081.050
+Alfalfa mosaic virus;B04.820.081.050.050
+Bromovirus;B04.820.081.080
+Cucumovirus;B04.820.081.180
+Ilarvirus;B04.820.081.400
+Oleavirus;B04.820.081.700
+Bunyaviridae;B04.820.087
+Hantavirus;B04.820.087.440
+Hantaan virus;B04.820.087.440.400
+Puumala virus;B04.820.087.440.600
+Seoul virus;B04.820.087.440.690
+Sin Nombre virus;B04.820.087.440.700
+Nairovirus;B04.820.087.565
+Hemorrhagic Fever Virus, Crimean-Congo;B04.820.087.565.400
+Nairobi sheep disease virus;B04.820.087.565.600
+Orthobunyavirus;B04.820.087.640
+Bunyamwera virus;B04.820.087.640.147
+Encephalitis Virus, California;B04.820.087.640.300
+La Crosse virus;B04.820.087.640.300.500
+Simbu virus;B04.820.087.640.855
+Phlebovirus;B04.820.087.710
+Rift Valley fever virus;B04.820.087.710.700
+Sandfly fever Naples virus;B04.820.087.710.750
+Uukuniemi virus;B04.820.087.710.900
+Tospovirus;B04.820.087.730
+Caliciviridae;B04.820.095
+Lagovirus;B04.820.095.500
+Hemorrhagic Disease Virus, Rabbit;B04.820.095.500.380
+Norovirus;B04.820.095.550
+Norwalk virus;B04.820.095.550.500
+Sapovirus;B04.820.095.775
+Vesivirus;B04.820.095.887
+Calicivirus, Feline;B04.820.095.887.150
+Vesicular exanthema of swine virus;B04.820.095.887.900
+Closteroviridae;B04.820.110
+Closterovirus;B04.820.110.150
+Crinivirus;B04.820.110.175
+Comoviridae;B04.820.150
+Comovirus;B04.820.150.150
+Fabavirus;B04.820.150.250
+Nepovirus;B04.820.150.500
+Cystoviridae;B04.820.180
+Bacteriophage phi 6;B04.820.180.070
+Dicistroviridae;B04.820.215
+Flaviviridae;B04.820.250
+Flavivirus;B04.820.250.350
+Dengue Virus;B04.820.250.350.270
+Encephalitis Viruses, Japanese;B04.820.250.350.300
+Encephalitis Virus, Japanese;B04.820.250.350.300.227
+Encephalitis Virus, Murray Valley;B04.820.250.350.300.300
+Encephalitis Virus, St. Louis;B04.820.250.350.300.330
+West Nile virus;B04.820.250.350.300.950
+Encephalitis Viruses, Tick-Borne;B04.820.250.350.350
+Yellow fever virus;B04.820.250.350.990
+GB virus A;B04.820.250.400
+GB virus C;B04.820.250.410
+Hepacivirus;B04.820.250.475
+GB virus B;B04.820.250.475.405
+Pestivirus;B04.820.250.700
+Border disease virus;B04.820.250.700.100
+Diarrhea Viruses, Bovine Viral;B04.820.250.700.150
+Diarrhea Virus 1, Bovine Viral;B04.820.250.700.150.100
+Diarrhea Virus 2, Bovine Viral;B04.820.250.700.150.120
+Classical swine fever virus;B04.820.250.700.400
+Flexiviridae;B04.820.260
+Carlavirus;B04.820.260.150
+Potexvirus;B04.820.260.575
+Hepevirus;B04.820.340
+Hepatitis E virus;B04.820.340.400
+Leviviridae;B04.820.410
+Allolevivirus;B04.820.410.050
+Levivirus;B04.820.410.500
+Luteoviridae;B04.820.420
+Luteovirus;B04.820.420.500
+Mononegavirales;B04.820.455
+Bornaviridae;B04.820.455.149
+Borna disease virus;B04.820.455.149.135
+Filoviridae;B04.820.455.300
+Ebolavirus;B04.820.455.300.200
+Marburgvirus;B04.820.455.300.650
+Paramyxoviridae;B04.820.455.600
+Paramyxovirinae;B04.820.455.600.650
+Avulavirus;B04.820.455.600.650.070
+Newcastle disease virus;B04.820.455.600.650.070.600
+Henipavirus;B04.820.455.600.650.400
+Hendra Virus;B04.820.455.600.650.400.400
+Nipah Virus;B04.820.455.600.650.400.550
+Morbillivirus;B04.820.455.600.650.500
+Distemper Virus, Canine;B04.820.455.600.650.500.280
+Distemper Virus, Phocine;B04.820.455.600.650.500.320
+Measles virus;B04.820.455.600.650.500.500
+SSPE Virus;B04.820.455.600.650.500.500.890
+Peste-des-petits-ruminants virus;B04.820.455.600.650.500.650
+Rinderpest virus;B04.820.455.600.650.500.675
+Respirovirus;B04.820.455.600.650.700
+Parainfluenza Virus 3, Bovine;B04.820.455.600.650.700.700
+Parainfluenza Virus 1, Human;B04.820.455.600.650.700.715
+Parainfluenza Virus 3, Human;B04.820.455.600.650.700.735
+Sendai virus;B04.820.455.600.650.700.800
+Rubulavirus;B04.820.455.600.650.750
+Mumps virus;B04.820.455.600.650.750.550
+Parainfluenza Virus 2, Human;B04.820.455.600.650.750.715
+Parainfluenza Virus 4, Human;B04.820.455.600.650.750.717
+Parainfluenza Virus 5;B04.820.455.600.650.750.800
+Pneumovirinae;B04.820.455.600.670
+Metapneumovirus;B04.820.455.600.670.500
+Pneumovirus;B04.820.455.600.670.600
+Murine pneumonia virus;B04.820.455.600.670.600.550
+Respiratory Syncytial Viruses;B04.820.455.600.670.600.750
+Respiratory Syncytial Virus, Bovine;B04.820.455.600.670.600.750.700
+Respiratory Syncytial Virus, Human;B04.820.455.600.670.600.750.730
+Rhabdoviridae;B04.820.455.750
+Ephemerovirus;B04.820.455.750.250
+Ephemeral Fever Virus, Bovine;B04.820.455.750.250.200
+Lyssavirus;B04.820.455.750.500
+Rabies virus;B04.820.455.750.500.700
+Novirhabdovirus;B04.820.455.750.600
+Infectious hematopoietic necrosis virus;B04.820.455.750.600.400
+Vesiculovirus;B04.820.455.750.900
+Vesicular stomatitis Indiana virus;B04.820.455.750.900.900
+Vesicular stomatitis New Jersey virus;B04.820.455.750.900.910
+Nidovirales;B04.820.504
+Arteriviridae;B04.820.504.080
+Arterivirus;B04.820.504.080.100
+Arteritis Virus, Equine;B04.820.504.080.100.100
+Lactate dehydrogenase-elevating virus;B04.820.504.080.100.500
+Porcine respiratory and reproductive syndrome virus;B04.820.504.080.100.700
+Coronaviridae;B04.820.504.540
+Coronavirus;B04.820.504.540.150
+Coronavirus, Bovine;B04.820.504.540.150.150
+Coronavirus, Canine;B04.820.504.540.150.160
+Coronavirus, Feline;B04.820.504.540.150.190
+Coronavirus 229E, Human;B04.820.504.540.150.210
+Coronavirus NL63, Human;B04.820.504.540.150.215
+Coronavirus OC43, Human;B04.820.504.540.150.220
+Coronavirus, Rat;B04.820.504.540.150.260
+Coronavirus, Turkey;B04.820.504.540.150.300
+Infectious bronchitis virus;B04.820.504.540.150.500
+Middle East Respiratory Syndrome Coronavirus;B04.820.504.540.150.540
+Murine hepatitis virus;B04.820.504.540.150.580
+Porcine epidemic diarrhea virus;B04.820.504.540.150.665
+SARS Virus;B04.820.504.540.150.750
+Transmissible gastroenteritis virus;B04.820.504.540.150.800
+Porcine Respiratory Coronavirus;B04.820.504.540.150.800.600
+Torovirus;B04.820.504.540.800
+Roniviridae;B04.820.504.770
+Nodaviridae;B04.820.515
+Orthomyxoviridae;B04.820.545
+Influenzavirus A;B04.820.545.405
+Influenza A virus;B04.820.545.405.400
+Influenza A Virus, H10N8 Subtype;B04.820.545.405.400.106
+Influenza A Virus, H1N1 Subtype;B04.820.545.405.400.214
+Influenza A Virus, H1N2 Subtype;B04.820.545.405.400.216
+Influenza A Virus, H2N2 Subtype;B04.820.545.405.400.250
+Influenza A Virus, H3N2 Subtype;B04.820.545.405.400.300
+Influenza A Virus, H3N8 Subtype;B04.820.545.405.400.350
+Influenza A Virus, H5N1 Subtype;B04.820.545.405.400.500
+Influenza A Virus, H5N2 Subtype;B04.820.545.405.400.505
+Influenza A Virus, H7N1 Subtype;B04.820.545.405.400.690
+Influenza A Virus, H7N2 Subtype;B04.820.545.405.400.692
+Influenza A Virus, H7N3 Subtype;B04.820.545.405.400.694
+Influenza A Virus, H7N7 Subtype;B04.820.545.405.400.700
+Influenza A Virus, H7N9 Subtype;B04.820.545.405.400.800
+Influenza A Virus, H9N2 Subtype;B04.820.545.405.400.900
+Influenza A Virus, H10N7 Subtype;B04.820.545.405.400.920
+Influenzavirus B;B04.820.545.407
+Influenza B virus;B04.820.545.407.410
+Influenzavirus C;B04.820.545.410
+Isavirus;B04.820.545.450
+Thogotovirus;B04.820.545.850
+Picobirnavirus;B04.820.562
+Picornaviridae;B04.820.565
+Aphthovirus;B04.820.565.070
+Foot-and-Mouth Disease Virus;B04.820.565.070.250
+Cardiovirus;B04.820.565.170
+Encephalomyocarditis virus;B04.820.565.170.200
+Columbia SK virus;B04.820.565.170.200.150
+Maus Elberfeld virus;B04.820.565.170.200.480
+Mengovirus;B04.820.565.170.200.500
+Theilovirus;B04.820.565.170.800
+Enterovirus;B04.820.565.284
+Enterovirus A, Human;B04.820.565.284.180
+Enterovirus B, Human;B04.820.565.284.182
+Echovirus 6, Human;B04.820.565.284.182.225
+Echovirus 9;B04.820.565.284.182.250
+Enterovirus C, Human;B04.820.565.284.184
+Enterovirus D, Human;B04.820.565.284.188
+Enterovirus, Bovine;B04.820.565.284.200
+Enteroviruses, Porcine;B04.820.565.284.550
+Poliovirus;B04.820.565.284.664
+Erbovirus;B04.820.565.290
+Hepatitis Virus, Duck;B04.820.565.342
+Hepatovirus;B04.820.565.400
+Encephalomyelitis Virus, Avian;B04.820.565.400.250
+Hepatitis A virus;B04.820.565.400.410
+Hepatitis A Virus, Human;B04.820.565.400.410.500
+Kobuvirus;B04.820.565.500
+Parechovirus;B04.820.565.700
+Rhinovirus;B04.820.565.775
+Teschovirus;B04.820.565.830
+Potyviridae;B04.820.590
+Potyvirus;B04.820.590.600
+Plum Pox Virus;B04.820.590.600.600
+Reoviridae;B04.820.630
+Coltivirus;B04.820.630.160
+Colorado tick fever virus;B04.820.630.160.200
+Orbivirus;B04.820.630.550
+African horse sickness virus;B04.820.630.550.050
+Bluetongue virus;B04.820.630.550.100
+Hemorrhagic Disease Virus, Epizootic;B04.820.630.550.400
+Palyam Virus;B04.820.630.550.750
+Orthoreovirus;B04.820.630.590
+Orthoreovirus, Avian;B04.820.630.590.500
+Orthoreovirus, Mammalian;B04.820.630.590.550
+Mammalian orthoreovirus 3;B04.820.630.590.550.700
+Rotavirus;B04.820.630.790
+Retroviridae;B04.820.650
+Alpharetrovirus;B04.820.650.070
+Avian leukosis virus;B04.820.650.070.100
+Avian myeloblastosis virus;B04.820.650.070.110
+Avian Sarcoma Viruses;B04.820.650.070.120
+Rous sarcoma virus;B04.820.650.070.120.700
+Betaretrovirus;B04.820.650.124
+Jaagsiekte sheep retrovirus;B04.820.650.124.400
+Mammary Tumor Virus, Mouse;B04.820.650.124.500
+Mason-Pfizer monkey virus;B04.820.650.124.520
+Deltaretrovirus;B04.820.650.200
+Leukemia Virus, Bovine;B04.820.650.200.600
+Primate T-lymphotropic virus 1;B04.820.650.200.725
+Human T-lymphotropic virus 1;B04.820.650.200.725.400
+Simian T-lymphotropic virus 1;B04.820.650.200.725.755
+Primate T-lymphotropic virus 2;B04.820.650.200.730
+Human T-lymphotropic virus 2;B04.820.650.200.730.404
+Simian T-lymphotropic virus 2;B04.820.650.200.730.810
+Primate T-lymphotropic virus 3;B04.820.650.200.735
+Human T-lymphotropic virus 3;B04.820.650.200.735.374
+Simian T-lymphotropic virus 3;B04.820.650.200.735.750
+Endogenous Retroviruses;B04.820.650.250
+Epsilonretrovirus;B04.820.650.260
+Gammaretrovirus;B04.820.650.375
+Leukemia Virus, Feline;B04.820.650.375.500
+Leukemia Virus, Gibbon Ape;B04.820.650.375.510
+Leukemia Virus, Murine;B04.820.650.375.525
+Abelson murine leukemia virus;B04.820.650.375.525.020
+AKR murine leukemia virus;B04.820.650.375.525.050
+Friend murine leukemia virus;B04.820.650.375.525.225
+Mink Cell Focus-Inducing Viruses;B04.820.650.375.525.580
+Moloney murine leukemia virus;B04.820.650.375.525.596
+Radiation Leukemia Virus;B04.820.650.375.525.750
+Rauscher Virus;B04.820.650.375.525.770
+Spleen Focus-Forming Viruses;B04.820.650.375.525.850
+Reticuloendotheliosis Viruses, Avian;B04.820.650.375.700
+Reticuloendotheliosis virus;B04.820.650.375.700.700
+Trager duck spleen necrosis virus;B04.820.650.375.700.850
+Sarcoma Virus, Woolly Monkey;B04.820.650.375.770
+Sarcoma Viruses, Feline;B04.820.650.375.800
+Sarcoma Viruses, Murine;B04.820.650.375.860
+Harvey murine sarcoma virus;B04.820.650.375.860.400
+Kirsten murine sarcoma virus;B04.820.650.375.860.500
+Moloney murine sarcoma virus;B04.820.650.375.860.600
+Xenotropic murine leukemia virus-related virus;B04.820.650.375.930
+Lentivirus;B04.820.650.589
+Lentiviruses, Bovine;B04.820.650.589.500
+Immunodeficiency Virus, Bovine;B04.820.650.589.500.400
+Lentiviruses, Equine;B04.820.650.589.520
+Infectious Anemia Virus, Equine;B04.820.650.589.520.400
+Lentiviruses, Feline;B04.820.650.589.530
+Immunodeficiency Virus, Feline;B04.820.650.589.530.400
+Lentiviruses, Ovine-Caprine;B04.820.650.589.600
+Arthritis-Encephalitis Virus, Caprine;B04.820.650.589.600.070
+Visna-maedi virus;B04.820.650.589.600.900
+Lentiviruses, Primate;B04.820.650.589.650
+HIV;B04.820.650.589.650.350
+HIV-1;B04.820.650.589.650.350.400
+HIV-2;B04.820.650.589.650.350.410
+Simian immunodeficiency virus;B04.820.650.589.650.800
+Retroviruses, Simian;B04.820.650.805
+Leukemia Virus, Gibbon Ape;B04.820.650.805.510
+Mason-Pfizer monkey virus;B04.820.650.805.550
+Sarcoma Virus, Woolly Monkey;B04.820.650.805.601
+Simian immunodeficiency virus;B04.820.650.805.700
+Simian T-lymphotropic virus 1;B04.820.650.805.851
+Simian T-lymphotropic virus 2;B04.820.650.805.855
+Spumavirus;B04.820.650.850
+Simian foamy virus;B04.820.650.850.750
+Sequiviridae;B04.820.750
+Sequivirus;B04.820.750.750
+Waikavirus;B04.820.750.900
+Tenuivirus;B04.820.800
+Togaviridae;B04.820.850
+Alphavirus;B04.820.850.054
+Chikungunya virus;B04.820.850.054.198
+Encephalitis Virus, Eastern Equine;B04.820.850.054.320
+Encephalitis Virus, Venezuelan Equine;B04.820.850.054.340
+Encephalitis Virus, Western Equine;B04.820.850.054.360
+O'nyong-nyong Virus;B04.820.850.054.586
+Ross River virus;B04.820.850.054.813
+Semliki forest virus;B04.820.850.054.840
+Sindbis Virus;B04.820.850.054.860
+Rubivirus;B04.820.850.700
+Rubella virus;B04.820.850.700.700
+Tombusviridae;B04.820.860
+Carmovirus;B04.820.860.150
+Tombusvirus;B04.820.860.870
+Totiviridae;B04.820.880
+Giardiavirus;B04.820.880.400
+Leishmaniavirus;B04.820.880.500
+Totivirus;B04.820.880.800
+Tymoviridae;B04.820.900
+Tymovirus;B04.820.900.850
+Vertebrate Viruses;B04.909
+Blood-Borne Pathogens;B04.909.142
+DNA Viruses;B04.909.204
+Adenoviridae;B04.909.204.097
+Atadenovirus;B04.909.204.097.080
+Aviadenovirus;B04.909.204.097.100
+Fowl adenovirus A;B04.909.204.097.100.250
+Mastadenovirus;B04.909.204.097.500
+Adenoviruses, Canine;B04.909.204.097.500.200
+Adenoviruses, Human;B04.909.204.097.500.350
+Adenoviruses, Porcine;B04.909.204.097.500.675
+Adenoviruses, Simian;B04.909.204.097.500.700
+Siadenovirus;B04.909.204.097.750
+Anellovirus;B04.909.204.099
+Torque teno virus;B04.909.204.099.800
+Asfarviridae;B04.909.204.102
+African Swine Fever Virus;B04.909.204.102.035
+Circoviridae;B04.909.204.120
+Circovirus;B04.909.204.120.150
+Gyrovirus;B04.909.204.120.400
+Chicken anemia virus;B04.909.204.120.400.150
+DNA Tumor Viruses;B04.909.204.210
+Gammaherpesvirinae;B04.909.204.210.400
+Lymphocryptovirus;B04.909.204.210.400.500
+Herpesvirus 4, Human;B04.909.204.210.400.500.400
+Rhadinovirus;B04.909.204.210.400.700
+Herpesvirus 4, Bovine;B04.909.204.210.400.700.300
+Herpesvirus 8, Human;B04.909.204.210.400.700.330
+Herpesvirus 2, Saimiriine;B04.909.204.210.400.700.400
+Herpesvirus 1, Ranid;B04.909.204.210.430
+Leporipoxvirus;B04.909.204.210.600
+Fibroma Virus, Rabbit;B04.909.204.210.600.250
+Myxoma virus;B04.909.204.210.600.550
+Polyomaviridae;B04.909.204.210.620
+Polyomavirus;B04.909.204.210.620.615
+BK Virus;B04.909.204.210.620.615.100
+JC Virus;B04.909.204.210.620.615.400
+Simian virus 40;B04.909.204.210.620.615.700
+Papillomaviridae;B04.909.204.210.655
+Alphapapillomavirus;B04.909.204.210.655.050
+Human papillomavirus 6;B04.909.204.210.655.050.606
+Human papillomavirus 11;B04.909.204.210.655.050.606.611
+Human papillomavirus 16;B04.909.204.210.655.050.616
+Human papillomavirus 18;B04.909.204.210.655.050.618
+Betapapillomavirus;B04.909.204.210.655.100
+Deltapapillomavirus;B04.909.204.210.655.200
+Bovine papillomavirus 1;B04.909.204.210.655.200.100
+Gammapapillomavirus;B04.909.204.210.655.400
+Kappapapillomavirus;B04.909.204.210.655.500
+Cottontail rabbit papillomavirus;B04.909.204.210.655.500.150
+Lambdapapillomavirus;B04.909.204.210.655.520
+Mupapillomavirus;B04.909.204.210.655.540
+Xipapillomavirus;B04.909.204.210.655.950
+Bovine papillomavirus 4;B04.909.204.210.655.950.150
+Yatapoxvirus;B04.909.204.210.950
+Yaba monkey tumor virus;B04.909.204.210.950.950
+Hepadnaviridae;B04.909.204.340
+Avihepadnavirus;B04.909.204.340.100
+Hepatitis B Virus, Duck;B04.909.204.340.100.450
+Orthohepadnavirus;B04.909.204.340.650
+Hepatitis B virus;B04.909.204.340.650.425
+Hepatitis B Virus, Woodchuck;B04.909.204.340.650.460
+Herpesviridae;B04.909.204.382
+Alphaherpesvirinae;B04.909.204.382.100
+Iltovirus;B04.909.204.382.100.374
+Herpesvirus 1, Gallid;B04.909.204.382.100.374.450
+Mardivirus;B04.909.204.382.100.562
+Herpesvirus 2, Gallid;B04.909.204.382.100.562.400
+Herpesvirus 3, Gallid;B04.909.204.382.100.562.405
+Herpesvirus 1, Meleagrid;B04.909.204.382.100.562.550
+Simplexvirus;B04.909.204.382.100.750
+Herpesvirus 2, Bovine;B04.909.204.382.100.750.200
+Herpesvirus 1, Cercopithecine;B04.909.204.382.100.750.350
+Herpesvirus 1, Human;B04.909.204.382.100.750.390
+Herpesvirus 2, Human;B04.909.204.382.100.750.440
+Varicellovirus;B04.909.204.382.100.900
+Herpesvirus 1, Bovine;B04.909.204.382.100.900.400
+Herpesvirus 5, Bovine;B04.909.204.382.100.900.410
+Herpesvirus 1, Canid;B04.909.204.382.100.900.420
+Herpesvirus 1, Equid;B04.909.204.382.100.900.430
+Herpesvirus 3, Equid;B04.909.204.382.100.900.435
+Herpesvirus 4, Equid;B04.909.204.382.100.900.440
+Herpesvirus 3, Human;B04.909.204.382.100.900.460
+Herpesvirus 1, Suid;B04.909.204.382.100.900.510
+Betaherpesvirinae;B04.909.204.382.150
+Cytomegalovirus;B04.909.204.382.150.150
+Muromegalovirus;B04.909.204.382.150.500
+Roseolovirus;B04.909.204.382.150.750
+Herpesvirus 6, Human;B04.909.204.382.150.750.400
+Herpesvirus 7, Human;B04.909.204.382.150.750.420
+Gammaherpesvirinae;B04.909.204.382.400
+Lymphocryptovirus;B04.909.204.382.400.500
+Herpesvirus 4, Human;B04.909.204.382.400.500.400
+Rhadinovirus;B04.909.204.382.400.700
+Herpesvirus 4, Bovine;B04.909.204.382.400.700.300
+Herpesvirus 8, Human;B04.909.204.382.400.700.330
+Herpesvirus 2, Saimiriine;B04.909.204.382.400.700.400
+Herpesvirus 1, Ranid;B04.909.204.382.500
+Iridoviridae;B04.909.204.490
+Ranavirus;B04.909.204.490.700
+Parvoviridae;B04.909.204.671
+Parvovirinae;B04.909.204.671.650
+Amdovirus;B04.909.204.671.650.040
+Aleutian Mink Disease Virus;B04.909.204.671.650.040.050
+Bocavirus;B04.909.204.671.650.085
+Dependovirus;B04.909.204.671.650.170
+Erythrovirus;B04.909.204.671.650.200
+Parvovirus B19, Human;B04.909.204.671.650.200.650
+Parvovirus;B04.909.204.671.650.600
+Feline panleukopenia virus;B04.909.204.671.650.600.325
+Parvovirus, Canine;B04.909.204.671.650.600.325.660
+H-1 parvovirus;B04.909.204.671.650.600.437
+Minute virus of mice;B04.909.204.671.650.600.550
+Parvovirus, Porcine;B04.909.204.671.650.600.690
+Poxviridae;B04.909.204.783
+Chordopoxvirinae;B04.909.204.783.160
+Avipoxvirus;B04.909.204.783.160.100
+Canarypox virus;B04.909.204.783.160.100.149
+Fowlpox virus;B04.909.204.783.160.100.300
+Capripoxvirus;B04.909.204.783.160.150
+Lumpy skin disease virus;B04.909.204.783.160.150.500
+Leporipoxvirus;B04.909.204.783.160.500
+Fibroma Virus, Rabbit;B04.909.204.783.160.500.250
+Myxoma virus;B04.909.204.783.160.500.550
+Molluscipoxvirus;B04.909.204.783.160.550
+Molluscum contagiosum virus;B04.909.204.783.160.550.500
+Orthopoxvirus;B04.909.204.783.160.650
+Cowpox virus;B04.909.204.783.160.650.150
+Ectromelia virus;B04.909.204.783.160.650.200
+Monkeypox virus;B04.909.204.783.160.650.500
+Vaccinia virus;B04.909.204.783.160.650.900
+Variola virus;B04.909.204.783.160.650.930
+Parapoxvirus;B04.909.204.783.160.670
+Orf virus;B04.909.204.783.160.670.600
+Pseudocowpox virus;B04.909.204.783.160.670.650
+Suipoxvirus;B04.909.204.783.160.800
+Yatapoxvirus;B04.909.204.783.160.980
+Yaba monkey tumor virus;B04.909.204.783.160.980.950
+Oncogenic Viruses;B04.909.574
+DNA Tumor Viruses;B04.909.574.204
+Gammaherpesvirinae;B04.909.574.204.500
+Lymphocryptovirus;B04.909.574.204.500.500
+Herpesvirus 4, Human;B04.909.574.204.500.500.400
+Rhadinovirus;B04.909.574.204.500.700
+Herpesvirus 4, Bovine;B04.909.574.204.500.700.300
+Herpesvirus 8, Human;B04.909.574.204.500.700.330
+Herpesvirus 2, Saimiriine;B04.909.574.204.500.700.400
+Herpesvirus 1, Ranid;B04.909.574.204.550
+Leporipoxvirus;B04.909.574.204.600
+Fibroma Virus, Rabbit;B04.909.574.204.600.250
+Myxoma virus;B04.909.574.204.600.550
+Papillomaviridae;B04.909.574.204.655
+Alphapapillomavirus;B04.909.574.204.655.050
+Human papillomavirus 6;B04.909.574.204.655.050.606
+Human papillomavirus 11;B04.909.574.204.655.050.606.611
+Human papillomavirus 16;B04.909.574.204.655.050.616
+Human papillomavirus 18;B04.909.574.204.655.050.618
+Betapapillomavirus;B04.909.574.204.655.100
+Deltapapillomavirus;B04.909.574.204.655.200
+Bovine papillomavirus 1;B04.909.574.204.655.200.100
+Gammapapillomavirus;B04.909.574.204.655.400
+Kappapapillomavirus;B04.909.574.204.655.500
+Cottontail rabbit papillomavirus;B04.909.574.204.655.500.150
+Lambdapapillomavirus;B04.909.574.204.655.520
+Mupapillomavirus;B04.909.574.204.655.540
+Xipapillomavirus;B04.909.574.204.655.950
+Bovine papillomavirus 4;B04.909.574.204.655.950.150
+Polyomaviridae;B04.909.574.204.670
+Polyomavirus;B04.909.574.204.670.615
+BK Virus;B04.909.574.204.670.615.100
+JC Virus;B04.909.574.204.670.615.400
+Simian virus 40;B04.909.574.204.670.615.700
+Yatapoxvirus;B04.909.574.204.950
+Yaba monkey tumor virus;B04.909.574.204.950.950
+Retroviridae;B04.909.574.807
+Alpharetrovirus;B04.909.574.807.070
+Avian leukosis virus;B04.909.574.807.070.100
+Avian myeloblastosis virus;B04.909.574.807.070.110
+Avian Sarcoma Viruses;B04.909.574.807.070.120
+Rous sarcoma virus;B04.909.574.807.070.120.700
+Betaretrovirus;B04.909.574.807.124
+Jaagsiekte sheep retrovirus;B04.909.574.807.124.400
+Mammary Tumor Virus, Mouse;B04.909.574.807.124.500
+Mason-Pfizer monkey virus;B04.909.574.807.124.520
+Deltaretrovirus;B04.909.574.807.200
+Leukemia Virus, Bovine;B04.909.574.807.200.600
+Primate T-lymphotropic virus 1;B04.909.574.807.200.725
+Human T-lymphotropic virus 1;B04.909.574.807.200.725.400
+Simian T-lymphotropic virus 1;B04.909.574.807.200.725.750
+Primate T-lymphotropic virus 2;B04.909.574.807.200.730
+Human T-lymphotropic virus 2;B04.909.574.807.200.730.399
+Simian T-lymphotropic virus 2;B04.909.574.807.200.730.810
+Primate T-lymphotropic virus 3;B04.909.574.807.200.735
+Human T-lymphotropic virus 3;B04.909.574.807.200.735.374
+Simian T-lymphotropic virus 3;B04.909.574.807.200.735.750
+Endogenous Retroviruses;B04.909.574.807.250
+Epsilonretrovirus;B04.909.574.807.260
+Gammaretrovirus;B04.909.574.807.375
+Leukemia Virus, Feline;B04.909.574.807.375.500
+Leukemia Virus, Gibbon Ape;B04.909.574.807.375.510
+Leukemia Virus, Murine;B04.909.574.807.375.525
+Abelson murine leukemia virus;B04.909.574.807.375.525.020
+AKR murine leukemia virus;B04.909.574.807.375.525.050
+Friend murine leukemia virus;B04.909.574.807.375.525.225
+Mink Cell Focus-Inducing Viruses;B04.909.574.807.375.525.580
+Moloney murine leukemia virus;B04.909.574.807.375.525.596
+Radiation Leukemia Virus;B04.909.574.807.375.525.750
+Rauscher Virus;B04.909.574.807.375.525.770
+Spleen Focus-Forming Viruses;B04.909.574.807.375.525.850
+Reticuloendotheliosis Viruses, Avian;B04.909.574.807.375.700
+Reticuloendotheliosis virus;B04.909.574.807.375.700.700
+Sarcoma Virus, Woolly Monkey;B04.909.574.807.375.770
+Sarcoma Viruses, Feline;B04.909.574.807.375.800
+Sarcoma Viruses, Murine;B04.909.574.807.375.860
+Harvey murine sarcoma virus;B04.909.574.807.375.860.400
+Kirsten murine sarcoma virus;B04.909.574.807.375.860.500
+Moloney murine sarcoma virus;B04.909.574.807.375.860.600
+Retroviruses, Simian;B04.909.574.807.805
+Leukemia Virus, Gibbon Ape;B04.909.574.807.805.510
+Mason-Pfizer monkey virus;B04.909.574.807.805.550
+Sarcoma Virus, Woolly Monkey;B04.909.574.807.805.601
+Simian T-lymphotropic virus 1;B04.909.574.807.805.851
+Simian T-lymphotropic virus 2;B04.909.574.807.805.855
+Simian T-lymphotropic virus 3;B04.909.574.807.805.858
+Papillomaviridae;B04.909.624
+Alphapapillomavirus;B04.909.624.050
+Human papillomavirus 6;B04.909.624.050.606
+Human papillomavirus 11;B04.909.624.050.606.611
+Human papillomavirus 16;B04.909.624.050.616
+Human papillomavirus 18;B04.909.624.050.618
+Betapapillomavirus;B04.909.624.100
+Deltapapillomavirus;B04.909.624.200
+Bovine papillomavirus 1;B04.909.624.200.100
+Gammapapillomavirus;B04.909.624.400
+Kappapapillomavirus;B04.909.624.500
+Cottontail rabbit papillomavirus;B04.909.624.500.150
+Lambdapapillomavirus;B04.909.624.520
+Mupapillomavirus;B04.909.624.540
+Xipapillomavirus;B04.909.624.950
+Bovine papillomavirus 4;B04.909.624.950.150
+Polyomaviridae;B04.909.675
+Polyomavirus;B04.909.675.615
+BK Virus;B04.909.675.615.100
+JC Virus;B04.909.675.615.400
+Simian virus 40;B04.909.675.615.700
+RNA Viruses;B04.909.777
+Arenaviridae;B04.909.777.080
+Arenavirus;B04.909.777.080.070
+Arenaviruses, Old World;B04.909.777.080.070.100
+Lassa virus;B04.909.777.080.070.100.500
+Lujo virus;B04.909.777.080.070.100.525
+Lymphocytic choriomeningitis virus;B04.909.777.080.070.100.550
+Arenaviruses, New World;B04.909.777.080.070.800
+Junin virus;B04.909.777.080.070.800.450
+Pichinde virus;B04.909.777.080.070.800.650
+Astroviridae;B04.909.777.099
+Avastrovirus;B04.909.777.099.080
+Mamastrovirus;B04.909.777.099.500
+Birnaviridae;B04.909.777.123
+Aquabirnavirus;B04.909.777.123.050
+Infectious pancreatic necrosis virus;B04.909.777.123.050.430
+Avibirnavirus;B04.909.777.123.060
+Infectious bursal disease virus;B04.909.777.123.060.400
+Entomobirnavirus;B04.909.777.123.200
+Bunyaviridae;B04.909.777.147
+Hantavirus;B04.909.777.147.440
+Hantaan virus;B04.909.777.147.440.400
+Puumala virus;B04.909.777.147.440.600
+Seoul virus;B04.909.777.147.440.690
+Sin Nombre virus;B04.909.777.147.440.700
+Nairovirus;B04.909.777.147.565
+Hemorrhagic Fever Virus, Crimean-Congo;B04.909.777.147.565.400
+Nairobi sheep disease virus;B04.909.777.147.565.600
+Orthobunyavirus;B04.909.777.147.640
+Bunyamwera virus;B04.909.777.147.640.147
+Encephalitis Virus, California;B04.909.777.147.640.300
+La Crosse virus;B04.909.777.147.640.300.500
+Simbu virus;B04.909.777.147.640.855
+Phlebovirus;B04.909.777.147.710
+Rift Valley fever virus;B04.909.777.147.710.700
+Sandfly fever Naples virus;B04.909.777.147.710.750
+Uukuniemi virus;B04.909.777.147.710.900
+Caliciviridae;B04.909.777.162
+Lagovirus;B04.909.777.162.500
+Hemorrhagic Disease Virus, Rabbit;B04.909.777.162.500.380
+Norovirus;B04.909.777.162.550
+Norwalk virus;B04.909.777.162.550.500
+Sapovirus;B04.909.777.162.775
+Vesivirus;B04.909.777.162.887
+Calicivirus, Feline;B04.909.777.162.887.150
+Vesicular exanthema of swine virus;B04.909.777.162.887.900
+Dicistroviridae;B04.909.777.216
+Encephalitis Viruses;B04.909.777.270
+Encephalitis Virus, California;B04.909.777.270.100
+La Crosse virus;B04.909.777.270.100.500
+Encephalitis Virus, Eastern Equine;B04.909.777.270.150
+Encephalitis Virus, Venezuelan Equine;B04.909.777.270.369
+Encephalitis Virus, Western Equine;B04.909.777.270.440
+Encephalitis Viruses, Japanese;B04.909.777.270.475
+Encephalitis Virus, Japanese;B04.909.777.270.475.227
+Encephalitis Virus, Murray Valley;B04.909.777.270.475.300
+Encephalitis Virus, St. Louis;B04.909.777.270.475.330
+West Nile virus;B04.909.777.270.475.950
+Encephalitis Viruses, Tick-Borne;B04.909.777.270.511
+Flaviviridae;B04.909.777.310
+Flavivirus;B04.909.777.310.350
+Dengue Virus;B04.909.777.310.350.270
+Encephalitis Viruses, Japanese;B04.909.777.310.350.300
+Encephalitis Virus, Japanese;B04.909.777.310.350.300.227
+Encephalitis Virus, Murray Valley;B04.909.777.310.350.300.300
+Encephalitis Virus, St. Louis;B04.909.777.310.350.300.330
+West Nile virus;B04.909.777.310.350.300.950
+Encephalitis Viruses, Tick-Borne;B04.909.777.310.350.350
+Yellow fever virus;B04.909.777.310.350.990
+GB virus A;B04.909.777.310.400
+GB virus C;B04.909.777.310.410
+Hepacivirus;B04.909.777.310.475
+GB virus B;B04.909.777.310.475.405
+Pestivirus;B04.909.777.310.700
+Border disease virus;B04.909.777.310.700.100
+Diarrhea Viruses, Bovine Viral;B04.909.777.310.700.150
+Diarrhea Virus 1, Bovine Viral;B04.909.777.310.700.150.100
+Diarrhea Virus 2, Bovine Viral;B04.909.777.310.700.150.120
+Classical swine fever virus;B04.909.777.310.700.400
+Hepatitis Delta Virus;B04.909.777.411
+Hepevirus;B04.909.777.420
+Hepatitis E virus;B04.909.777.420.400
+Mononegavirales;B04.909.777.455
+Bornaviridae;B04.909.777.455.149
+Borna disease virus;B04.909.777.455.149.135
+Filoviridae;B04.909.777.455.300
+Ebolavirus;B04.909.777.455.300.200
+Marburgvirus;B04.909.777.455.300.650
+Paramyxoviridae;B04.909.777.455.600
+Paramyxovirinae;B04.909.777.455.600.650
+Avulavirus;B04.909.777.455.600.650.070
+Newcastle disease virus;B04.909.777.455.600.650.070.600
+Henipavirus;B04.909.777.455.600.650.400
+Hendra Virus;B04.909.777.455.600.650.400.400
+Nipah Virus;B04.909.777.455.600.650.400.550
+Morbillivirus;B04.909.777.455.600.650.500
+Distemper Virus, Canine;B04.909.777.455.600.650.500.280
+Distemper Virus, Phocine;B04.909.777.455.600.650.500.320
+Measles virus;B04.909.777.455.600.650.500.500
+SSPE Virus;B04.909.777.455.600.650.500.500.890
+Peste-des-petits-ruminants virus;B04.909.777.455.600.650.500.650
+Rinderpest virus;B04.909.777.455.600.650.500.675
+Respirovirus;B04.909.777.455.600.650.700
+Parainfluenza Virus 3, Bovine;B04.909.777.455.600.650.700.700
+Parainfluenza Virus 1, Human;B04.909.777.455.600.650.700.715
+Parainfluenza Virus 3, Human;B04.909.777.455.600.650.700.735
+Sendai virus;B04.909.777.455.600.650.700.800
+Rubulavirus;B04.909.777.455.600.650.750
+Mumps virus;B04.909.777.455.600.650.750.550
+Parainfluenza Virus 2, Human;B04.909.777.455.600.650.750.715
+Parainfluenza Virus 4, Human;B04.909.777.455.600.650.750.717
+Parainfluenza Virus 5;B04.909.777.455.600.650.750.800
+Pneumovirinae;B04.909.777.455.600.670
+Pneumovirus;B04.909.777.455.600.670.600
+Respiratory Syncytial Viruses;B04.909.777.455.600.670.600.750
+Respiratory Syncytial Virus, Bovine;B04.909.777.455.600.670.600.750.700
+Respiratory Syncytial Virus, Human;B04.909.777.455.600.670.600.750.730
+Rhabdoviridae;B04.909.777.455.750
+Ephemerovirus;B04.909.777.455.750.250
+Ephemeral Fever Virus, Bovine;B04.909.777.455.750.250.200
+Lyssavirus;B04.909.777.455.750.500
+Rabies virus;B04.909.777.455.750.500.700
+Novirhabdovirus;B04.909.777.455.750.600
+Infectious hematopoietic necrosis virus;B04.909.777.455.750.600.400
+Vesiculovirus;B04.909.777.455.750.900
+Vesicular stomatitis Indiana virus;B04.909.777.455.750.900.900
+Vesicular stomatitis New Jersey virus;B04.909.777.455.750.900.910
+Nidovirales;B04.909.777.500
+Arteriviridae;B04.909.777.500.080
+Arterivirus;B04.909.777.500.080.500
+Arteritis Virus, Equine;B04.909.777.500.080.500.100
+Lactate dehydrogenase-elevating virus;B04.909.777.500.080.500.500
+Porcine respiratory and reproductive syndrome virus;B04.909.777.500.080.500.800
+Coronaviridae;B04.909.777.500.540
+Coronavirus;B04.909.777.500.540.150
+Coronavirus, Bovine;B04.909.777.500.540.150.150
+Coronavirus, Canine;B04.909.777.500.540.150.160
+Coronavirus, Feline;B04.909.777.500.540.150.190
+Coronavirus 229E, Human;B04.909.777.500.540.150.210
+Coronavirus NL63, Human;B04.909.777.500.540.150.215
+Coronavirus OC43, Human;B04.909.777.500.540.150.220
+Coronavirus, Rat;B04.909.777.500.540.150.260
+Coronavirus, Turkey;B04.909.777.500.540.150.300
+Infectious bronchitis virus;B04.909.777.500.540.150.500
+Middle East Respiratory Syndrome Coronavirus;B04.909.777.500.540.150.540
+Murine hepatitis virus;B04.909.777.500.540.150.580
+Porcine epidemic diarrhea virus;B04.909.777.500.540.150.665
+SARS Virus;B04.909.777.500.540.150.750
+Transmissible gastroenteritis virus;B04.909.777.500.540.150.800
+Porcine Respiratory Coronavirus;B04.909.777.500.540.150.800.600
+Torovirus;B04.909.777.500.540.800
+Orthomyxoviridae;B04.909.777.545
+Influenzavirus A;B04.909.777.545.405
+Influenza A virus;B04.909.777.545.405.400
+Influenza A Virus, H10N8 Subtype;B04.909.777.545.405.400.106
+Influenza A Virus, H1N1 Subtype;B04.909.777.545.405.400.214
+Influenza A Virus, H2N2 Subtype;B04.909.777.545.405.400.250
+Influenza A Virus, H3N2 Subtype;B04.909.777.545.405.400.300
+Influenza A Virus, H3N8 Subtype;B04.909.777.545.405.400.350
+Influenza A Virus, H5N1 Subtype;B04.909.777.545.405.400.500
+Influenza A Virus, H5N2 Subtype;B04.909.777.545.405.400.505
+Influenza A Virus, H7N1 Subtype;B04.909.777.545.405.400.690
+Influenza A Virus, H7N2 Subtype;B04.909.777.545.405.400.692
+Influenza A Virus, H7N3 Subtype;B04.909.777.545.405.400.694
+Influenza A Virus, H7N7 Subtype;B04.909.777.545.405.400.700
+Influenza A Virus, H7N9 Subtype;B04.909.777.545.405.400.800
+Influenza A Virus, H9N2 Subtype;B04.909.777.545.405.400.900
+Influenza A Virus, H10N7 Subtype;B04.909.777.545.405.400.920
+Influenzavirus B;B04.909.777.545.407
+Influenza B virus;B04.909.777.545.407.410
+Influenzavirus C;B04.909.777.545.410
+Thogotovirus;B04.909.777.545.850
+Picobirnavirus;B04.909.777.610
+Picornaviridae;B04.909.777.618
+Aphthovirus;B04.909.777.618.070
+Foot-and-Mouth Disease Virus;B04.909.777.618.070.250
+Cardiovirus;B04.909.777.618.170
+Encephalomyocarditis virus;B04.909.777.618.170.200
+Columbia SK virus;B04.909.777.618.170.200.150
+Maus Elberfeld virus;B04.909.777.618.170.200.480
+Mengovirus;B04.909.777.618.170.200.500
+Theilovirus;B04.909.777.618.170.800
+Enterovirus;B04.909.777.618.284
+Enterovirus A, Human;B04.909.777.618.284.180
+Enterovirus B, Human;B04.909.777.618.284.182
+Echovirus 6, Human;B04.909.777.618.284.182.225
+Echovirus 9;B04.909.777.618.284.182.250
+Enterovirus C, Human;B04.909.777.618.284.184
+Enterovirus D, Human;B04.909.777.618.284.188
+Enterovirus, Bovine;B04.909.777.618.284.200
+Enteroviruses, Porcine;B04.909.777.618.284.600
+Poliovirus;B04.909.777.618.284.689
+Erbovirus;B04.909.777.618.290
+Hepatitis Virus, Duck;B04.909.777.618.342
+Hepatovirus;B04.909.777.618.400
+Encephalomyelitis Virus, Avian;B04.909.777.618.400.250
+Hepatitis A virus;B04.909.777.618.400.410
+Hepatitis A Virus, Human;B04.909.777.618.400.410.500
+Kobuvirus;B04.909.777.618.500
+Parechovirus;B04.909.777.618.700
+Rhinovirus;B04.909.777.618.775
+Teschovirus;B04.909.777.618.830
+Reoviridae;B04.909.777.714
+Coltivirus;B04.909.777.714.160
+Colorado tick fever virus;B04.909.777.714.160.200
+Orbivirus;B04.909.777.714.550
+African horse sickness virus;B04.909.777.714.550.050
+Bluetongue virus;B04.909.777.714.550.100
+Hemorrhagic Disease Virus, Epizootic;B04.909.777.714.550.400
+Palyam Virus;B04.909.777.714.550.750
+Orthoreovirus;B04.909.777.714.590
+Orthoreovirus, Avian;B04.909.777.714.590.500
+Orthoreovirus, Mammalian;B04.909.777.714.590.550
+Mammalian orthoreovirus 3;B04.909.777.714.590.550.700
+Rotavirus;B04.909.777.714.790
+Retroviridae;B04.909.777.731
+Alpharetrovirus;B04.909.777.731.070
+Avian leukosis virus;B04.909.777.731.070.100
+Avian myeloblastosis virus;B04.909.777.731.070.110
+Avian Sarcoma Viruses;B04.909.777.731.070.120
+Rous sarcoma virus;B04.909.777.731.070.120.700
+Betaretrovirus;B04.909.777.731.124
+Jaagsiekte sheep retrovirus;B04.909.777.731.124.400
+Mammary Tumor Virus, Mouse;B04.909.777.731.124.500
+Mason-Pfizer monkey virus;B04.909.777.731.124.520
+Deltaretrovirus;B04.909.777.731.200
+Leukemia Virus, Bovine;B04.909.777.731.200.600
+Primate T-lymphotropic virus 1;B04.909.777.731.200.725
+Human T-lymphotropic virus 1;B04.909.777.731.200.725.400
+Simian T-lymphotropic virus 1;B04.909.777.731.200.725.755
+Primate T-lymphotropic virus 2;B04.909.777.731.200.730
+Human T-lymphotropic virus 2;B04.909.777.731.200.730.404
+Simian T-lymphotropic virus 2;B04.909.777.731.200.730.810
+Primate T-lymphotropic virus 3;B04.909.777.731.200.735
+Human T-lymphotropic virus 3;B04.909.777.731.200.735.374
+Simian T-lymphotropic virus 3;B04.909.777.731.200.735.750
+Endogenous Retroviruses;B04.909.777.731.250
+Epsilonretrovirus;B04.909.777.731.260
+Gammaretrovirus;B04.909.777.731.375
+Leukemia Virus, Feline;B04.909.777.731.375.500
+Leukemia Virus, Gibbon Ape;B04.909.777.731.375.510
+Leukemia Virus, Murine;B04.909.777.731.375.525
+Abelson murine leukemia virus;B04.909.777.731.375.525.020
+AKR murine leukemia virus;B04.909.777.731.375.525.050
+Friend murine leukemia virus;B04.909.777.731.375.525.225
+Mink Cell Focus-Inducing Viruses;B04.909.777.731.375.525.580
+Moloney murine leukemia virus;B04.909.777.731.375.525.596
+Radiation Leukemia Virus;B04.909.777.731.375.525.750
+Rauscher Virus;B04.909.777.731.375.525.770
+Spleen Focus-Forming Viruses;B04.909.777.731.375.525.850
+Reticuloendotheliosis Viruses, Avian;B04.909.777.731.375.700
+Reticuloendotheliosis virus;B04.909.777.731.375.700.700
+Sarcoma Virus, Woolly Monkey;B04.909.777.731.375.770
+Sarcoma Viruses, Feline;B04.909.777.731.375.800
+Sarcoma Viruses, Murine;B04.909.777.731.375.860
+Harvey murine sarcoma virus;B04.909.777.731.375.860.400
+Kirsten murine sarcoma virus;B04.909.777.731.375.860.500
+Moloney murine sarcoma virus;B04.909.777.731.375.860.600
+Lentivirus;B04.909.777.731.589
+Lentiviruses, Bovine;B04.909.777.731.589.500
+Immunodeficiency Virus, Bovine;B04.909.777.731.589.500.400
+Lentiviruses, Equine;B04.909.777.731.589.520
+Infectious Anemia Virus, Equine;B04.909.777.731.589.520.400
+Lentiviruses, Feline;B04.909.777.731.589.530
+Immunodeficiency Virus, Feline;B04.909.777.731.589.530.400
+Lentiviruses, Ovine-Caprine;B04.909.777.731.589.600
+Arthritis-Encephalitis Virus, Caprine;B04.909.777.731.589.600.070
+Visna-maedi virus;B04.909.777.731.589.600.900
+Lentiviruses, Primate;B04.909.777.731.589.650
+HIV;B04.909.777.731.589.650.350
+HIV-1;B04.909.777.731.589.650.350.400
+HIV-2;B04.909.777.731.589.650.350.410
+Simian immunodeficiency virus;B04.909.777.731.589.650.800
+Retroviruses, Simian;B04.909.777.731.805
+Leukemia Virus, Gibbon Ape;B04.909.777.731.805.510
+Mason-Pfizer monkey virus;B04.909.777.731.805.550
+Sarcoma Virus, Woolly Monkey;B04.909.777.731.805.601
+Simian immunodeficiency virus;B04.909.777.731.805.700
+Simian T-lymphotropic virus 1;B04.909.777.731.805.851
+Simian T-lymphotropic virus 2;B04.909.777.731.805.855
+Spumavirus;B04.909.777.731.850
+Simian foamy virus;B04.909.777.731.850.750
+Tenuivirus;B04.909.777.827
+Togaviridae;B04.909.777.923
+Alphavirus;B04.909.777.923.054
+Chikungunya virus;B04.909.777.923.054.198
+Encephalitis Virus, Eastern Equine;B04.909.777.923.054.320
+Encephalitis Virus, Venezuelan Equine;B04.909.777.923.054.340
+Encephalitis Virus, Western Equine;B04.909.777.923.054.360
+O'nyong-nyong Virus;B04.909.777.923.054.586
+Ross River virus;B04.909.777.923.054.813
+Semliki forest virus;B04.909.777.923.054.840
+Sindbis Virus;B04.909.777.923.054.860
+Rubivirus;B04.909.777.923.700
+Rubella virus;B04.909.777.923.700.700
+Virion;B04.950
+Nucleocapsid;B04.950.500
+Capsid;B04.950.500.250
+Viroids;B04.956
+Viruses, Unclassified;B04.970
+Anellovirus;B04.970.060
+Torque teno virus;B04.970.060.800
+Nanovirus;B04.970.540
+Picobirnavirus;B04.970.610

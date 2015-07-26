@@ -1,0 +1,20 @@
+1:vomiting;cool extremities;decreased mental;infusion;ICU;emesis;tachycardia;hypoxia;hypotension;cool extremities;clammy extremities
+2:cough;fever;immunosuppressive;prednisone;bronchoscopy;bronchoalveolar;BAL;immunosuppressed;fever;cough;intranuclear;bronchoalveolar
+3:cardiovascular;shortness breath;tachypnea;chest pain;dyspnea;tachypnea;chest pain;calf swelling;calf pain
+4:chest pain;shortness breath;shoulder;jaw;hypertension;renal artery stenosis;hypercholesterolemia;osteoporosis;dementia;atelectasis;chest pain;ST segment;hypertension;sinus tachycardia
+5:joint pain;fatigue;ankle swelling;knees pain;knees swelling;fever;chest pain;fever;migrating joint inflammation
+6:weight loss;sweating;insomnia;diarrhea;hyperreflexia;exophthalmia;sweaty;exophthalmia;weight loss
+7:fatigue;increased sleep;increased appetite;fatigue;concentrate;anhedonia;guilt
+8:snoring;pauses in breathing;restlessness;attention;sleepiness;concentrating;sleepiness;restlessly;snores;sweats;breathes heavily
+9:myalgia;cough;shortness breath;fever;abdominal pain;diarrhea;cyanosis;periorbital edema;fever;myalgia;facial edema;eosinophilia
+10:menstrual;pelvic pain;infertility;ectopic pregnancy;dysmenorrhea;menorrhagia;menometrorrhagia;PMH;ectopic pregnancy;infertility
+11:sensitive cold;tired;decreased appetite;constipation;hyporeflexia;dry skin;sensitivity cold;fatigue;constipation;hyporeflexia;dry skin
+12:accident;skull fracture;fluid dripping;headache;fever;nuchal rigidity;headache;fever;nuchal rigidity
+13:boy;dysphagia;drooling;fever;vocal changes;toxic appearing;muffled voice;delaying vaccines;boy;difficulty breath;stridor;drooling;fever;dysphagia;voice change
+14:gestation;iron deficiency;difficulty swallowing;clotting screen;elevated LDH;urea;electrolytes;alanine aminotransferase;anisocytosis;poikilocytosis;hemosiderin urine;second gestation;anemia resistant;elevated LDH;anisocytosis;poikilocytosis;hemosiderinuria;clotting screen
+15:hypertension;diabetes;cryptogenic stroke;thrombolytic;occasional palpitations;shortness breath;chest pain;hypertension;diabetes;cryptogenic stroke;shortness breath;occasional palpitations
+16:wheezing;allergic rhinitis;audibly wheezing;boy;wheezing
+17:pap smear;HPV;human papilloma virus
+18:shortness breath;lung crackles;ankle edema;jugular venous distension;dyspnea exertion;edema;lung crack
+19:smoking;chronic cough;shortness breath;distended neck veins;barrel shaped chest;wheezes;smoker;dyspnea;chronic cough;respiratory distress;weight loss
+20:cognition personality;poor memory;difficulty expressing;unusual behaviors;repeatedly grab things;cranial nerves;paratonic rigidity;myoclonic jerks;brisk reflexes;change in personality;poor memory;myoclonic jerks
